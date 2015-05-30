@@ -1,0 +1,80 @@
+Package: com.tonykraft.narwhalpro
+Version: 1.0-2
+Architecture: iphoneos-arm
+Maintainer: Tony Kraft <iostonykraft@gmail.com>
+Installed-Size: 92
+Depends: mobilesubstrate
+Filename: debs//com.tonykraft.narwhalpro_1.0-2_iphoneos-arm.deb
+Size: 3720
+MD5sum: 2d5659259841eb5d5281c74710ab2c57
+SHA1: e1451a3bc7517f6b768a68378db7bee750d1cd00
+SHA256: d1f2c720eb316facd31feab59432001ca6c32c7f4b0446759a82cf45b735e7e5
+Section: Tweaks
+Description: Enables pro features and removes jailbreak detection in “narwhal,” a Reddit client for iOS.
+Author: Tony Kraft <iostonykraft@gmail.com>
+Name: narwhalPro
+
+Package: com.tonykraft.noclockanimation
+Version: 1.0-10
+Architecture: iphoneos-arm
+Maintainer: Tony Kraft
+Installed-Size: 208
+Depends: mobilesubstrate
+Filename: debs//com.tonykraft.noclockanimation_1.0-10_iphoneos-arm.deb
+Size: 5056
+MD5sum: ed4e4c1ac264824695e3ce34ff81473e
+SHA1: cd591e2d63bb4ee446df4347c9e5ca6fc482683d
+SHA256: 4d02b5fc8fc0dfee0b0ede9932884e2c9b5d8fc289dddcf4fa10f627fda1b857
+Section: Tweaks
+Description: Disables the live clock animation on springboard to save battery.
+Author: Tony Kraft
+Name: NoClockAnimation
+
+Package: com.tonykraft.novoicecontrol
+Version: 1.0-1
+Architecture: iphoneos-arm
+Maintainer: Tony Kraft <iostonykraft@gmail.com>
+Installed-Size: 88
+Depends: mobilesubstrate
+Filename: debs//com.tonykraft.novoicecontrol_1.0-1_iphoneos-arm.deb
+Size: 3340
+MD5sum: 278802743504289813096376df2f2120
+SHA1: 43173a6ecde18f9efb7ba26afd9f6e1afaac0815
+SHA256: ce4ebefca7d577bb71a64fe81d801055a20cc81a8da3922964b6f09bd934f26f
+Section: Tweaks
+Description: Disables voice control on devices that are on iOS 7 and iOS 8. No options to configure.
+Author: Tony Kraft <iostonykraft@gmail.com>
+Name: NoVoiceControl
+
+Package: com.tonykraft.plexbackgrounder
+Version: 1.0-1
+Architecture: iphoneos-arm
+Maintainer: Tony Kraft
+Installed-Size: 88
+Depends: mobilesubstrate
+Filename: debs//com.tonykraft.plexbackgrounder_1.0-1_iphoneos-arm.deb
+Size: 3884
+MD5sum: 2f0f82e1762b09c633fc5fb1a436043f
+SHA1: 15ec9c214235b28a1d51a25f4a47411c7220bf65
+SHA256: 635b06c8be5403e1a97c02837e04804692f00ee9b3820b8193b7bc49a46a3527
+Section: Tweaks
+Description: Enables backgrounding in Plex, as requested on /r/tweakbounty.
+Author: Tony Kraft
+Name: PlexBackgrounder
+
+Package: com.tonykraft.supporttheunsupported
+Version: 1.0-2
+Architecture: iphoneos-arm
+Maintainer: Tony Kraft
+Installed-Size: 88
+Depends: mobilesubstrate
+Filename: debs//com.tonykraft.supporttheunsupported_1.0-2_iphoneos-arm.deb
+Size: 3470
+MD5sum: e817a792754663d454143e18b030d60f
+SHA1: 73c98b3067548d831305cf24533ca2e956aea58a
+SHA256: 964fb54c615fb92a97ea4fa75223edd7201f1e423aa026a60b85cb5ac9a09368
+Section: Tweaks
+Description: Allows iPhones to use “unsupported” accessories. Compatible with iOS 7 and iOS 8.
+Author: Tony Kraft
+Name: SupportTheUnsupported
+
