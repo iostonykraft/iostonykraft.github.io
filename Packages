@@ -30,6 +30,22 @@ Description: Disables the live clock animation on springboard to save battery.
 Author: Tony Kraft
 Name: NoClockAnimation
 
+Package: com.tonykraft.nokiksmiley
+Version: 0.0.1-1
+Architecture: iphoneos-arm
+Maintainer: Tony Kraft
+Installed-Size: 88
+Depends: mobilesubstrate, firmware=<=7.0
+Filename: ./debs//com.tonykraft.nokiksmiley_0.0.1-1_iphoneos-arm.deb
+Size: 3372
+MD5sum: 02fa917fefab89f47760b58f57569294
+SHA1: 0da632039d2efbf54af80ef323f103186d15dc4b
+SHA256: cebde6ad994ccabcb2479010e2455fceafb04c31b8275a1d1dbe1b6b80a882a9
+Section: Tweaks
+Description: Allows the user to use emoticons i.e. “:P” “:)” etc. in Kik. Compatible with iOS 7 and iOS 8.
+Author: Tony Kraft
+Name: NoKikSmiley
+
 Package: com.tonykraft.novoicecontrol
 Version: 1.0-1
 Architecture: iphoneos-arm
