@@ -79,16 +79,16 @@ Author: Tony Kraft
 Name: NoClockAnimation
 
 Package: com.tonykraft.nokiksmiley
-Version: 0.0.1-2
+Version: 1.0-1
 Architecture: iphoneos-arm
 Maintainer: Tony Kraft
 Installed-Size: 88
-Depends: mobilesubstrate, firmware <=7.0
-Filename: ./debs//com.tonykraft.nokiksmiley_0.0.1-2_iphoneos-arm.deb
-Size: 3368
-MD5sum: db7a337183d71bae40bceb0eb7849f91
-SHA1: 993c117e9b500d3099d437528f81ea351e4c2a7d
-SHA256: 6fcefb1238471b9c5d84467239e370c9c0e1fe36551142ac3cb1fd99ac377cbc
+Depends: mobilesubstrate, firmware (>= 7.0)
+Filename: ./debs//com.tonykraft.nokiksmiley_1.0-1_iphoneos-arm.deb
+Size: 3370
+MD5sum: 9b42a0eb9e14ac7432d47946dffcebd7
+SHA1: 146e488a3378ec92cd4d5d8d6a8c501c733d7a28
+SHA256: a550423e8d753815347881293a13bdd4634f6cb7d4e87bcda7cc32dfc04fa991
 Section: Tweaks
 Description: Allows the user to use emoticons i.e. “:P” “:)” etc. in Kik. Compatible with iOS 7 and iOS 8.
 Author: Tony Kraft
