@@ -110,6 +110,22 @@ Description: Disables voice control on devices that are on iOS 7 and iOS 8. No o
 Author: Tony Kraft <iostonykraft@gmail.com>
 Name: NoVoiceControl
 
+Package: com.tonykraft.pandorapro
+Version: 1.0-22
+Architecture: iphoneos-arm
+Maintainer: Tony Kraft <iostonykraft@gmail.com>
+Installed-Size: 88
+Depends: mobilesubstrate
+Filename: ./debs//com.tonykraft.pandorapro_1.0-22_iphoneos-arm.deb
+Size: 5674
+MD5sum: 8616e5c1e985e64d47c4906de0c4fc98
+SHA1: 46c4e6e9498e6dec6422845ecea513ecb510c71f
+SHA256: 487edf928a7ad884322d2f6b066bbb3774bbef95099e25ab3b87c406df50f5f4
+Section: Tweaks
+Description: Unlimited Skips, No Ads whatsoever, No Skip Delay (You don't need to wait for the button to appear), Higher Bit Rate for WiFi and High Quality Cellular, No Jailbreak Detection, The "PandoraOne" Splash Screen.
+Author: Tony Kraft <iostonykraft@gmail.com>
+Name: PandoraPro
+
 Package: com.tonykraft.plexbackgrounder
 Version: 1.0-1
 Architecture: iphoneos-arm
