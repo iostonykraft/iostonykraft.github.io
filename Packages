@@ -78,6 +78,22 @@ Description: Disables the live clock animation on springboard to save battery.
 Author: Tony Kraft
 Name: NoClockAnimation
 
+Package: com.tonykraft.nocontrolcenter
+Version: 1.0-1
+Architecture: iphoneos-arm
+Maintainer: Tony Kraft
+Installed-Size: 88
+Depends: mobilesubstrate
+Filename: ./debs//com.tonykraft.nocontrolcenter_1.0-1_iphoneos-arm.deb
+Size: 3402
+MD5sum: 6f1692dc60d8e0823f286c3cb6dab269
+SHA1: 49410b12ceb379b4ffaf81fcd2ca7c80748ed525
+SHA256: e94cffa2cd3ad375f58a5bbde3407b97f83a40408171af960ed36f3ff2e8ac99
+Section: Tweaks
+Description: No Control Center, ever.
+Author: Tony Kraft
+Name: NoControlCenter
+
 Package: com.tonykraft.nokiksmiley
 Version: 1.0-1
 Architecture: iphoneos-arm
