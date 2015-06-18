@@ -1,3 +1,20 @@
+Package: com.julioverne.crackle-ads-remover
+Version: 1.1
+Architecture: iphoneos-arm
+Maintainer: Julio
+Depends: mobilesubstrate
+Filename: ./debs//com.julioverne.crackle-ads-remover_1.1_iphoneos-arm.deb
+Size: 12166
+MD5sum: 45f33f10e4221d67badee993debcd209
+SHA1: fddfa138b1bc05dfd289d33b3b22ba3c31dcbede
+SHA256: adf760176ccf3ed23e02b79276954edd6d76f30e42874c6cab24f5612358b9b5
+Section: Tweaks
+Homepage: http://twitter.com/ijulioverne
+Description: Remove ADs, Splash videos, Player Watermark from app Crackle (AppStore)
+Author: julioverne
+Icon: file:///Library/Application Support/Crackle ADs Remover/Icon.png
+Name: Crackle ADs Remover
+
 Package: com.julioverne.mobilegestaltfaker
 Version: 1.1
 Architecture: iphoneos-arm
