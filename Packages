@@ -159,6 +159,22 @@ Description: Unlimited Skips, No Ads whatsoever, No Skip Delay (You don't need t
 Author: Tony Kraft <iostonykraft@gmail.com>
 Name: PandoraPro
 
+Package: com.tonykraft.playboxadremover
+Version: 1.0-1
+Architecture: iphoneos-arm
+Maintainer: Tony Kraft <iostonykraft@gmail.com>
+Installed-Size: 88
+Depends: mobilesubstrate
+Filename: ./debs//com.tonykraft.playboxadremover_1.0-1_iphoneos-arm.deb
+Size: 3446
+MD5sum: 6c330a038eba8a2269910ae80c689945
+SHA1: 49e5cd18b17373f5c594d12072a178d7a42aeb27
+SHA256: cb4f0f1b0863250dc1f60777de4171d6cb8448a303bb0ee98a7315e2fb3fdf90
+Section: Tweaks
+Description: Disables ads in Playbox HD.
+Author: Tony Kraft <iostonykraft@gmail.com>
+Name: Playbox HD Ad Remover
+
 Package: com.tonykraft.plexbackgrounder
 Version: 1.0-1
 Architecture: iphoneos-arm
