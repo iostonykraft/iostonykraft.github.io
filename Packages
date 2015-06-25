@@ -207,3 +207,19 @@ Description: Allows iPhones to use “unsupported” accessories. Compatible wit
 Author: Tony Kraft
 Name: SupportTheUnsupported
 
+Package: ninja.haifisch.novoicemessaging
+Version: 0.0.1-3
+Architecture: iphoneos-arm
+Maintainer: Haifisch
+Installed-Size: 88
+Depends: mobilesubstrate
+Filename: ./debs//ninja.haifisch.novoicemessaging_0.0.1-3_iphoneos-arm.deb
+Size: 3542
+MD5sum: feb58d86f75668c18230681ca50af342
+SHA1: fcb0edd8df39db0bc39bb31d0a705d6180063df9
+SHA256: e7ee23ce13723e72d7fec02eb1ea6b0389bc474d3a92f5b2bc3b6449cc58af45
+Section: Tweaks
+Description: An awesome MobileSubstrate tweak!
+Author: Haifisch
+Name: NoVoiceMessaging8
+
