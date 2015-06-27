@@ -160,16 +160,16 @@ Author: Tony Kraft <iostonykraft@gmail.com>
 Name: PandoraPro
 
 Package: com.tonykraft.playboxadremover
-Version: 1.0-1
+Version: 1.0-2
 Architecture: iphoneos-arm
 Maintainer: Tony Kraft <iostonykraft@gmail.com>
 Installed-Size: 88
 Depends: mobilesubstrate
-Filename: ./debs//com.tonykraft.playboxadremover_1.0-1_iphoneos-arm.deb
-Size: 3446
-MD5sum: 6c330a038eba8a2269910ae80c689945
-SHA1: 49e5cd18b17373f5c594d12072a178d7a42aeb27
-SHA256: cb4f0f1b0863250dc1f60777de4171d6cb8448a303bb0ee98a7315e2fb3fdf90
+Filename: ./debs//com.tonykraft.playboxadremover_1.0-2_iphoneos-arm.deb
+Size: 3868
+MD5sum: 56154b7be6942ec31da63da9067c97c2
+SHA1: 356c9844fbaf3d55f61a3d501fcc173a38e8f002
+SHA256: c38715029bd3ce1f2ddab062fdc32b25ef165c59e5a46603b2bf2eac2cfa5172
 Section: Tweaks
 Description: Disables ads in Playbox HD.
 Author: Tony Kraft <iostonykraft@gmail.com>
