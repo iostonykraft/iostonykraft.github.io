@@ -79,22 +79,6 @@ Description: Enables pro features and removes jailbreak detection in “narwhal,
 Author: Tony Kraft <iostonykraft@gmail.com>
 Name: narwhalPro
 
-Package: com.tonykraft.noclockanimation
-Version: 1.0-10
-Architecture: iphoneos-arm
-Maintainer: Tony Kraft
-Installed-Size: 208
-Depends: mobilesubstrate
-Filename: ./debs//com.tonykraft.noclockanimation_1.0-10_iphoneos-arm.deb
-Size: 5056
-MD5sum: ed4e4c1ac264824695e3ce34ff81473e
-SHA1: cd591e2d63bb4ee446df4347c9e5ca6fc482683d
-SHA256: 4d02b5fc8fc0dfee0b0ede9932884e2c9b5d8fc289dddcf4fa10f627fda1b857
-Section: Tweaks
-Description: Disables the live clock animation on springboard to save battery.
-Author: Tony Kraft
-Name: NoClockAnimation
-
 Package: com.tonykraft.nocontrolcenter
 Version: 1.0-1
 Architecture: iphoneos-arm
@@ -126,6 +110,22 @@ Section: Tweaks
 Description: Allows the user to use emoticons i.e. “:P” “:)” etc. in Kik. Compatible with iOS 7 and iOS 8.
 Author: Tony Kraft
 Name: NoKikSmiley
+
+Package: com.tonykraft.nosiriemergency
+Version: 1.0-4
+Architecture: iphoneos-arm
+Maintainer: Tony Kraft
+Installed-Size: 200
+Depends: mobilesubstrate, firmware (>= 8.0)
+Filename: ./debs//com.tonykraft.nosiriemergency_1.0-4_iphoneos-arm.deb
+Size: 5364
+MD5sum: b8e56b64fe3a856299fe66019d292980
+SHA1: 921788e4eac96052357a82a291db93e10f4e7625
+SHA256: 40cffe82485fa5f3766d450e056aefcfe5095346a77110fd270d0d2306118db1
+Section: Tweaks
+Description: Disallows Siri to automatically call 911, to prevent any accidental calls. Inspired by the “Siri 9/11 conspiracy” joke. Note: You can still call 911 with Siri by pressing the “call” button after saying 911, this simply disables its auto-call function.
+Author: Tony Kraft
+Name: NoSiriEmergency
 
 Package: com.tonykraft.novoicecontrol
 Version: 1.0-1
