@@ -79,6 +79,22 @@ Description: Enables pro features and removes jailbreak detection in “narwhal,
 Author: Tony Kraft <iostonykraft@gmail.com>
 Name: narwhalPro
 
+Package: com.tonykraft.noclockanimation
+Version: 1.0-12
+Architecture: iphoneos-arm
+Maintainer: Tony Kraft
+Installed-Size: 200
+Depends: mobilesubstrate
+Filename: ./debs//com.tonykraft.noclockanimation_1.0-12_iphoneos-arm.deb
+Size: 4810
+MD5sum: 7375f789ba629a29aab10078abbf1878
+SHA1: 9f9faaef912ad958b2988a87cce30a6ab66c98f3
+SHA256: 7cffc49cb68bd247a84487dce1123a690d0df849e123a5fe6a83ec35ed320820
+Section: Tweaks
+Description: Disables the live clock animation on springboard to save battery.
+Author: Tony Kraft
+Name: NoClockAnimation
+
 Package: com.tonykraft.nocontrolcenter
 Version: 1.0-1
 Architecture: iphoneos-arm
