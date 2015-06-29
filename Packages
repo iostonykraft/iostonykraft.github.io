@@ -175,6 +175,22 @@ Description: Unlimited Skips, No Ads whatsoever, No Skip Delay (You don't need t
 Author: Tony Kraft <iostonykraft@gmail.com>
 Name: PandoraPro
 
+Package: com.tonykraft.perkenhancer
+Version: 0.1~beta-2
+Architecture: iphoneos-arm
+Maintainer: Tony Kraft <iostonykraft@gmail.com>
+Installed-Size: 92
+Depends: mobilesubstrate
+Filename: ./debs//com.tonykraft.perkenhancer_0.1~beta-2_iphoneos-arm.deb
+Size: 4032
+MD5sum: ab2808fe22b16119efa93a879fdd3cc0
+SHA1: 473e67da856330d8450cc16e0eb7c457fc092ece
+SHA256: 169ffa1312e16374fe55f0880fe00beef39085a88ab9e59ee9b8807f82789ea6
+Section: Tweaks
+Description: Blocks the annoying pop-ups, and disables adblocker detection :)
+Author: Tony Kraft (PTVoB) <iostonykraft@gmail.com>
+Name: PerkEnhancer
+
 Package: com.tonykraft.playboxadremover
 Version: 1.0-2
 Architecture: iphoneos-arm
