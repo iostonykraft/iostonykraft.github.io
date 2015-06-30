@@ -48,6 +48,22 @@ Depiction: http://www.myrepospace.com/
 Name: Recommended Repos
 Sponsor: myRepoSpace.com <http://www.myrepospace.com/>
 
+Package: com.tonykraft.applemusicpro
+Version: 0.1~alpha-1
+Architecture: iphoneos-arm
+Maintainer: Tony Kraft <iostonykraft@gmail.com>
+Installed-Size: 200
+Depends: mobilesubstrate, firmware (>= 8.4)
+Filename: ./debs//com.tonykraft.applemusicpro_0.1~alpha-1_iphoneos-arm.deb
+Size: 5410
+MD5sum: 21f45717da74b94cebd85c1abf84cea2
+SHA1: 1f4a5536ad78e4c1affd34d022b55e366b6e27aa
+SHA256: f14f8ca4d0f901c56b5a83b73775ce17d59c8af593a2c033e8b9b2798636b548
+Section: Tweaks
+Description: This is alpha, do not consider it full release. Please email me and tell me if it works. Features so far: Unlimited Skips and No Ads, more coming soon. iOS 8.4 and above only.
+Author: Tony Kraft <iostonykraft@gmail.com>
+Name: AppleMusicPro
+
 Package: com.tonykraft.gba4ios
 Version: 2.1b4
 Architecture: iphoneos-arm
@@ -126,22 +142,6 @@ Section: Tweaks
 Description: Allows the user to use emoticons i.e. “:P” “:)” etc. in Kik. Compatible with iOS 7 and iOS 8.
 Author: Tony Kraft
 Name: NoKikSmiley
-
-Package: com.tonykraft.nosiriemergency
-Version: 1.0-4
-Architecture: iphoneos-arm
-Maintainer: Tony Kraft
-Installed-Size: 200
-Depends: mobilesubstrate, firmware (>= 8.0)
-Filename: ./debs//com.tonykraft.nosiriemergency_1.0-4_iphoneos-arm.deb
-Size: 5364
-MD5sum: b8e56b64fe3a856299fe66019d292980
-SHA1: 921788e4eac96052357a82a291db93e10f4e7625
-SHA256: 40cffe82485fa5f3766d450e056aefcfe5095346a77110fd270d0d2306118db1
-Section: Tweaks
-Description: Disallows Siri to automatically call 911, to prevent any accidental calls. Inspired by the “Siri 9/11 conspiracy” joke. Note: You can still call 911 with Siri by pressing the “call” button after saying 911, this simply disables its auto-call function.
-Author: Tony Kraft
-Name: NoSiriEmergency
 
 Package: com.tonykraft.novoicecontrol
 Version: 1.0-1
