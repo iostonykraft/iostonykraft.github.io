@@ -176,16 +176,16 @@ Author: Tony Kraft <iostonykraft@gmail.com>
 Name: PandoraPro
 
 Package: com.tonykraft.perkenhancer
-Version: 0.1~beta-2
+Version: 0.1~beta-3
 Architecture: iphoneos-arm
 Maintainer: Tony Kraft <iostonykraft@gmail.com>
 Installed-Size: 92
 Depends: mobilesubstrate
-Filename: ./debs//com.tonykraft.perkenhancer_0.1~beta-2_iphoneos-arm.deb
-Size: 4032
-MD5sum: ab2808fe22b16119efa93a879fdd3cc0
-SHA1: 473e67da856330d8450cc16e0eb7c457fc092ece
-SHA256: 169ffa1312e16374fe55f0880fe00beef39085a88ab9e59ee9b8807f82789ea6
+Filename: ./debs//com.tonykraft.perkenhancer_0.1~beta-3_iphoneos-arm.deb
+Size: 4188
+MD5sum: c3427478b494d108dcc81742ebddf1b1
+SHA1: 8e70ed0189f35b993ee543e9c40436fd4d449585
+SHA256: 8654237191a4b30b128844a846a1dce868b524690d708e9ff7e012ba408bcd3c
 Section: Tweaks
 Description: Blocks the annoying pop-ups, and disables adblocker detection :)
 Author: Tony Kraft (PTVoB) <iostonykraft@gmail.com>
