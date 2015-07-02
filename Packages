@@ -1,3 +1,17 @@
+Package: com.irec
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Tony Kraft <iostonykraft@gmail.com>
+Filename: ./debs//iRecApp.deb
+Size: 1363446
+MD5sum: 1e3207dcea0a305cef902e796b767909
+SHA1: 6083239a549ce4eb63a6d795777e3d2d545bb52d
+SHA256: dc415a0c9acbbf1e1b4685d585b55d4946efefbcbd6adb2f35d011d2486140e6
+Section: Apps
+Description: Screen recorder for iOS 7 and iOS 8.
+Author: Emu4iOS Team
+Name: iRec
+
 Package: com.julioverne.crackle-ads-remover
 Version: 1.1
 Architecture: iphoneos-arm
