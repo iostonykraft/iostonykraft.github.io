@@ -141,6 +141,22 @@ Description: No Control Center, ever.
 Author: Tony Kraft
 Name: NoControlCenter
 
+Package: com.tonykraft.nocydiaappstoreredirect
+Version: 1.0-1
+Architecture: iphoneos-arm
+Maintainer: Tony Kraft <iostonykraft@gmail.com>
+Installed-Size: 88
+Depends: mobilesubstrate
+Filename: ./debs//com.tonykraft.nocydiaappstoreredirect_1.0-1_iphoneos-arm.deb
+Size: 3412
+MD5sum: 783b730718affe7c96bbc8df85c88351
+SHA1: 8e700d6c88778421b2016469de90eef271a503de
+SHA256: ab9a08f4052d738de115ee2155ba5b5bdb696736c506b65fcb73d5565e92ae17
+Section: Tweaks
+Description: Blocks redirect popups in Cydia.
+Author: Tony Kraft <iostonykraft@gmail.com>
+Name: NoCydiaAppstoreRedirect
+
 Package: com.tonykraft.nokiksmiley
 Version: 1.0-1
 Architecture: iphoneos-arm
