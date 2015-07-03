@@ -12,6 +12,23 @@ Description: Screen recorder for iOS 7 and iOS 8.
 Author: Emu4iOS Team
 Name: iRec
 
+Package: com.julioverne.0cydiaenablefix
+Version: 0.1-1
+Architecture: iphoneos-arm
+Maintainer: Julio
+Depends: cydia (>= 1.1.18)
+Filename: ./debs//com.julioverne.0cydiaenablefix.deb
+Size: 828
+MD5sum: 2426a0526bd4394a773b0d95c5452127
+SHA1: dc1770963645508f7d71394f3303032bc07ccfa0
+SHA256: e59c11f88ce0f38b2e36918391d8906356bd25df8a13b8680d5d63c8c6609eaa
+Section: Tweaks
+Homepage: http://twitter.com/ijulioverne
+Description: Fix error on uninstall "Cydia Enable" or "CyDown" if updated Cydia to version 1.1.18 with older version of CyDown or Cydia Enable.
+Author: julioverne
+Icon: file:///Library/PreferenceBundles/CydiaEnable.bundle/Icon.png
+Name: Cydia Enable Fix
+
 Package: com.julioverne.crackle-ads-remover
 Version: 1.1
 Architecture: iphoneos-arm
