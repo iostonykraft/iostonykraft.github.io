@@ -63,32 +63,6 @@ Author: julioverne
 Icon: file:///Applications/MGFakerApp.app/Icon.png
 Name: MobileGestaltFaker
 
-Package: com.myrepospace.Tony999.infinidock
-Version: 2.1.2-1
-Architecture: iphoneos-arm
-Maintainer: Tony999
-Installed-Size: 212
-Pre-Depends: firmware (>= 8.0)
-Depends: mobilesubstrate, preferenceloader (>= 1.1), com.chpwn.iconsupport
-Conflicts: com.saurik.iphone.fid, com.weiphone.setwallpaper3, com.macciti.6icondock, com.imario.supremepreferencesthree, com.thecyberduck.springboardenhancer
-Replaces: com.saurik.iphone.fid, com.weiphone.setwallpaper3, com.macciti.6icondock, com.imario.supremepreferencesthree, com.thecyberduck.springboardenhancer
-Provides: com.saurik.iphone.fid, com.macciti.6icondock
-Filename: ./debs//com.chpwn.infinidock_2.1.2-1_ios8_iphoneos-arm.deb
-Size: 62894
-MD5sum: 42ff0cafff33763a81cde641842937a2
-SHA1: 0b16577ad49ccf3fb939601c97a75a2184a320e0
-SHA256: 83db4a686a3b010e7f345fdb00a8ab815776031858c77291aa089e28ab7a4de0
-Section: Tweaks
-Homepage: http://chpwn.com/cydia/infinidock.html
-Description: Scroll your dock with infinite icons!
-Tag: cydia::commercial, purpose::extension
-Author: chpwn
-Depiction: http://chpwn.com/cydia/infinidock.html
-Dev: chpwn
-Icon: file:///Library/PreferenceLoader/Preferences/Infinidock.png
-Name: Infinidock (iOS 8)
-Sponsor: thebigboss.org <http://thebigboss.org>
-
 Package: com.myrepospace.Tony999.recommende-list
 Version: 1.1
 Architecture: iphoneos-arm
@@ -104,6 +78,28 @@ Author: Tony999
 Depiction: http://www.myrepospace.com/
 Name: Recommended Repos
 Sponsor: myRepoSpace.com <http://www.myrepospace.com/>
+
+Package: com.tony.infinidock8
+Version: 2.1.2-1k
+Architecture: iphoneos-arm
+Maintainer: Tony Kraft
+Installed-Size: 212
+Pre-Depends: firmware (>= 8.0)
+Depends: mobilesubstrate, preferenceloader (>= 1.1), com.chpwn.iconsupport, firmware (>= 8.0)
+Conflicts: com.saurik.iphone.fid, com.weiphone.setwallpaper3, com.macciti.6icondock, com.imario.supremepreferencesthree, com.thecyberduck.springboardenhancer
+Replaces: com.saurik.iphone.fid, com.weiphone.setwallpaper3, com.macciti.6icondock, com.imario.supremepreferencesthree, com.thecyberduck.springboardenhancer
+Provides: com.saurik.iphone.fid, com.macciti.6icondock
+Filename: ./debs//infinidock.deb
+Size: 62850
+MD5sum: 10d7bc0c87187c55862fa3d344a52c23
+SHA1: f3da03848b672aa89a1d0c815755ac8f5f64a232
+SHA256: 4905e2db4703add0980192283c529fbdc337172c22145d27a22ccb24cc1bc8eb
+Section: Tweaks
+Description: Scroll your dock with infinite icons!
+Author: chpwn
+Dev: chpwn
+Icon: file:///Library/PreferenceLoader/Preferences/Infinidock.png
+Name: Infinidock (iOS 8)
 
 Package: com.tonykraft.applemusicpro
 Version: 0.1~alpha-1
