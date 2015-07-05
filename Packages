@@ -79,6 +79,23 @@ Depiction: http://www.myrepospace.com/
 Name: Recommended Repos
 Sponsor: myRepoSpace.com <http://www.myrepospace.com/>
 
+Package: com.ptvob.perkenhancer
+Version: 0.1~beta-5
+Architecture: iphoneos-arm
+Maintainer: PTVoB <devios@icloud.com>
+Installed-Size: 92
+Depends: mobilesubstrate
+Replaces: com.tonykraft.perkenhancer
+Filename: ./debs//com.ptvob.perkenhancer_0.1~beta-5_iphoneos-arm.deb
+Size: 4422
+MD5sum: a7b2bde1830877e7fc48dd5c6e817f5f
+SHA1: cdec3b16a3f1e9d4a220b20fad0e7121612d2412
+SHA256: bb2bf24e2fec876c39caf8abb8b7dafc29eebd5d8e75c001593fe530f7653a23
+Section: Tweaks
+Description: Blocks the annoying pop-ups, disables adblocker detection, and tricks Perk into thinking foreign users are in the US.
+Author: PTVoB <devios@icloud.com>
+Name: PerkEnhancer
+
 Package: com.tony.infinidock8
 Version: 2.1.2-1k
 Architecture: iphoneos-arm
@@ -243,22 +260,6 @@ Section: Tweaks
 Description: Unlimited Skips, No Ads whatsoever, No Skip Delay (You don't need to wait for the button to appear), Higher Bit Rate for WiFi and High Quality Cellular, No Jailbreak Detection, The "PandoraOne" Splash Screen.
 Author: Tony Kraft <iostonykraft@gmail.com>
 Name: PandoraPro
-
-Package: com.tonykraft.perkenhancer
-Version: 0.1~beta-3
-Architecture: iphoneos-arm
-Maintainer: Tony Kraft <iostonykraft@gmail.com>
-Installed-Size: 92
-Depends: mobilesubstrate
-Filename: ./debs//com.tonykraft.perkenhancer_0.1~beta-3_iphoneos-arm.deb
-Size: 4188
-MD5sum: c3427478b494d108dcc81742ebddf1b1
-SHA1: 8e70ed0189f35b993ee543e9c40436fd4d449585
-SHA256: 8654237191a4b30b128844a846a1dce868b524690d708e9ff7e012ba408bcd3c
-Section: Tweaks
-Description: Blocks the annoying pop-ups, and disables adblocker detection :)
-Author: Tony Kraft (PTVoB) <iostonykraft@gmail.com>
-Name: PerkEnhancer
 
 Package: com.tonykraft.playboxadremover
 Version: 1.0-2
