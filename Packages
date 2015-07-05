@@ -63,6 +63,32 @@ Author: julioverne
 Icon: file:///Applications/MGFakerApp.app/Icon.png
 Name: MobileGestaltFaker
 
+Package: com.myrepospace.Tony999.infinidock
+Version: 2.1.2-1
+Architecture: iphoneos-arm
+Maintainer: Tony999
+Installed-Size: 212
+Pre-Depends: firmware (>= 8.0)
+Depends: mobilesubstrate, preferenceloader (>= 1.1), com.chpwn.iconsupport
+Conflicts: com.saurik.iphone.fid, com.weiphone.setwallpaper3, com.macciti.6icondock, com.imario.supremepreferencesthree, com.thecyberduck.springboardenhancer
+Replaces: com.saurik.iphone.fid, com.weiphone.setwallpaper3, com.macciti.6icondock, com.imario.supremepreferencesthree, com.thecyberduck.springboardenhancer
+Provides: com.saurik.iphone.fid, com.macciti.6icondock
+Filename: ./debs//com.chpwn.infinidock_2.1.2-1_ios8_iphoneos-arm.deb
+Size: 62894
+MD5sum: 42ff0cafff33763a81cde641842937a2
+SHA1: 0b16577ad49ccf3fb939601c97a75a2184a320e0
+SHA256: 83db4a686a3b010e7f345fdb00a8ab815776031858c77291aa089e28ab7a4de0
+Section: Tweaks
+Homepage: http://chpwn.com/cydia/infinidock.html
+Description: Scroll your dock with infinite icons!
+Tag: cydia::commercial, purpose::extension
+Author: chpwn
+Depiction: http://chpwn.com/cydia/infinidock.html
+Dev: chpwn
+Icon: file:///Library/PreferenceLoader/Preferences/Infinidock.png
+Name: Infinidock (iOS 8)
+Sponsor: thebigboss.org <http://thebigboss.org>
+
 Package: com.myrepospace.Tony999.recommende-list
 Version: 1.1
 Architecture: iphoneos-arm
