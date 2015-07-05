@@ -196,6 +196,22 @@ Description: Allows the user to use emoticons i.e. “:P” “:)” etc. in Kik
 Author: Tony Kraft
 Name: NoKikSmiley
 
+Package: com.tonykraft.nolsstatusbar
+Version: 1.0-1
+Architecture: iphoneos-arm
+Maintainer: Tony Kraft
+Installed-Size: 88
+Depends: mobilesubstrate
+Filename: ./debs//com.tonykraft.nolsstatusbar_1.0-1_iphoneos-arm.deb
+Size: 3334
+MD5sum: 6db8e278901613261c9acae3bc586670
+SHA1: f4a5d68674fead4b10e93411bd22a7089e4f62c9
+SHA256: 67d9b284a20d713c918aaed71c7b0c174aae2b110083b9acded78c778c44f736
+Section: Tweaks
+Description: Hides status bar on the lock screen on iOS 7 and 8.
+Author: Tony Kraft
+Name: NoLSStatusBar
+
 Package: com.tonykraft.novoicecontrol
 Version: 1.0-1
 Architecture: iphoneos-arm
