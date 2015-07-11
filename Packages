@@ -245,6 +245,21 @@ Description: Unlimited Skips, No Ads whatsoever, No Skip Delay (You don't need t
 Author: Tony Kraft <iostonykraft@gmail.com>
 Name: PandoraPro
 
+Package: com.tonykraft.pineapplelogo
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Tony Kraft <iostonykraft@gmail.com>
+Depends: mobilesubstrate
+Filename: ./debs//PineappleBootlogo.deb
+Size: 45992
+MD5sum: 2364f46357df9f553cf45d8bf0857360
+SHA1: ce9ea01c748479f858f24ace24d57165015b860d
+SHA256: 6bc2fd2335a0f119536abfc0e543836d0ef11367acd63c22b5b2555ea38cc40f
+Section: Bootlogos
+Description: Redsn0w Pineapple bootlogo. Animate or Animate for iOS 8 is required.
+Author: Tony Kraft<iostonykraft@gmail.com>
+Name: Redsn0w Pineapple Bootlogo
+
 Package: com.tonykraft.playboxadremover
 Version: 1.0-2
 Architecture: iphoneos-arm
