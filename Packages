@@ -246,18 +246,18 @@ Author: Tony Kraft <iostonykraft@gmail.com>
 Name: PandoraPro
 
 Package: com.tonykraft.pineapplelogo
-Version: 1.0
+Version: 1.0.1
 Architecture: iphoneos-arm
 Maintainer: Tony Kraft <iostonykraft@gmail.com>
 Depends: mobilesubstrate
-Filename: ./debs//PineappleBootlogo.deb
-Size: 45992
-MD5sum: 2364f46357df9f553cf45d8bf0857360
-SHA1: ce9ea01c748479f858f24ace24d57165015b860d
-SHA256: 6bc2fd2335a0f119536abfc0e543836d0ef11367acd63c22b5b2555ea38cc40f
+Filename: ./debs//PineappleBootlogo1.deb
+Size: 46010
+MD5sum: 520c0b2ba20ae39febe8014a194815e9
+SHA1: 7c4727b94c829feac4c47aa14a15ef9375409504
+SHA256: c95e9f876171c94e70a93db69ad0aa4c71201248e5f2660799b83ef7e78af701
 Section: Bootlogos
 Description: Redsn0w Pineapple bootlogo. Animate or Animate for iOS 8 is required.
-Author: Tony Kraft<iostonykraft@gmail.com>
+Author: Tony Kraft <iostonykraft@gmail.com>
 Name: Redsn0w Pineapple Bootlogo
 
 Package: com.tonykraft.playboxadremover
