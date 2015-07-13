@@ -231,6 +231,22 @@ Description: Hides status bar on the lock screen on iOS 7 and 8.
 Author: Tony Kraft
 Name: NoLSStatusBar
 
+Package: com.tonykraft.nosnapchatjailbreak
+Version: 1.0-1
+Architecture: iphoneos-arm
+Maintainer: Tony Kraft <iostonykraft@gmail.com>
+Installed-Size: 88
+Depends: mobilesubstrate
+Filename: ./debs//com.tonykraft.nosnapchatjailbreak_1.0-1_iphoneos-arm.deb
+Size: 3614
+MD5sum: a044602a86f28be049f8fc8e4061558f
+SHA1: 60a629961b9c599d9e3967354bb200f39fad68f7
+SHA256: 4f1957b92ebeff2188a808be8cefba5574fe1bebf7e4b2e11599eb0af7c15c3d
+Section: Tweaks
+Description: Disables jailbreak/crack detection in Snapchat.
+Author: Tony Kraft <iostonykraft@gmail.com>
+Name: NoSnapchatJailbreak
+
 Package: com.tonykraft.novoicecontrol
 Version: 1.0-1
 Architecture: iphoneos-arm
