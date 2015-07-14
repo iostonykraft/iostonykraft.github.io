@@ -82,17 +82,17 @@ Author: Lunatik
 Name: xCon
 
 Package: com.ptvob.perkenhancer
-Version: 0.1~beta-5
+Version: 0.1~beta-6
 Architecture: iphoneos-arm
 Maintainer: PTVoB <devios@icloud.com>
 Installed-Size: 92
 Depends: mobilesubstrate
 Replaces: com.tonykraft.perkenhancer
-Filename: ./debs//com.ptvob.perkenhancer_0.1~beta-5_iphoneos-arm.deb
-Size: 4422
-MD5sum: a7b2bde1830877e7fc48dd5c6e817f5f
-SHA1: cdec3b16a3f1e9d4a220b20fad0e7121612d2412
-SHA256: bb2bf24e2fec876c39caf8abb8b7dafc29eebd5d8e75c001593fe530f7653a23
+Filename: ./debs//com.ptvob.perkenhancer_0.1~beta-6_iphoneos-arm.deb
+Size: 4176
+MD5sum: 1562e32c7ceae49490e99626a6b6d05d
+SHA1: c1a60eed95c774187746d0e9ec2820c5a5d31bf0
+SHA256: 228821c2e08efd0bd75c08650ae5cf564fc4469a8440eaad30077dc1f14cc075
 Section: Tweaks
 Description: Blocks the annoying pop-ups, disables adblocker detection, and tricks Perk into thinking foreign users are in the US.
 Author: PTVoB <devios@icloud.com>
