@@ -63,22 +63,6 @@ Author: julioverne
 Icon: file:///Applications/MGFakerApp.app/Icon.png
 Name: MobileGestaltFaker
 
-Package: com.myrepospace.Tony999.recommende-list
-Version: 1.1
-Architecture: iphoneos-arm
-Maintainer: Tony999 <ktony3985@gmail.com>
-Filename: ./debs//RecommendedRepos.deb
-Size: 886
-MD5sum: d73cd1c397e75cb2f10c9269f7e15583
-SHA1: 38e954784c85eeb9b079dcfbb3cd318106a814c8
-SHA256: 6b29468a0038102db2b1666bbd2a8145a2626fff2a4c22940fa5606ccb43cb1d
-Section: MyRepoSpace.com
-Description: Install this package to add some trusted repos that I like.
-Author: Tony999
-Depiction: http://www.myrepospace.com/
-Name: Recommended Repos
-Sponsor: myRepoSpace.com <http://www.myrepospace.com/>
-
 Package: com.n00neimp0rtant.xcon
 Version: 40~beta5
 Architecture: iphoneos-arm
@@ -341,6 +325,21 @@ Section: Tweaks
 Description: Enables backgrounding in Plex, as requested on /r/tweakbounty.
 Author: Tony Kraft
 Name: PlexBackgrounder
+
+Package: com.tonykraft.recommendedrepos
+Version: 1.2
+Architecture: iphoneos-arm
+Maintainer: Tony Kraft <iostonykraft@gmail.com>
+Replaces: com.tonykraft.recommendedrepos
+Filename: ./debs//RecommendedRepos.deb
+Size: 906
+MD5sum: d492cabdfe71b416a0061427425b5be8
+SHA1: 9b6e43c379755e996ec1f44844adfc2682fb2b50
+SHA256: 73d2ec709c41f9abaebc05938333f98a91850836ffa77923ab181f2d8ae16402
+Section: Tools
+Description: Install this package to add some trusted repos that I like.
+Author: Tony Kraft <iostonykraft@gmail.com>
+Name: Recommended Repos
 
 Package: com.tonykraft.supporttheunsupported
 Version: 1.0-2
