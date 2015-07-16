@@ -63,6 +63,22 @@ Author: julioverne
 Icon: file:///Applications/MGFakerApp.app/Icon.png
 Name: MobileGestaltFaker
 
+Package: com.myrepospace.Tony999.recommende-list
+Version: 1.1
+Architecture: iphoneos-arm
+Maintainer: Tony999 <ktony3985@gmail.com>
+Filename: ./debs//RecommendedRepos.deb
+Size: 886
+MD5sum: d73cd1c397e75cb2f10c9269f7e15583
+SHA1: 38e954784c85eeb9b079dcfbb3cd318106a814c8
+SHA256: 6b29468a0038102db2b1666bbd2a8145a2626fff2a4c22940fa5606ccb43cb1d
+Section: MyRepoSpace.com
+Description: Install this package to add some trusted repos that I like.
+Author: Tony999
+Depiction: http://www.myrepospace.com/
+Name: Recommended Repos
+Sponsor: myRepoSpace.com <http://www.myrepospace.com/>
+
 Package: com.n00neimp0rtant.xcon
 Version: 40~beta5
 Architecture: iphoneos-arm
