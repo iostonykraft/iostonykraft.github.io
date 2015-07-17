@@ -151,6 +151,20 @@ Description: GBA emulator by Riley Testut, ported to Cydia by me!
 Author: Riley Testut
 Name: GBA4iOS
 
+Package: com.tonykraft.ipod6wallpapers
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Tony Kraft <iostonykraft@gmail.com>
+Filename: ./debs//iPodWallpapers.deb
+Size: 7958764
+MD5sum: 1f8eea11299b517a0cd370373d6b106c
+SHA1: 48f5309946f5deb98ab876f07f7dea236de30b57
+SHA256: 3c900bf9b8b0a1f32c823030585262d2d6639e05ac958d3f7bbdc0d32b9ba019
+Section: Tweaks
+Description: Adds the new iPod Touch 6th Generation wallpapers to other devices. They can be found with all the built-in wallpapers in Settings.
+Author: Tony Kraft <iostonykraft@gmail.com>
+Name: iPod Touch 6 Wallpapers
+
 Package: com.tonykraft.narwhalpro
 Version: 1.0-2
 Architecture: iphoneos-arm
@@ -330,7 +344,7 @@ Package: com.tonykraft.recommendedrepos
 Version: 1.2
 Architecture: iphoneos-arm
 Maintainer: Tony Kraft <iostonykraft@gmail.com>
-Replaces: com.tonykraft.recommendedrepos
+Replaces: com.myrepospace.Tony999.recommende-list
 Filename: ./debs//RecommendedRepos.deb
 Size: 906
 MD5sum: d492cabdfe71b416a0061427425b5be8
