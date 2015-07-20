@@ -152,6 +152,22 @@ Description: Forces apps to always run in the background, the way iOS multitaski
 Author: Tony Kraft <iostonykraft@gmail.com>
 Name: BetterBackground8
 
+Package: com.tonykraft.crunchyrolladremover
+Version: 1.0-1
+Architecture: iphoneos-arm
+Maintainer: Tony Kraft <iostonykraft@gmail.com>
+Installed-Size: 88
+Depends: mobilesubstrate
+Filename: ./debs//com.tonykraft.crunchyrolladremover_1.0-1_iphoneos-arm.deb
+Size: 3636
+MD5sum: 486de093a73dd3ca2cb679460cc404de
+SHA1: 693cfa61ce22e33c3273272021a9cf64b36dd2a2
+SHA256: f2d9da53b2f448ee29085845f6c4345b5628e0f84ce99396f24c4d7dd153a469
+Section: Tweaks
+Description: Removes ads in the Crunchyroll app. Requested by @cubenstien on Twitter.
+Author: Tony Kraft <iostonykraft@gmail.com>
+Name: Crunchyroll Ad Remover
+
 Package: com.tonykraft.gba4ios
 Version: 2.1b4
 Architecture: iphoneos-arm
