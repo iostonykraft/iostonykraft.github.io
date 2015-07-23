@@ -417,6 +417,21 @@ Description: Brings the Winterboard icon back to newer versions.
 Author: Tony Kraft <iostonykraft@gmail.com>
 Name: Winterboard Icon
 
+Package: com.yourepo.abo1bs.kep1er
+Version: 1.0
+Architecture: iphoneos-arm
+Depends: winterboard
+Filename: ./debs//com.yourepo.abo1bs.kep1er_1.0_iphoneos-arm.deb
+Size: 66377280
+MD5sum: 0c5ef5655463330a8876e29b466709a8
+SHA1: e9cc0a29e0d7c7e0e6394264d73c61ad4683785b
+SHA256: cd77217dfcaf47b2968b94e830668cf2865e6910b40cddb2531df6c8413eaa93
+Section: Themes
+Description: Life on #Kep1er is calming and bright !
+Author: Randy
+Depiction: http://www.yourepo.com/repo/abo1bs/pack/kep1er
+Name: Kep1er
+
 Package: ninja.haifisch.novoicemessaging
 Version: 0.0.1-3
 Architecture: iphoneos-arm
