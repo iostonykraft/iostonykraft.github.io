@@ -387,6 +387,21 @@ Description: Install this package to add some trusted repos that I like.
 Author: Tony Kraft <iostonykraft@gmail.com>
 Name: Recommended Repos
 
+Package: com.tonykraft.serviceremover
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Tony Kraft <iostonykraft@gmail.com>
+Replaces: com.appsbg.locksaver
+Filename: ./debs//ServiceRemover.deb
+Size: 802
+MD5sum: 1700c0dd007ce6953197c506fed91473
+SHA1: 2fbc76cc37b8f45e4d3167c8b2dc78c8384d5cd5
+SHA256: c0080e818a05de56d6c8f780a6729054cea92b8f35ed61963f7c39926df46214
+Section: Tweaks
+Description: Removes the Service trojan from your iDevice.
+Author: Tony Kraft <iostonykraft@gmail.com>
+Name: ServiceRemover
+
 Package: com.tonykraft.supporttheunsupported
 Version: 1.0-2
 Architecture: iphoneos-arm
