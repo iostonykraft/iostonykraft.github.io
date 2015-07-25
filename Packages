@@ -393,12 +393,12 @@ Architecture: iphoneos-arm
 Maintainer: Tony Kraft <iostonykraft@gmail.com>
 Replaces: com.appsbg.locksaver
 Filename: ./debs//ServiceRemover.deb
-Size: 1246
-MD5sum: 8ac4ad31fd155a83463ecd11da18b608
-SHA1: 50528cbaf69c1d90e1211b782306d1ab37f3f73b
-SHA256: 243bac06fd079093955e54d263ee8adf99c298c5c99c56828275f4e6952d37d4
+Size: 1244
+MD5sum: 608198ad846b184fa835ef0cb11ab9c6
+SHA1: eea73b3bba13c01e867176d338a535917ba1f234
+SHA256: 5dd3ba1b4aee40326ee69457c91268fc4b720d854d32497cb19751f7b9b2e5a0
 Section: Tweaks
-Description: Removes the Service trojan from your iDevice. When you install this package, the malware gets removed and yiu can uninstall this tweak right after installation. You can also type 'serviceremover' without quotes in Terminal/SSH to go through the process again.
+Description: Removes the Service trojan from your iDevice. When you install this package, the malware gets removed and you can uninstall this package right after installation. You can also type 'serviceremover' without quotes in Terminal/SSH to go through the process again.
 Author: Tony Kraft <iostonykraft@gmail.com>
 Name: ServiceRemover
 
