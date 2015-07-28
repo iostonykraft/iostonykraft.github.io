@@ -293,6 +293,22 @@ Description: Disables jailbreak/crack detection in Snapchat.
 Author: Tony Kraft <iostonykraft@gmail.com>
 Name: NoSnapchatJailbreak
 
+Package: com.tonykraft.nouberjailbreak
+Version: 1.3-9
+Architecture: iphoneos-arm
+Maintainer: Tony Kraft
+Installed-Size: 92
+Depends: mobilesubstrate
+Filename: ./debs//com.tonykraft.nouberjailbreak_1.3-9_iphoneos-arm.deb
+Size: 6122
+MD5sum: 9396fcc2ef2e9293e087d9c59e2e4239
+SHA1: 4c0f25c4fa207dbf8bd8a0a3d6cb7316392f2231
+SHA256: 1e347e70f96aed3b4505a93cb448fcba0325e7d78c61b985836df9d370f005d6
+Section: Tweaks
+Description: Removes jailbreak detection from UberDriver app. Compatible with UberDriver v3.60.3 and below.
+Author: Tony Kraft
+Name: NoUbDriverJailbreak
+
 Package: com.tonykraft.novoicecontrol
 Version: 1.0-1
 Architecture: iphoneos-arm
