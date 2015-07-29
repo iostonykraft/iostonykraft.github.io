@@ -294,16 +294,16 @@ Author: Tony Kraft <iostonykraft@gmail.com>
 Name: NoSnapchatJailbreak
 
 Package: com.tonykraft.nouberjailbreak
-Version: 1.3-9
+Version: 1.3-10
 Architecture: iphoneos-arm
 Maintainer: Tony Kraft
 Installed-Size: 92
 Depends: mobilesubstrate
-Filename: ./debs//com.tonykraft.nouberjailbreak_1.3-9_iphoneos-arm.deb
-Size: 6122
-MD5sum: 9396fcc2ef2e9293e087d9c59e2e4239
-SHA1: 4c0f25c4fa207dbf8bd8a0a3d6cb7316392f2231
-SHA256: 1e347e70f96aed3b4505a93cb448fcba0325e7d78c61b985836df9d370f005d6
+Filename: ./debs//com.tonykraft.nouberjailbreak_1.3-10_iphoneos-arm.deb
+Size: 5990
+MD5sum: f63c81e18261a361f306e702f07286ac
+SHA1: 6195a4b5cc28f35ea302c47f874ae46a44e28c76
+SHA256: eb071c48e6900a12415a2099e059daf2f7d735ba0b8b03efc00611f9113d5b66
 Section: Tweaks
 Description: Removes jailbreak detection from UberDriver app. Compatible with UberDriver v3.60.3 and below.
 Author: Tony Kraft
