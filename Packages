@@ -466,6 +466,22 @@ Description: Allows iPhones to use “unsupported” accessories. Compatible wit
 Author: Tony Kraft
 Name: SupportTheUnsupported
 
+Package: com.tonykraft.tinderpro
+Version: 1.0-1
+Architecture: iphoneos-arm
+Maintainer: Tony Kraft <iostonykraft@gmail.com>
+Installed-Size: 88
+Depends: mobilesubstrate
+Filename: ./debs//com.tonykraft.tinderpro_1.0-1_iphoneos-arm.deb
+Size: 3764
+MD5sum: ae4a17ffc191b22c1e4a4c20c5df0a45
+SHA1: d4cb3387bb7b4403fff7d8d1e1bb48326e7edffc
+SHA256: 445d916cb5467660ba09a471d156db88a29557cd101c21a7510b64dd629dd750
+Section: Tweaks
+Description: This tweak enables unlimited likes and (maybe) tinder plus for free in Tinder.
+Author: Tony Kraft <iostonykraft@gmail.com>
+Name: TinderPro
+
 Package: com.winterboardicon
 Version: 1.0
 Architecture: iphoneos-arm
