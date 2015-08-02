@@ -197,6 +197,22 @@ Description: Adds the new iPod Touch 6th Generation wallpapers to other devices.
 Author: Tony Kraft <iostonykraft@gmail.com>
 Name: iPod Touch 6 Wallpapers
 
+Package: com.tonykraft.movieboxpro
+Version: 1.0-14
+Architecture: iphoneos-arm
+Maintainer: Tony Kraft
+Installed-Size: 224
+Depends: mobilesubstrate
+Filename: ./debs//com.tonykraft.movieboxpro_1.0-14_iphoneos-arm.deb
+Size: 38258
+MD5sum: 9bf2757a4d938f367be7347895c3f197
+SHA1: a6b1e2ae36e064c14e657c4512b1fc7b81fc6e4f
+SHA256: 4ea0e9bedda3fa5e16e6cda210ce7240cf30e531643dca9815a085b060f72c2b
+Section: Tweaks
+Description: Adds the following features to Movie Box 3: No Ads, No Bandwidth Throttling, Background Downloading Allowed, No Jailbreak Detection, No Tracking, Turbo Mode Always On. Options configurable in Settings.
+Author: Tony Kraft
+Name: MovieBoxPro
+
 Package: com.tonykraft.narwhalpro
 Version: 1.0-2
 Architecture: iphoneos-arm
