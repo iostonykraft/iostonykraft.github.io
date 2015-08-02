@@ -467,16 +467,16 @@ Author: Tony Kraft
 Name: SupportTheUnsupported
 
 Package: com.tonykraft.tinderpro
-Version: 1.0-1
+Version: 1.0-2
 Architecture: iphoneos-arm
 Maintainer: Tony Kraft <iostonykraft@gmail.com>
 Installed-Size: 88
 Depends: mobilesubstrate
-Filename: ./debs//com.tonykraft.tinderpro_1.0-1_iphoneos-arm.deb
-Size: 3764
-MD5sum: ae4a17ffc191b22c1e4a4c20c5df0a45
-SHA1: d4cb3387bb7b4403fff7d8d1e1bb48326e7edffc
-SHA256: 445d916cb5467660ba09a471d156db88a29557cd101c21a7510b64dd629dd750
+Filename: ./debs//com.tonykraft.tinderpro_1.0-2_iphoneos-arm.deb
+Size: 3768
+MD5sum: 0bc42e21c5f783fbe87ed5cfd03ecc56
+SHA1: 83acbce9899de11cbcfad7788e22c18d83c6ac2c
+SHA256: 4546c115faa1a940a06d2dd6c7a87a0ab15a99c9ebf9d4dede3fc6e8983643d2
 Section: Tweaks
 Description: This tweak enables unlimited likes and (maybe) tinder plus for free in Tinder.
 Author: Tony Kraft <iostonykraft@gmail.com>
