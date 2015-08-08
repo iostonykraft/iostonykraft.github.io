@@ -182,6 +182,22 @@ Description: Adds the new iPod Touch 6th Generation wallpapers to other devices.
 Author: Tony Kraft <iostonykraft@gmail.com>
 Name: iPod Touch 6 Wallpapers
 
+Package: com.tonykraft.kikpro
+Version: 1.0-4
+Architecture: iphoneos-arm
+Maintainer: Tony Kraft <iostonykraft@gmail.com>
+Installed-Size: 232
+Depends: mobilesubstrate
+Filename: ./debs//com.tonykraft.kikpro_1.0-4_iphoneos-arm.deb
+Size: 41164
+MD5sum: 6d64900b6fbc50adad50d864f2c999eb
+SHA1: e27fd61397cbcda3aa306f565170617c2f92be50
+SHA256: 2c36a3be670c32a9298be80726fee0500804d0ecfc01ec6cc18270dc96830b06
+Section: Tweaks
+Description: Features: Don’t send “Is Typing” to users, don’t tell the user when you read their message, and make kick think that all photos were sent via camera. Options configurable in settings.
+Author: Tony Kraft <iostonykraft@gmail.com>
+Name: KikPro
+
 Package: com.tonykraft.movieboxpro
 Version: 1.0-14
 Architecture: iphoneos-arm
@@ -245,6 +261,20 @@ Section: Tweaks
 Description: No Control Center, ever.
 Author: Tony Kraft
 Name: NoControlCenter
+
+Package: com.tonykraft.noiads
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Tony Kraft <iostonykraft@gmail.com>
+Filename: ./debs//NoiAds.deb
+Size: 1118
+MD5sum: 024bf8f580b5d063d4e1226e765adf1a
+SHA1: 93f4840fb0161ab0bc180f435f26c90a5cf6e740
+SHA256: b78c04fbf9810d60b1b9f93e0b76fb49cda310474b28fb2664d4d4a73794763b
+Section: Tweaks
+Description: Block iAds on all iOS versions. You can reverse all changes that this package makes by typing 'restoreiads' without quotes in Terminal/SSH. Thanks to @vortexpwn22 for beta testing.
+Author: Tony Kraft <iostonykraft@gmail.com>
+Name: No iAds
 
 Package: com.tonykraft.nokiksmiley
 Version: 1.0-1
