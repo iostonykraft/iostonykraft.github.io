@@ -152,6 +152,22 @@ Description: GBA emulator by Riley Testut, ported to Cydia by me!
 Author: Riley Testut
 Name: GBA4iOS
 
+Package: com.tonykraft.inosleep
+Version: 0.1~beta-4
+Architecture: iphoneos-arm
+Maintainer: Tony Kraft
+Installed-Size: 216
+Depends: mobilesubstrate
+Filename: ./debs//com.tonykraft.inosleep_0.1~beta-4_iphoneos-arm.deb
+Size: 29580
+MD5sum: f2f54b07da9eb84ea9d287a836c2c496
+SHA1: af10acb4d9917780dc779105ecb9b1daa4a50427
+SHA256: 8140ab74f09e3b36c4e0cccd9d50937b531ad15849059c9ccf5f1b0a82906407
+Section: Tweaks
+Description: Allows Wifi to stay connected when the device is locked.
+Author: Tony Kraft
+Name: iNoSleep
+
 Package: com.tonykraft.ipod6wallpapers
 Version: 1.0
 Architecture: iphoneos-arm
@@ -342,16 +358,16 @@ Author: Tony Kraft <iostonykraft@gmail.com>
 Name: Redsn0w Pineapple Bootlogo
 
 Package: com.tonykraft.playboxadremover
-Version: 1.0-2
+Version: 1.0-3
 Architecture: iphoneos-arm
 Maintainer: Tony Kraft <iostonykraft@gmail.com>
 Installed-Size: 88
 Depends: mobilesubstrate
-Filename: ./debs//com.tonykraft.playboxadremover_1.0-2_iphoneos-arm.deb
-Size: 3868
-MD5sum: 56154b7be6942ec31da63da9067c97c2
-SHA1: 356c9844fbaf3d55f61a3d501fcc173a38e8f002
-SHA256: c38715029bd3ce1f2ddab062fdc32b25ef165c59e5a46603b2bf2eac2cfa5172
+Filename: ./debs//com.tonykraft.playboxadremover_1.0-3_iphoneos-arm.deb
+Size: 3978
+MD5sum: 700472e9b077fed584a1a9fa2b75afc8
+SHA1: f9c201d61667e5e875e39cddadf6dab9ba6fe440
+SHA256: f73214a6a6a0f8eb368510fbb073bc50aac5ffc1d0671eb89859709a09320ebd
 Section: Tweaks
 Description: Disables ads in Playbox HD.
 Author: Tony Kraft <iostonykraft@gmail.com>
@@ -448,6 +464,20 @@ Section: Apps
 Description: Brings the Winterboard icon back to newer versions.
 Author: Tony Kraft <iostonykraft@gmail.com>
 Name: Winterboard Icon
+
+Package: internalsettingsalliosversions
+Version: 3.0
+Architecture: iphoneos-arm
+Maintainer: Chase Fromm <uh4vel0st@gmail.com>
+Filename: ./debs//internalsettingsalliosversions_3.0_iphoneos-arm.deb
+Size: 679560
+MD5sum: 2676c4fc88429a1722d954bd3b1e99bb
+SHA1: d415542a3db127e18af8907ea7cbcaab6b870f54
+SHA256: 298faf04746f755009744ac9ce8750e21432dd500f3429c61ddca5608750aa8c
+Section: Tweaks
+Description: Short description.
+Author: Chase Fromm <uh4vel0st@gmail.com>
+Name: InternalSettings 3 (iOS 5, 6, 7, 8, 9)
 
 Package: ninja.haifisch.novoicemessaging
 Version: 0.0.1-3
