@@ -197,18 +197,18 @@ Author: Tony Kraft <iostonykraft@gmail.com>
 Name: iPod Touch 6 Wallpapers
 
 Package: com.tonykraft.kikpro
-Version: 1.0-10
+Version: 1.0-11
 Architecture: iphoneos-arm
 Maintainer: Tony Kraft <iostonykraft@gmail.com>
 Installed-Size: 232
 Depends: mobilesubstrate
-Filename: ./debs//com.tonykraft.kikpro_1.0-10_iphoneos-arm.deb
-Size: 42534
-MD5sum: 1430d8a95de34417cb4b4bfb31a48d01
-SHA1: d14720b0408ce11fe40ee19e70f708157cabe59e
-SHA256: 5c12b0a70fc228d36bfe27ee3e9ca6a0f69807795be6bac25e65da0b1bb20feb
+Filename: ./debs//com.tonykraft.kikpro_1.0-11_iphoneos-arm.deb
+Size: 42576
+MD5sum: d8bf20206b6c1204926cb3d44bcdef96
+SHA1: 72e846c5fee46836c28a2ab60903dd9f273f6444
+SHA256: f364ab91e7df7ef2585d2ed839022416092e604bb01c306d470bb96a645733e0
 Section: Tweaks
-Description: Features: Don’t send “Is Typing” to users, don’t tell the user when you read their message, and make kik think that all photos were sent via camera. Options configurable in settings.
+Description: Features: Don’t send “Is Typing” to users, don’t tell the user when you read their message, make kik think that all photos were sent via camera, disable smilies, register with any info, and email always confirmed. Options configurable in settings.
 Author: Tony Kraft <iostonykraft@gmail.com>
 Name: KikPro
 
