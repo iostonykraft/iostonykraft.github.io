@@ -197,16 +197,16 @@ Author: Tony Kraft <iostonykraft@gmail.com>
 Name: iPod Touch 6 Wallpapers
 
 Package: com.tonykraft.kikpro
-Version: 1.0-5
+Version: 1.0-10
 Architecture: iphoneos-arm
 Maintainer: Tony Kraft <iostonykraft@gmail.com>
 Installed-Size: 232
 Depends: mobilesubstrate
-Filename: ./debs//com.tonykraft.kikpro_1.0-5_iphoneos-arm.deb
-Size: 41170
-MD5sum: 065f80b8bced45f23a83041899475fb1
-SHA1: fec4a534b5c13c23ec04a381f6522a73be9e1d63
-SHA256: 0d42f6133fe922d825c10ffce9904a6d50537435d2d12f664ccdc6da169a05f2
+Filename: ./debs//com.tonykraft.kikpro_1.0-10_iphoneos-arm.deb
+Size: 42534
+MD5sum: 1430d8a95de34417cb4b4bfb31a48d01
+SHA1: d14720b0408ce11fe40ee19e70f708157cabe59e
+SHA256: 5c12b0a70fc228d36bfe27ee3e9ca6a0f69807795be6bac25e65da0b1bb20feb
 Section: Tweaks
 Description: Features: Don’t send “Is Typing” to users, don’t tell the user when you read their message, and make kik think that all photos were sent via camera. Options configurable in settings.
 Author: Tony Kraft <iostonykraft@gmail.com>
@@ -289,22 +289,6 @@ Section: Tweaks
 Description: Block iAds on all iOS versions. You can reverse all changes that this package makes by typing 'restoreiads' without quotes in Terminal/SSH. Thanks to @vortexpwn22 for beta testing.
 Author: Tony Kraft <iostonykraft@gmail.com>
 Name: No iAds
-
-Package: com.tonykraft.nokiksmiley
-Version: 1.0-1
-Architecture: iphoneos-arm
-Maintainer: Tony Kraft
-Installed-Size: 88
-Depends: mobilesubstrate, firmware (>= 7.0)
-Filename: ./debs//com.tonykraft.nokiksmiley_1.0-1_iphoneos-arm.deb
-Size: 3370
-MD5sum: 9b42a0eb9e14ac7432d47946dffcebd7
-SHA1: 146e488a3378ec92cd4d5d8d6a8c501c733d7a28
-SHA256: a550423e8d753815347881293a13bdd4634f6cb7d4e87bcda7cc32dfc04fa991
-Section: Tweaks
-Description: Allows the user to use emoticons i.e. “:P” “:)” etc. in Kik. Compatible with iOS 7 and iOS 8.
-Author: Tony Kraft
-Name: NoKikSmiley
 
 Package: com.tonykraft.nosnapchatjailbreak
 Version: 1.0-1
@@ -416,22 +400,6 @@ Section: Tweaks
 Description: Disables ads in Playbox HD.
 Author: Tony Kraft <iostonykraft@gmail.com>
 Name: Playbox HD Ad Remover
-
-Package: com.tonykraft.plexbackgrounder
-Version: 1.0-1
-Architecture: iphoneos-arm
-Maintainer: Tony Kraft
-Installed-Size: 88
-Depends: mobilesubstrate
-Filename: ./debs//com.tonykraft.plexbackgrounder_1.0-1_iphoneos-arm.deb
-Size: 3884
-MD5sum: 2f0f82e1762b09c633fc5fb1a436043f
-SHA1: 15ec9c214235b28a1d51a25f4a47411c7220bf65
-SHA256: 635b06c8be5403e1a97c02837e04804692f00ee9b3820b8193b7bc49a46a3527
-Section: Tweaks
-Description: Enables backgrounding in Plex, as requested on /r/tweakbounty.
-Author: Tony Kraft
-Name: PlexBackgrounder
 
 Package: com.tonykraft.recommendedrepos
 Version: 1.2
