@@ -1,12 +1,12 @@
 Package: com.chasefromm.internalsettings31
-Version: 3.1.1~publicbeta
+Version: 3.1.3~publicbeta
 Architecture: iphoneos-arm
 Maintainer: Chase Fromm <uh4vel0st@gmail.com>
-Filename: ./debs//com.chasefromm.internalsettings31_3.1.1~publicbeta_iphoneos-arm (3).deb
+Filename: ./debs//com.chasefromm.internalsettings31_3.1.3~publicbeta_iphoneos-arm.deb
 Size: 665602
-MD5sum: 51b14a68f08fa023db6d25bc33a0c55d
-SHA1: 75ec2ae044bf5c0c4f79a2e2b5b337ef2aafba65
-SHA256: 1f539c7a0cd6d791a4a63261724947819435bbbae568b3fb7fcfde895c23ea55
+MD5sum: 01cf22ac154a00c988b9295d75ebacf4
+SHA1: 44f96dcfc99c0169e0e7b486675137e21a7e700c
+SHA256: e9eee630e5bc5a6f6609d3ae5403a4d007ae59d765a466645ed84c78c6a106ce
 Section: Tweaks
 Description: Enables internal settings used by Apple. Options configurable in Settings. Compatible with iOS 5 to iOS 9. Follow me on Twitter: @opandor
 Author: Chase Fromm <uh4vel0st@gmail.com>
