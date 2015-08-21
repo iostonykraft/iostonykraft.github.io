@@ -167,16 +167,16 @@ Author: Riley Testut
 Name: GBA4iOS
 
 Package: com.tonykraft.inosleep
-Version: 0.1~beta-4
+Version: 0.1~beta-5
 Architecture: iphoneos-arm
 Maintainer: Tony Kraft
 Installed-Size: 216
 Depends: mobilesubstrate
-Filename: ./debs//com.tonykraft.inosleep_0.1~beta-4_iphoneos-arm.deb
+Filename: ./debs//com.tonykraft.inosleep_0.1~beta-5_iphoneos-arm.deb
 Size: 29580
-MD5sum: f2f54b07da9eb84ea9d287a836c2c496
-SHA1: af10acb4d9917780dc779105ecb9b1daa4a50427
-SHA256: 8140ab74f09e3b36c4e0cccd9d50937b531ad15849059c9ccf5f1b0a82906407
+MD5sum: 8dd84b8bfee92853620a6fd379fe2c7a
+SHA1: fa6c8e9d03dfb0b45c33b31c4b2d42ea7ca1775d
+SHA256: 3f79404441577313e93fb6f4deb86a41de28bd01d4718735618425fa99ab2fec
 Section: Tweaks
 Description: Allows Wifi to stay connected when the device is locked.
 Author: Tony Kraft
@@ -213,16 +213,16 @@ Author: Tony Kraft <iostonykraft@gmail.com>
 Name: KikPro
 
 Package: com.tonykraft.movieboxpro
-Version: 1.0-14
+Version: 1.0.1-1
 Architecture: iphoneos-arm
 Maintainer: Tony Kraft
 Installed-Size: 224
 Depends: mobilesubstrate
-Filename: ./debs//com.tonykraft.movieboxpro_1.0-14_iphoneos-arm.deb
-Size: 38258
-MD5sum: 9bf2757a4d938f367be7347895c3f197
-SHA1: a6b1e2ae36e064c14e657c4512b1fc7b81fc6e4f
-SHA256: 4ea0e9bedda3fa5e16e6cda210ce7240cf30e531643dca9815a085b060f72c2b
+Filename: ./debs//com.tonykraft.movieboxpro_1.0.1-1_iphoneos-arm.deb
+Size: 38862
+MD5sum: 6422fe7c840fb6be0dda030937f3280d
+SHA1: 24f70ffcfc5d276fdf20e065697b7d817dd29c9c
+SHA256: 9a5eadf74d2e703a7ff2a00b1bf782fe7176fc0d9b1dee291f0e935c819bd78c
 Section: Tweaks
 Description: Adds the following features to Movie Box 3: No Ads, No Bandwidth Throttling, Background Downloading Allowed, No Jailbreak Detection, No Tracking, Turbo Mode Always On. Options configurable in Settings.
 Author: Tony Kraft
