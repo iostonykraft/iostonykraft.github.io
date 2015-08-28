@@ -290,6 +290,22 @@ Description: Block iAds on all iOS versions. You can reverse all changes that th
 Author: Tony Kraft <iostonykraft@gmail.com>
 Name: No iAds
 
+Package: com.tonykraft.nosafarihistory
+Version: 0.1-7
+Architecture: iphoneos-arm
+Maintainer: Tony Kraft <iostonykraft@gmail.com>
+Installed-Size: 320
+Depends: mobilesubstrate, firmware (>= 8.0)
+Filename: ./debs//com.tonykraft.nosafarihistory_0.1-7_iphoneos-arm.deb
+Size: 35294
+MD5sum: 52b1142bba69497a279554b2fb0147e0
+SHA1: 84b465c17eb971d8ca2c741592252386e2422bc8
+SHA256: 511ed52d7c41e98b873e56b827df138cee2a040a79bd7c55a2455c3dd93989c2
+Section: Tweaks
+Description: Disables browsing history and search history in iOS 8. Options configurable in settings.
+Author: Tony Kraft <iostonykraft@gmail.com>
+Name: NoSafariHistory
+
 Package: com.tonykraft.nosnapchatjailbreak
 Version: 1.0-1
 Architecture: iphoneos-arm
