@@ -12,6 +12,23 @@ Description: Enables internal settings used by Apple. Options configurable in Se
 Author: Chase Fromm <uh4vel0st@gmail.com>
 Name: InternalSettings 3.1 (iOS 5.x.x, 6.x.x, 7.x.x, 8.x.x)
 
+Package: com.devios.tinderpro
+Version: 1.0-5
+Architecture: iphoneos-arm
+Maintainer: DeViOS <thedevios@icloud.com>
+Installed-Size: 448
+Depends: mobilesubstrate
+Replaces: com.tonykraft.tinderpro
+Filename: ./debs//com.devios.tinderpro_1.0-5_iphoneos-arm.deb
+Size: 41500
+MD5sum: 81898a842d8efd19eb535a0c367bb8c7
+SHA1: 9236d430e36be87fd0a3b982a0dc966860245ad6
+SHA256: 08565423c350737fb4f364c4791036355ed3f60aeed2f692b7e28a8aaebb184b
+Section: Tweaks
+Description: This tweak enables unlimited likes and (maybe) tinder plus for free in Tinder.
+Author: DeViOS <thedevios@icloud.com>
+Name: TinderPro
+
 Package: com.julioverne.crackle-ads-remover
 Version: 1.1
 Architecture: iphoneos-arm
@@ -446,22 +463,6 @@ Section: Tweaks
 Description: Allows iPhones to use “unsupported” accessories. Compatible with iOS 7 and iOS 8.
 Author: Tony Kraft
 Name: SupportTheUnsupported
-
-Package: com.tonykraft.tinderpro
-Version: 1.0-2
-Architecture: iphoneos-arm
-Maintainer: Tony Kraft <iostonykraft@gmail.com>
-Installed-Size: 88
-Depends: mobilesubstrate
-Filename: ./debs//com.tonykraft.tinderpro_1.0-2_iphoneos-arm.deb
-Size: 3768
-MD5sum: 0bc42e21c5f783fbe87ed5cfd03ecc56
-SHA1: 83acbce9899de11cbcfad7788e22c18d83c6ac2c
-SHA256: 4546c115faa1a940a06d2dd6c7a87a0ab15a99c9ebf9d4dede3fc6e8983643d2
-Section: Tweaks
-Description: This tweak enables unlimited likes and (maybe) tinder plus for free in Tinder.
-Author: Tony Kraft <iostonykraft@gmail.com>
-Name: TinderPro
 
 Package: com.winterboardicon
 Version: 1.0
