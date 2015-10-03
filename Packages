@@ -449,16 +449,16 @@ Author: Tony Kraft <iostonykraft@gmail.com>
 Name: ServiceRemover
 
 Package: com.tonykraft.supporttheunsupported
-Version: 1.0-2
+Version: 1.0-3
 Architecture: iphoneos-arm
 Maintainer: Tony Kraft
-Installed-Size: 88
+Installed-Size: 200
 Depends: mobilesubstrate
-Filename: ./debs//com.tonykraft.supporttheunsupported_1.0-2_iphoneos-arm.deb
-Size: 3470
-MD5sum: e817a792754663d454143e18b030d60f
-SHA1: 73c98b3067548d831305cf24533ca2e956aea58a
-SHA256: 964fb54c615fb92a97ea4fa75223edd7201f1e423aa026a60b85cb5ac9a09368
+Filename: ./debs//com.tonykraft.supporttheunsupported_1.0-3_iphoneos-arm.deb
+Size: 4952
+MD5sum: a7219d0e586e895a9f3d1d24c4b2051c
+SHA1: d7c4b4e29084f20b03601f1a861395de0550da38
+SHA256: 4dde6fa22fe837a7f61a5c15e8829f19c0604667b01f39b553c0085b36f36ddd
 Section: Tweaks
 Description: Allows iPhones to use “unsupported” accessories. Compatible with iOS 7 and iOS 8.
 Author: Tony Kraft
