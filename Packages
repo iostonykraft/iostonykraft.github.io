@@ -13,17 +13,17 @@ Author: Chase Fromm <uh4vel0st@gmail.com>
 Name: InternalSettings 3.1 (iOS 5.x.x, 6.x.x, 7.x.x, 8.x.x)
 
 Package: com.devios.tinderpro
-Version: 1.0-6
+Version: 1.0-7
 Architecture: iphoneos-arm
 Maintainer: DeViOS <thedevios@icloud.com>
-Installed-Size: 448
+Installed-Size: 200
 Depends: mobilesubstrate
 Replaces: com.tonykraft.tinderpro
-Filename: ./debs//com.devios.tinderpro_1.0-6_iphoneos-arm.deb
-Size: 41492
-MD5sum: f7b883697c7faecb7f87e81c84cf0316
-SHA1: e9d839e96d6af6e4c3ddbcc4493a8dbf4a65a6b2
-SHA256: 3a65572b567865f7b71262e29cd67c331ef374597d9cf852084a74dc315798d7
+Filename: ./debs//com.devios.tinderpro_1.0-7_iphoneos-arm.deb
+Size: 5460
+MD5sum: f458cf20c74262c5f6ef64487c6afba9
+SHA1: bc7841d5d62ce751261a3aee45748f869eb58f1c
+SHA256: b0991bba01b9ee64b4ff1613655b24ca798b2fc4b398a8a19ff81f43d1a879ee
 Section: Tweaks
 Description: This tweak enables unlimited likes and (maybe) tinder plus for free in Tinder.
 Author: DeViOS <thedevios@icloud.com>
