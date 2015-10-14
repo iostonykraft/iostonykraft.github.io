@@ -183,6 +183,22 @@ Description: GBA emulator by Riley Testut, ported to Cydia by me!
 Author: Riley Testut
 Name: GBA4iOS
 
+Package: com.tonykraft.iheartradiopro
+Version: 1.0-1
+Architecture: iphoneos-arm
+Maintainer: Tony Kraft <iostonykraft@gmail.com>
+Installed-Size: 200
+Depends: mobilesubstrate
+Filename: ./debs//com.tonykraft.iheartradiopro_1.0-1_iphoneos-arm.deb
+Size: 6070
+MD5sum: f7dfad4ffb2607c1dff4939ccb11b746
+SHA1: a6b292075fb7df9b69c48b61a5e3b77e686c9029
+SHA256: 33a5b2dda23f2d99be2b592763aaa08bcab467b560cbc747a6d9ecb47fac7953
+Section: Tweaks
+Description: No ads and unlimited skips in iHeartRadio.
+Author: Tony Kraft <iostonykraft@gmail.com>
+Name: iHeartRadioPro
+
 Package: com.tonykraft.inosleep
 Version: 0.1~beta-5
 Architecture: iphoneos-arm
