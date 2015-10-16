@@ -378,16 +378,16 @@ Author: Tony Kraft <iostonykraft@gmail.com>
 Name: NoUbDriverGeofence
 
 Package: com.tonykraft.nouberjailbreak
-Version: 1.3-11
+Version: 1.4-1
 Architecture: iphoneos-arm
 Maintainer: Tony Kraft
-Installed-Size: 92
+Installed-Size: 204
 Depends: mobilesubstrate
-Filename: ./debs//com.tonykraft.nouberjailbreak_1.3-11_iphoneos-arm.deb
-Size: 6078
-MD5sum: 51d26e0018bb10ffb1cf5024f1e16782
-SHA1: f4d058b0722150b87b5ac7b599e86ba00f8abed0
-SHA256: 1f1bde161923401ca8345810f53218f385a3f5e0498fa1ccb90800faa08fbf6d
+Filename: ./debs//com.tonykraft.nouberjailbreak_1.4-1_iphoneos-arm.deb
+Size: 9562
+MD5sum: b0e6dda2dd7026c1f9f2be7ecf849fc9
+SHA1: f51f4fc201da57b3b5572f8839f2bf474153bb4d
+SHA256: 1d8c32a385baa501299ec545875e35a96f1df25d80644336a06e4d41203624cd
 Section: Tweaks
 Description: Removes jailbreak detection from UberDriver app. Compatible with UberDriver v3.60.3 and below.
 Author: Tony Kraft
