@@ -12,28 +12,6 @@ Description: Enables internal settings used by Apple. Options configurable in Se
 Author: Chase Fromm <uh4vel0st@gmail.com>
 Name: InternalSettings 3.1 (iOS 5.x.x, 6.x.x, 7.x.x, 8.x.x)
 
-Package: com.chpwn.iconsupport
-Version: 1.9.4-3fixed
-Architecture: iphoneos-arm
-Maintainer: BigBoss <bigboss@thebigboss.org>
-Installed-Size: 124
-Pre-Depends: firmware (>= 3.0), firmware (<< 10.0)
-Depends: mobilesubstrate, firmware (>= 6.0) | jp.ashikase.bugfix.stuckpages, firmware (>= 6.0) | jp.ashikase.bugfix.duplicateicons
-Filename: ./debs//com.chpwn.iconsupport_1.9.4-3fixed_iphoneos-arm.deb
-Size: 31534
-MD5sum: db36a8baa0c8b73768fb358311af5295
-SHA1: ac05f73c273ea588a1f36ae37a758e6e1b8f730b
-SHA256: f848eec6214de37696d559b9bb52ffc46127d38cad9075c137425d33998acbe5
-Section: Development
-Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=iconsupportData
-Description: IconSupport for iOS 9
-Tag: role::developer, purpose::extension
-Author: ashikase <support@ashikase.com>
-Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=iconsupportData
-Dev: ashikase
-Name: IconSupport
-Sponsor: thebigboss.org <http://thebigboss.org>
-
 Package: com.devios.tinderpro
 Version: 1.0-7
 Architecture: iphoneos-arm
@@ -345,6 +323,22 @@ Description: Block iAds on all iOS versions. You can reverse all changes that th
 Author: Tony Kraft <iostonykraft@gmail.com>
 Name: No iAds
 
+Package: com.tonykraft.nopowersound
+Version: 1.0-1
+Architecture: iphoneos-arm
+Maintainer: Tony Kraft <iostonykraft@gmail.com>
+Installed-Size: 200
+Depends: mobilesubstrate
+Filename: ./debs//com.tonykraft.nopowersound_1.0-1_iphoneos-arm.deb
+Size: 4696
+MD5sum: ce79c7409763fe0856df4a78cd850f20
+SHA1: cb23c9a8f9d0eb30fd68c265b62ffbd35cbafaa7
+SHA256: 0894b4ab6d8099dbe8e5a24568c861e3d71733d37eae1f82e62fc03d10942d30
+Section: Tweaks
+Description: Disables the sound the device makes when plugged into charger. Compatible with iOS 7 to iOS 9.
+Author: Tony Kraft <iostonykraft@gmail.com>
+Name: NoPowerSound
+
 Package: com.tonykraft.nosnapchatjailbreak
 Version: 1.0-1
 Architecture: iphoneos-arm
@@ -376,22 +370,6 @@ Section: Tweaks
 Description: Disables the geofence in UberDriver
 Author: Tony Kraft <iostonykraft@gmail.com>
 Name: NoUbDriverGeofence
-
-Package: com.tonykraft.nouberjailbreak
-Version: 1.4-1
-Architecture: iphoneos-arm
-Maintainer: Tony Kraft
-Installed-Size: 204
-Depends: mobilesubstrate
-Filename: ./debs//com.tonykraft.nouberjailbreak_1.4-1_iphoneos-arm.deb
-Size: 9562
-MD5sum: b0e6dda2dd7026c1f9f2be7ecf849fc9
-SHA1: f51f4fc201da57b3b5572f8839f2bf474153bb4d
-SHA256: 1d8c32a385baa501299ec545875e35a96f1df25d80644336a06e4d41203624cd
-Section: Tweaks
-Description: Removes jailbreak detection from UberDriver app. Compatible with UberDriver v3.60.3 and below.
-Author: Tony Kraft
-Name: NoUbDriverJailbreak
 
 Package: com.tonykraft.novoicecontrol
 Version: 1.0-1
