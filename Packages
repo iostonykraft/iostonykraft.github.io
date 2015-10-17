@@ -245,6 +245,22 @@ Description: Features: Don’t send “Is Typing” to users, don’t tell the u
 Author: Tony Kraft <iostonykraft@gmail.com>
 Name: KikPro
 
+Package: com.tonykraft.medusaenabler
+Version: 1.0-3
+Architecture: iphoneos-arm
+Maintainer: Tony Kraft <iostonykraft@gmail.com>
+Installed-Size: 200
+Depends: mobilesubstrate, firmware (>= 9.0)
+Filename: ./debs//com.tonykraft.medusaenabler_1.0-3_iphoneos-arm.deb
+Size: 5234
+MD5sum: 583fcfd8087811d264d8947b163dc6c7
+SHA1: 42333a371c0ba8dc72a5996aa0a9eb4ffbe2aea1
+SHA256: 64d0e7335949832609019ef35fe5890b8d4fb8f422b37404a35d702f594cb1b2
+Section: Tweaks
+Description: Enable the Medusa feature on all devices.
+Author: Tony Kraft <iostonykraft@gmail.com>
+Name: MedusaEnabler
+
 Package: com.tonykraft.movieboxpro
 Version: 1.0.1-1
 Architecture: iphoneos-arm
