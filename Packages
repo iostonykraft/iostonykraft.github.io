@@ -450,6 +450,22 @@ Description: Disables ads in Playbox HD.
 Author: Tony Kraft <iostonykraft@gmail.com>
 Name: Playbox HD Ad Remover
 
+Package: com.tonykraft.prefsafety
+Version: 1.0.3-1
+Architecture: iphoneos-arm
+Maintainer: Tony Kraft
+Installed-Size: 448
+Depends: mobilesubstrate
+Filename: ./debs//com.tonykraft.prefsafety_1.0.3-1_iphoneos-arm.deb
+Size: 37808
+MD5sum: 6ed3ddf4897aa9df09365b184939225c
+SHA1: b62570994aa396922e2a3af5ffbf1f6780de8f68
+SHA256: 5af77c33759546916c3ffeab8641a2b0c0c8c1e5db3bbfb07d950914fac8f1b1
+Section: Tweaks
+Description: Disables Erase Content And Settings, Reset Settings, Software Update panel, and Settings badge. Preference panel coming soon.
+Author: Tony Kraft
+Name: PrefSafety
+
 Package: com.tonykraft.recommendedrepos
 Version: 1.2
 Architecture: iphoneos-arm
