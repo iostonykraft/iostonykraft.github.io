@@ -63,24 +63,6 @@ Author: julioverne
 Icon: file:///Applications/MGFakerApp.app/Icon.png
 Name: MobileGestaltFaker
 
-Package: com.n00neimp0rtant.xcon
-Version: 40~beta5
-Architecture: iphoneos-arm
-Maintainer: Lunatik
-Installed-Size: 315
-Depends: mobilesubstrate
-Conflicts: co.xcon, co.xcon.xcon, com.yourcompany.dtvrunner
-Replaces: co.xcon, co.xcon.xcon, com.yourcompany.dtvrunner
-Filename: ./debs//com.n00neimp0rtant.xcon_40-beta5_iphoneos-arm.deb
-Size: 85212
-MD5sum: 54557e9c05657ff1a75415095ca7cb82
-SHA1: dee1a727f74ccc48082dc11b63df2c9b48313796
-SHA256: 600f2902a53bdb1df763617a9e75f55084dcf61fbe787f13abf2ce6c1f2477fe
-Section: Tweaks
-Description: bypass anti-jailbreak protection
-Author: Lunatik
-Name: xCon
-
 Package: com.ptvob.perkenhancer
 Version: 0.1~beta-9
 Architecture: iphoneos-arm
