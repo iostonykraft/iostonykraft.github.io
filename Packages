@@ -151,17 +151,17 @@ Author: Tony Kraft <iostonykraft@gmail.com>
 Name: Crunchyroll Ad Remover
 
 Package: com.tonykraft.gba4ios
-Version: 2.1b4
+Version: 2.1
 Architecture: iphoneos-arm
-Maintainer: Tony999 <ktony3985@gmail.com>
+Maintainer: Tony Kraft <iostonykraft@gmail.com>
 Depends: mobilesubstrate
-Filename: ./debs//com.tonykraft.gba4ios.deb
-Size: 7723020
-MD5sum: 588ba106ebe22e0376c06a7bbadfecb3
-SHA1: c0401c12dce1d30af3db0b72ff179ec949e4bfa3
-SHA256: ec54bdf09537cd13c2a9d46462c49ab0b0c7ca77c10b06f7c9d9b96957e89250
-Section: Apps
-Description: GBA emulator by Riley Testut, ported to Cydia by me!
+Filename: ./debs//com.tonykraft.gba4ios_2.1_iphoneos-arm.deb
+Size: 7723014
+MD5sum: 8e8b21af52e6314c37938fe6bc2485e7
+SHA1: 258e99c802d394d388b1c38df950729195c69fa5
+SHA256: fdf636abe15efd69a0c1aba73fd3f708d373b28cb97fc104c46f8f22b90b83f6
+Section: Games
+Description: A GBA emulator by Riley Testut.
 Author: Riley Testut
 Name: GBA4iOS
 
