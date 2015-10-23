@@ -449,16 +449,16 @@ Author: Tony Kraft
 Name: PrefSafety
 
 Package: com.tonykraft.recommendedrepos
-Version: 1.2
+Version: 1.3
 Architecture: iphoneos-arm
 Maintainer: Tony Kraft <iostonykraft@gmail.com>
 Replaces: com.myrepospace.Tony999.recommende-list
-Filename: ./debs//RecommendedRepos.deb
-Size: 906
-MD5sum: d492cabdfe71b416a0061427425b5be8
-SHA1: 9b6e43c379755e996ec1f44844adfc2682fb2b50
-SHA256: 73d2ec709c41f9abaebc05938333f98a91850836ffa77923ab181f2d8ae16402
-Section: Tools
+Filename: ./debs//com.tonykraft.recommendedrepos_1.3_iphoneos-arm.deb
+Size: 874
+MD5sum: 4f7d8361fecf5e2cafce61c2f1ef73a3
+SHA1: 9785df0ff4e54e14480f0e6a475166e6589776b3
+SHA256: 3db3aa88e58e6e829b565fb3bf5f3a19892a91ad6e5914265cf6e26da171d698
+Section: Utilities
 Description: Install this package to add some trusted repos that I like.
 Author: Tony Kraft <iostonykraft@gmail.com>
 Name: Recommended Repos
