@@ -1,17 +1,3 @@
-Package: com.chasefromm.internalsettings31
-Version: 3.1.3~publicbeta
-Architecture: iphoneos-arm
-Maintainer: Chase Fromm <uh4vel0st@gmail.com>
-Filename: ./debs//com.chasefromm.internalsettings31_3.1.3~publicbeta_iphoneos-arm.deb
-Size: 665602
-MD5sum: 01cf22ac154a00c988b9295d75ebacf4
-SHA1: 44f96dcfc99c0169e0e7b486675137e21a7e700c
-SHA256: e9eee630e5bc5a6f6609d3ae5403a4d007ae59d765a466645ed84c78c6a106ce
-Section: Tweaks
-Description: Enables internal settings used by Apple. Options configurable in Settings. Compatible with iOS 5 to iOS 9. Follow me on Twitter: @opandor
-Author: Chase Fromm <uh4vel0st@gmail.com>
-Name: InternalSettings 3.1 (iOS 5.x.x, 6.x.x, 7.x.x, 8.x.x)
-
 Package: com.devios.tinderpro
 Version: 1.0-7
 Architecture: iphoneos-arm
