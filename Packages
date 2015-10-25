@@ -136,21 +136,6 @@ Description: Removes ads in the Crunchyroll app. Requested by @cubenstien on Twi
 Author: Tony Kraft <iostonykraft@gmail.com>
 Name: Crunchyroll Ad Remover
 
-Package: com.tonykraft.emojibackupios91
-Version: 1.0
-Architecture: iphoneos-arm
-Maintainer: Tony Kraft <iostonykraft@gmail.com>
-Depends: com.bytafont.bytafont2
-Filename: ./debs//com.tonykraft.emojibackupios91_1.0_iphoneos-arm.deb
-Size: 87283260
-MD5sum: add1e96aa4dd11152119cfcd9b38687d
-SHA1: 0bde42e13a836d96f34ca3b140e0a78f48043454
-SHA256: 010670a6247b93ab150849b47f3aaa5b5d0252838c36aca9920452c52a809bc2
-Section: Fonts (BytaFont 2)
-Description: Backup font for the iOS 9.1 emojis.
-Author: Tony Kraft <iostonykraft@gmail.com>
-Name: Emoji Backup iOS 9.1
-
 Package: com.tonykraft.gba4ios
 Version: 2.1
 Architecture: iphoneos-arm
