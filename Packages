@@ -184,16 +184,16 @@ Author: Tony Kraft <iostonykraft@gmail.com>
 Name: MedusaEnabler
 
 Package: com.tonykraft.movieboxpro
-Version: 1.0.1-1
+Version: 1.0.1-2
 Architecture: iphoneos-arm
 Maintainer: Tony Kraft
-Installed-Size: 224
+Installed-Size: 448
 Depends: mobilesubstrate
-Filename: ./debs//com.tonykraft.movieboxpro_1.0.1-1_iphoneos-arm.deb
-Size: 38862
-MD5sum: 6422fe7c840fb6be0dda030937f3280d
-SHA1: 24f70ffcfc5d276fdf20e065697b7d817dd29c9c
-SHA256: 9a5eadf74d2e703a7ff2a00b1bf782fe7176fc0d9b1dee291f0e935c819bd78c
+Filename: ./debs//com.tonykraft.movieboxpro_1.0.1-2_iphoneos-arm.deb
+Size: 44582
+MD5sum: 7257e9a74a105ca0809079a96c5d9fa0
+SHA1: 98dbc68119ec025bf80d5eefd5e2607688ac6ebe
+SHA256: fed620ccb9ba688c16258f73b410e1cb864a7f418224abd32ce4b0cec87508cd
 Section: Tweaks
 Description: Adds the following features to Movie Box 3: No Ads, No Bandwidth Throttling, Background Downloading Allowed, No Jailbreak Detection, No Tracking, Turbo Mode Always On. Options configurable in Settings.
 Author: Tony Kraft
