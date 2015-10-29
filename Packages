@@ -247,6 +247,22 @@ Description: No Control Center, ever.
 Author: Tony Kraft
 Name: NoControlCenter
 
+Package: com.tonykraft.nogamecenterannoyance
+Version: 0.1-1
+Architecture: iphoneos-arm
+Maintainer: Tony Kraft <iostonykraft@gmail.com>
+Installed-Size: 200
+Depends: mobilesubstrate
+Filename: ./debs//com.tonykraft.nogamecenterannoyance_0.1-1_iphoneos-arm.deb
+Size: 4884
+MD5sum: 768bee8985fafb0799a2f401b458148f
+SHA1: 320389abaee37e926b0f8419116589ecfe57c5b9
+SHA256: 964d6eb08e9f8cd8c09936dcd1d065cb692ce5688d1772afaaff98fbacc466cf
+Section: Tweaks
+Description: Stops iOS from annoying you about Game Center. The pop up that prompts you to make a Game Center account is disabled by this tweak. This was only tested on iOS 9 so I really don’t know if it works on other versions.
+Author: Tony Kraft <iostonykraft@gmail.com>
+Name: NoGameCenterAnnoyance
+
 Package: com.tonykraft.noiads
 Version: 1.0
 Architecture: iphoneos-arm
