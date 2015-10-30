@@ -151,6 +151,22 @@ Description: Allows Wifi to stay connected when the device is locked.
 Author: Tony Kraft
 Name: iNoSleep
 
+Package: com.tonykraft.iris
+Version: 0.1-1
+Architecture: iphoneos-arm
+Maintainer: Tony Kraft <iostonykraft@gmail.com>
+Installed-Size: 204
+Depends: mobilesubstrate, firmware (>= 9.0)
+Filename: ./debs//com.tonykraft.iris_0.1-1_iphoneos-arm.deb
+Size: 4982
+MD5sum: bbda9526d88f4121ae753b9fceaf08b5
+SHA1: 57f18913f509b151946b74b6d9520dbe8a2cc90d
+SHA256: a38b522a55c7927dc58d0f94d7ce92df003ae6a31cf596326889e930571f822f
+Section: Tweaks
+Description: Enables live photos on unsupported devices on iOS 9.
+Author: Tony Kraft <iostonykraft@gmail.com>
+Name: Iris
+
 Package: com.tonykraft.kikpro
 Version: 1.0-11
 Architecture: iphoneos-arm
