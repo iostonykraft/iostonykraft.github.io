@@ -152,16 +152,16 @@ Author: Tony Kraft
 Name: iNoSleep
 
 Package: com.tonykraft.iris
-Version: 0.1-1
+Version: 0.1-2
 Architecture: iphoneos-arm
 Maintainer: Tony Kraft <iostonykraft@gmail.com>
 Installed-Size: 204
 Depends: mobilesubstrate, firmware (>= 9.0)
-Filename: ./debs//com.tonykraft.iris_0.1-1_iphoneos-arm.deb
-Size: 4982
-MD5sum: bbda9526d88f4121ae753b9fceaf08b5
-SHA1: 57f18913f509b151946b74b6d9520dbe8a2cc90d
-SHA256: a38b522a55c7927dc58d0f94d7ce92df003ae6a31cf596326889e930571f822f
+Filename: ./debs//com.tonykraft.iris_0.1-2_iphoneos-arm.deb
+Size: 5342
+MD5sum: 7a72557dde3e30fe0aaaf4a215f89a5b
+SHA1: d06b425df2f6d9f5e9a4e5abd61ec0415ec2555a
+SHA256: 04ebabb5e62b4da0bd53d19718f8fef08782424985d089da54c0f160b724155d
 Section: Tweaks
 Description: Enables live photos on unsupported devices on iOS 9.
 Author: Tony Kraft <iostonykraft@gmail.com>
