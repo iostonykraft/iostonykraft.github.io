@@ -357,6 +357,22 @@ Description: Unlimited Skips, No Ads whatsoever, No Skip Delay (You don't need t
 Author: Tony Kraft <iostonykraft@gmail.com>
 Name: PandoraPro
 
+Package: com.tonykraft.perfectfit
+Version: 0.1~beta-1
+Architecture: iphoneos-arm
+Maintainer: Tony Kraft <iostonykraft@gmail.com>
+Installed-Size: 200
+Depends: mobilesubstrate, firmware (>= 9.0)
+Filename: ./debs//com.tonykraft.perfectfit_0.1~beta-1_iphoneos-arm.deb
+Size: 4946
+MD5sum: 4d41521db743f99cb0334ac83ccc0302
+SHA1: 6ec0c5c51e752d63ea5c15da252e05d5744a08cd
+SHA256: acdd2510fe4a2b6c61e247f6ca840e716a412290555c172af7a462b8d8eb0f21
+Section: Tweaks
+Description: Force apps to fit your screen!
+Author: Tony Kraft <iostonykraft@gmail.com>
+Name: PerfectFit
+
 Package: com.tonykraft.pineapplelogo
 Version: 1.0.1
 Architecture: iphoneos-arm
