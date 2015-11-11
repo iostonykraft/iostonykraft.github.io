@@ -231,6 +231,22 @@ Description: Enables pro features and removes jailbreak detection in “narwhal,
 Author: Tony Kraft <iostonykraft@gmail.com>
 Name: narwhalPro
 
+Package: com.tonykraft.noautoreloadforsafari
+Version: 1.0-2
+Architecture: iphoneos-arm
+Maintainer: Tony Kraft <iostonykraft@gmail.com>
+Installed-Size: 200
+Depends: mobilesubstrate
+Filename: ./debs//com.tonykraft.noautoreloadforsafari_1.0-2_iphoneos-arm.deb
+Size: 5302
+MD5sum: f9c71e8a30af6002cd92f22a2daf2f51
+SHA1: ddbdafaae451259d7213e04e791eb7c96fe5436a
+SHA256: 9c729d23d5a964b2badfdc495e7116c0c538faf18243a902a7796c4d5b0da854
+Section: Tweaks
+Description: Stops tabs in Safari from automatically reloading. Tabs reload when Safari runs out of RAM, so I only recommend this tweak to users with devices that have 1 GB of RAM or more. Compatible with iOS 7, 8, and 9.
+Author: Tony Kraft <iostonykraft@gmail.com>
+Name: No Automatic Reload for Safari
+
 Package: com.tonykraft.noclockanimation
 Version: 1.0-12
 Architecture: iphoneos-arm
