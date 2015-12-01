@@ -88,6 +88,22 @@ Dev: chpwn
 Icon: file:///Library/PreferenceLoader/Preferences/Infinidock.png
 Name: Infinidock (iOS 8)
 
+Package: com.tonykraft.betterbackground8
+Version: 0.1~beta-1
+Architecture: iphoneos-arm
+Maintainer: Tony Kraft <iostonykraft@gmail.com>
+Installed-Size: 88
+Depends: mobilesubstrate, firmware (>= 8.0)
+Filename: ./debs//com.tonykraft.betterbackground8_0.1~beta-1_iphoneos-arm.deb
+Size: 3742
+MD5sum: 318701c2ceaa3ca28cc31153434b28a5
+SHA1: fe4c8ea708bab38639c1b38149b1f245889ac572
+SHA256: 5518bd96f5a831b3ad3bccce3b40a436fdacb97a76ba9fce893f2f9b0abd10b9
+Section: Tweaks
+Description: Forces apps to always run in the background, the way iOS multitasking should be. Currently in alpha, so it has no options to configure. This tweak was made for iOS 8 and I have no plans in adding support for anything below it.
+Author: Tony Kraft <iostonykraft@gmail.com>
+Name: BetterBackground8
+
 Package: com.tonykraft.crunchyrolladremover
 Version: 1.0-1
 Architecture: iphoneos-arm
