@@ -88,6 +88,22 @@ Dev: chpwn
 Icon: file:///Library/PreferenceLoader/Preferences/Infinidock.png
 Name: Infinidock (iOS 8)
 
+Package: com.tonykraft.bdayspotify2
+Version: 2.0+debug-1
+Architecture: iphoneos-arm
+Maintainer: Tony Kraft <iostonykraft@gmail.com>
+Installed-Size: 200
+Depends: mobilesubstrate
+Filename: ./debs//com.tonykraft.bdayspotify2_2.0+debug-1_iphoneos-arm.deb
+Size: 19046
+MD5sum: 3002eb46bfd8246196f7cee45de4a83e
+SHA1: fbc7aef154ea56910cfe6e34a990a920578191c1
+SHA256: 527766d360cd6650fba82fc0a3f7dcfa5fd3146a16c95c1d3a9013fdd8bdbd0c
+Section: Tweaks
+Description: Enhance Spotify with this tweak!
+Author: Tony Kraft and Andy Wiik <iostonykraft@gmail.com>
+Name: BDaySpotify
+
 Package: com.tonykraft.betterbackground8
 Version: 0.1~beta-1
 Architecture: iphoneos-arm
