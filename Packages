@@ -1,14 +1,14 @@
 Package: com.atwiiks.bdayspotify2
-Version: 1.0-15
+Version: 1.0-16
 Architecture: iphoneos-arm
 Maintainer: Tony Kraft <iostonykraft@gmail.com>
 Installed-Size: 136
 Depends: mobilesubstrate
-Filename: ./debs//com.atwiiks.bdayspotify2_1.0-15_iphoneos-arm.deb
-Size: 9256
-MD5sum: f936978d4ffae608258c85b3ca6e8d0a
-SHA1: 70402ed4c7e7691aff03135aa962b914a1c9248c
-SHA256: 7e0a33e0a70ed67d89ca6ab1a8ae76a39e74ebcc610272be20caa32a627e4758
+Filename: ./debs//com.atwiiks.bdayspotify2_1.0-16_iphoneos-arm.deb
+Size: 8796
+MD5sum: 57b669453e9f79c201bb8da4cbb6acb1
+SHA1: 493e513c481e123d8765a43bc0b166982e659d72
+SHA256: d3584d9fdd22cd861929c71ff7d660adb858391c007c619573e7fc33c0524f30
 Section: Tweaks
 Description: Current features: No Ads, Seeking, Choose any song in search and My Music, Unlimited Skips. Version 1.0-13 now blocks ads! (and also fixes the missing Browse section)
 Author: ATWiiks & Tony Kraft <iostonykraft@gmail.com>
