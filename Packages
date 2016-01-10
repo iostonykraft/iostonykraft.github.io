@@ -1,16 +1,16 @@
 Package: com.atwiiks.bdayspotify2
-Version: 1.0-16
+Version: 1.0-17
 Architecture: iphoneos-arm
 Maintainer: Tony Kraft <iostonykraft@gmail.com>
 Installed-Size: 136
 Depends: mobilesubstrate
-Filename: ./debs//com.atwiiks.bdayspotify2_1.0-16_iphoneos-arm.deb
-Size: 8796
-MD5sum: 57b669453e9f79c201bb8da4cbb6acb1
-SHA1: 493e513c481e123d8765a43bc0b166982e659d72
-SHA256: d3584d9fdd22cd861929c71ff7d660adb858391c007c619573e7fc33c0524f30
+Filename: ./debs//com.atwiiks.bdayspotify2_1.0-17_iphoneos-arm.deb
+Size: 8358
+MD5sum: 218e3890cb5f9f7c3af4cb45eb8ab15b
+SHA1: 6e632bd8ef7e65c44d4f0603edab961a8360400b
+SHA256: 6d6ad5bb28ad551f81a158c28e9309428f06963351bf7e67bd560470fd6c7b13
 Section: Tweaks
-Description: Current features: No Ads, Seeking, Choose any song in search and My Music, Unlimited Skips. Version 1.0-13 now blocks ads! (and also fixes the missing Browse section)
+Description: Current features: Seeking, Choose any song in search and My Music, Unlimited Skips.
 Author: ATWiiks & Tony Kraft <iostonykraft@gmail.com>
 Name: BDaySpotify 2
 
@@ -47,23 +47,6 @@ Description: Remove ADs, Splash videos, Player Watermark from app Crackle (AppSt
 Author: julioverne
 Icon: file:///Library/Application Support/Crackle ADs Remover/Icon.png
 Name: Crackle ADs Remover
-
-Package: com.julioverne.mobilegestaltfaker
-Version: 1.1
-Architecture: iphoneos-arm
-Maintainer: Julio
-Depends: mobilesubstrate, firmware (>= 7.0)
-Filename: ./debs//com.julioverne.mobilegestaltfaker_1.1_iphoneos-arm.deb
-Size: 99892
-MD5sum: f36361daec2d223e864a3b2ffad8dda2
-SHA1: e35fb8f5423a880f16425899668721faa22c8a8d
-SHA256: 5490d8ee2cad5029d63b6664d7eb58fed9cc8e519edefa03232015cba1a59046
-Section: Tweaks
-Homepage: http://twitter.com/ijulioverne
-Description: Fake udid, serial, mac and others on Apps
-Author: julioverne
-Icon: file:///Applications/MGFakerApp.app/Icon.png
-Name: MobileGestaltFaker
 
 Package: com.ptvob.perkenhancer
 Version: 0.1~beta-9
