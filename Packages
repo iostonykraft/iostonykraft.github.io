@@ -65,6 +65,20 @@ Description: Blocks the annoying pop-ups and disables adblocker detection in Per
 Author: PTVoB <devios@icloud.com>
 Name: PerkEnhancer
 
+Package: com.reddestdream.mhbcb
+Version: 1.2
+Architecture: iphoneos-arm
+Conflicts: com.thireus.untrustedhostsblockerexperimental, com.thireus.untrustedhostsblockerlight, com.thireus.untrustedhostsblocker, com.myrepospace.reddestdream.minimal, com.myrepospace.basic.basic, com.reddestdream.minimalhostsblocker
+Filename: ./debs//MHB CB 12.deb
+Size: 2134
+MD5sum: 0e9dcc69c535b64624c6d60e7ec4fd5f
+SHA1: 5ef6bf1f336f5cec2bcc00ceca66bffc903ae41a
+SHA256: 55dd5559d5d366e88e0b54c1b57aa20fe3a22f98ae9391f9a39dcf23e9bd4ba1
+Section: Tweaks
+Description: Minimal Hosts Blocker designed to be used with a Content Blocker.
+Author: ReddestDream <reddestdream@gmail.com>
+Name: Minimal Hosts Blocker CB
+
 Package: com.reddestdream.minimalhostsblocker
 Version: 7.2
 Architecture: iphoneos-arm
