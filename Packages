@@ -4,7 +4,7 @@ Architecture: iphoneos-arm
 Maintainer: Tony Kraft <iostonykraft@gmail.com>
 Installed-Size: 120
 Depends: mobilesubstrate
-Filename: ./debs//com.atwiiks.bdayspotify2_1.0-24_iphoneos-arm.deb
+Filename: ./debs/com.atwiiks.bdayspotify2_1.0-24_iphoneos-arm.deb
 Size: 7724
 MD5sum: 8035d1305f72baf969d44bb3dbe7a559
 SHA1: 2d3f04137b0c06fe0f790571916f63110e8b3924
@@ -21,7 +21,7 @@ Maintainer: DeViOS <thedevios@icloud.com>
 Installed-Size: 200
 Depends: mobilesubstrate
 Replaces: com.tonykraft.tinderpro
-Filename: ./debs//com.devios.tinderpro_1.0-7_iphoneos-arm.deb
+Filename: ./debs/com.devios.tinderpro_1.0-7_iphoneos-arm.deb
 Size: 5460
 MD5sum: f458cf20c74262c5f6ef64487c6afba9
 SHA1: bc7841d5d62ce751261a3aee45748f869eb58f1c
@@ -36,7 +36,7 @@ Version: 1.1
 Architecture: iphoneos-arm
 Maintainer: Julio
 Depends: mobilesubstrate
-Filename: ./debs//com.julioverne.crackle-ads-remover_1.1_iphoneos-arm.deb
+Filename: ./debs/com.julioverne.crackle-ads-remover_1.1_iphoneos-arm.deb
 Size: 12166
 MD5sum: 45f33f10e4221d67badee993debcd209
 SHA1: fddfa138b1bc05dfd289d33b3b22ba3c31dcbede
@@ -55,7 +55,7 @@ Maintainer: PTVoB <devios@icloud.com>
 Installed-Size: 92
 Depends: mobilesubstrate
 Replaces: com.tonykraft.perkenhancer
-Filename: ./debs//com.ptvob.perkenhancer_0.1~beta-9_iphoneos-arm.deb
+Filename: ./debs/com.ptvob.perkenhancer_0.1~beta-9_iphoneos-arm.deb
 Size: 4188
 MD5sum: 88a4c677cc097133502ba4642bcd43f1
 SHA1: 0950af6b3981015da647578751cb56e758cc60ef
@@ -75,7 +75,7 @@ Depends: mobilesubstrate, preferenceloader (>= 1.1), com.chpwn.iconsupport, firm
 Conflicts: com.saurik.iphone.fid, com.weiphone.setwallpaper3, com.macciti.6icondock, com.imario.supremepreferencesthree, com.thecyberduck.springboardenhancer
 Replaces: com.saurik.iphone.fid, com.weiphone.setwallpaper3, com.macciti.6icondock, com.imario.supremepreferencesthree, com.thecyberduck.springboardenhancer
 Provides: com.saurik.iphone.fid, com.macciti.6icondock
-Filename: ./debs//infinidock.deb
+Filename: ./debs/infinidock.deb
 Size: 62850
 MD5sum: 10d7bc0c87187c55862fa3d344a52c23
 SHA1: f3da03848b672aa89a1d0c815755ac8f5f64a232
@@ -93,7 +93,7 @@ Architecture: iphoneos-arm
 Maintainer: Tony Kraft <iostonykraft@gmail.com>
 Installed-Size: 88
 Depends: mobilesubstrate, firmware (>= 8.0)
-Filename: ./debs//com.tonykraft.betterbackground8_0.1~beta-1_iphoneos-arm.deb
+Filename: ./debs/com.tonykraft.betterbackground8_0.1~beta-1_iphoneos-arm.deb
 Size: 3742
 MD5sum: 318701c2ceaa3ca28cc31153434b28a5
 SHA1: fe4c8ea708bab38639c1b38149b1f245889ac572
@@ -109,7 +109,7 @@ Architecture: iphoneos-arm
 Maintainer: Tony Kraft <iostonykraft@gmail.com>
 Installed-Size: 88
 Depends: mobilesubstrate
-Filename: ./debs//com.tonykraft.crunchyrolladremover_1.0-1_iphoneos-arm.deb
+Filename: ./debs/com.tonykraft.crunchyrolladremover_1.0-1_iphoneos-arm.deb
 Size: 3636
 MD5sum: 486de093a73dd3ca2cb679460cc404de
 SHA1: 693cfa61ce22e33c3273272021a9cf64b36dd2a2
@@ -124,7 +124,7 @@ Version: 2.1
 Architecture: iphoneos-arm
 Maintainer: Tony Kraft <iostonykraft@gmail.com>
 Depends: mobilesubstrate
-Filename: ./debs//com.tonykraft.gba4ios_2.1_iphoneos-arm.deb
+Filename: ./debs/com.tonykraft.gba4ios_2.1_iphoneos-arm.deb
 Size: 7723014
 MD5sum: 8e8b21af52e6314c37938fe6bc2485e7
 SHA1: 258e99c802d394d388b1c38df950729195c69fa5
@@ -140,7 +140,7 @@ Architecture: iphoneos-arm
 Maintainer: Tony Kraft <iostonykraft@gmail.com>
 Installed-Size: 200
 Depends: mobilesubstrate
-Filename: ./debs//com.tonykraft.iheartradiopro_1.0-1_iphoneos-arm.deb
+Filename: ./debs/com.tonykraft.iheartradiopro_1.0-1_iphoneos-arm.deb
 Size: 6070
 MD5sum: f7dfad4ffb2607c1dff4939ccb11b746
 SHA1: a6b292075fb7df9b69c48b61a5e3b77e686c9029
@@ -151,16 +151,16 @@ Author: Tony Kraft <iostonykraft@gmail.com>
 Name: iHeartRadioPro
 
 Package: com.tonykraft.inosleep
-Version: 0.2~beta-15
+Version: 1.0-1+debug
 Architecture: iphoneos-arm
 Maintainer: Tony Kraft
-Installed-Size: 448
+Installed-Size: 456
 Depends: mobilesubstrate
-Filename: ./debs//com.tonykraft.inosleep_0.2~beta-15_iphoneos-arm.deb
-Size: 35832
-MD5sum: 5ac8b0f14797a0e468295631fcba330e
-SHA1: f66235165a62a244fc7d232fed2fa73cfc5a6557
-SHA256: ee610c24eb6e4bbc75c6090da8fde597ec5919c60f90c954cf42c4d3db548c2f
+Filename: ./debs/com.tonykraft.inosleep_1.0-1+debug_iphoneos-arm.deb
+Size: 31816
+MD5sum: 96f88ccdad7d39430b57c22ea9be66c2
+SHA1: a387e3ec902245b651ae43f1983083ca1661d481
+SHA256: a396865a7b475d4b491b3498fd276254eed4b3fcb7136b7e1223dd53fcae1776
 Section: Tweaks
 Description: Allows Wifi to stay connected when the device is locked.
 Author: Tony Kraft
@@ -172,7 +172,7 @@ Architecture: iphoneos-arm
 Maintainer: Tony Kraft <iostonykraft@gmail.com>
 Installed-Size: 204
 Depends: mobilesubstrate, firmware (>= 9.0)
-Filename: ./debs//com.tonykraft.iris_0.1-2_iphoneos-arm.deb
+Filename: ./debs/com.tonykraft.iris_0.1-2_iphoneos-arm.deb
 Size: 5342
 MD5sum: 7a72557dde3e30fe0aaaf4a215f89a5b
 SHA1: d06b425df2f6d9f5e9a4e5abd61ec0415ec2555a
@@ -188,7 +188,7 @@ Architecture: iphoneos-arm
 Maintainer: Tony Kraft <iostonykraft@gmail.com>
 Installed-Size: 232
 Depends: mobilesubstrate
-Filename: ./debs//com.tonykraft.kikpro_1.0-11_iphoneos-arm.deb
+Filename: ./debs/com.tonykraft.kikpro_1.0-11_iphoneos-arm.deb
 Size: 42576
 MD5sum: d8bf20206b6c1204926cb3d44bcdef96
 SHA1: 72e846c5fee46836c28a2ab60903dd9f273f6444
@@ -204,7 +204,7 @@ Architecture: iphoneos-arm
 Maintainer: Tony Kraft <iostonykraft@gmail.com>
 Installed-Size: 200
 Depends: mobilesubstrate, firmware (>= 9.0)
-Filename: ./debs//com.tonykraft.medusaenabler_1.0-3_iphoneos-arm.deb
+Filename: ./debs/com.tonykraft.medusaenabler_1.0-3_iphoneos-arm.deb
 Size: 5234
 MD5sum: 583fcfd8087811d264d8947b163dc6c7
 SHA1: 42333a371c0ba8dc72a5996aa0a9eb4ffbe2aea1
@@ -220,7 +220,7 @@ Architecture: iphoneos-arm
 Maintainer: Tony Kraft
 Installed-Size: 448
 Depends: mobilesubstrate
-Filename: ./debs//com.tonykraft.movieboxpro_1.0.1-2_iphoneos-arm.deb
+Filename: ./debs/com.tonykraft.movieboxpro_1.0.1-2_iphoneos-arm.deb
 Size: 44582
 MD5sum: 7257e9a74a105ca0809079a96c5d9fa0
 SHA1: 98dbc68119ec025bf80d5eefd5e2607688ac6ebe
@@ -236,7 +236,7 @@ Architecture: iphoneos-arm
 Maintainer: Tony Kraft <iostonykraft@gmail.com>
 Installed-Size: 92
 Depends: mobilesubstrate
-Filename: ./debs//com.tonykraft.narwhalpro_1.0-2_iphoneos-arm.deb
+Filename: ./debs/com.tonykraft.narwhalpro_1.0-2_iphoneos-arm.deb
 Size: 3720
 MD5sum: 2d5659259841eb5d5281c74710ab2c57
 SHA1: e1451a3bc7517f6b768a68378db7bee750d1cd00
@@ -252,7 +252,7 @@ Architecture: iphoneos-arm
 Maintainer: Tony Kraft <iostonykraft@gmail.com>
 Installed-Size: 200
 Depends: mobilesubstrate
-Filename: ./debs//com.tonykraft.noautoreloadforsafari_1.0-2_iphoneos-arm.deb
+Filename: ./debs/com.tonykraft.noautoreloadforsafari_1.0-2_iphoneos-arm.deb
 Size: 5302
 MD5sum: f9c71e8a30af6002cd92f22a2daf2f51
 SHA1: ddbdafaae451259d7213e04e791eb7c96fe5436a
@@ -268,7 +268,7 @@ Architecture: iphoneos-arm
 Maintainer: Tony Kraft
 Installed-Size: 200
 Depends: mobilesubstrate
-Filename: ./debs//com.tonykraft.noclockanimation_1.0-12_iphoneos-arm.deb
+Filename: ./debs/com.tonykraft.noclockanimation_1.0-12_iphoneos-arm.deb
 Size: 4810
 MD5sum: 7375f789ba629a29aab10078abbf1878
 SHA1: 9f9faaef912ad958b2988a87cce30a6ab66c98f3
@@ -284,7 +284,7 @@ Architecture: iphoneos-arm
 Maintainer: Tony Kraft
 Installed-Size: 88
 Depends: mobilesubstrate
-Filename: ./debs//com.tonykraft.nocontrolcenter_1.0-1_iphoneos-arm.deb
+Filename: ./debs/com.tonykraft.nocontrolcenter_1.0-1_iphoneos-arm.deb
 Size: 3402
 MD5sum: 6f1692dc60d8e0823f286c3cb6dab269
 SHA1: 49410b12ceb379b4ffaf81fcd2ca7c80748ed525
@@ -300,7 +300,7 @@ Architecture: iphoneos-arm
 Maintainer: Tony Kraft <iostonykraft@gmail.com>
 Installed-Size: 200
 Depends: mobilesubstrate
-Filename: ./debs//com.tonykraft.nogamecenterannoyance_0.1-1_iphoneos-arm.deb
+Filename: ./debs/com.tonykraft.nogamecenterannoyance_0.1-1_iphoneos-arm.deb
 Size: 4884
 MD5sum: 768bee8985fafb0799a2f401b458148f
 SHA1: 320389abaee37e926b0f8419116589ecfe57c5b9
@@ -314,7 +314,7 @@ Package: com.tonykraft.noiads
 Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: Tony Kraft <iostonykraft@gmail.com>
-Filename: ./debs//NoiAds.deb
+Filename: ./debs/NoiAds.deb
 Size: 1118
 MD5sum: 024bf8f580b5d063d4e1226e765adf1a
 SHA1: 93f4840fb0161ab0bc180f435f26c90a5cf6e740
@@ -330,7 +330,7 @@ Architecture: iphoneos-arm
 Maintainer: Tony Kraft <iostonykraft@gmail.com>
 Installed-Size: 200
 Depends: mobilesubstrate
-Filename: ./debs//com.tonykraft.nopowersound_1.0-1_iphoneos-arm.deb
+Filename: ./debs/com.tonykraft.nopowersound_1.0-1_iphoneos-arm.deb
 Size: 4696
 MD5sum: ce79c7409763fe0856df4a78cd850f20
 SHA1: cb23c9a8f9d0eb30fd68c265b62ffbd35cbafaa7
@@ -346,7 +346,7 @@ Architecture: iphoneos-arm
 Maintainer: Tony Kraft <iostonykraft@gmail.com>
 Installed-Size: 88
 Depends: mobilesubstrate, com.tonykraft.nouberjailbreak
-Filename: ./debs//com.tonykraft.noubdrivergeofence_0.1~beta-2_iphoneos-arm.deb
+Filename: ./debs/com.tonykraft.noubdrivergeofence_0.1~beta-2_iphoneos-arm.deb
 Size: 3896
 MD5sum: 067cd25fa53b87c56468317312c698c1
 SHA1: b23e2be2b3181282b394b92ef79d693b4b780588
@@ -362,7 +362,7 @@ Architecture: iphoneos-arm
 Maintainer: Tony Kraft <iostonykraft@gmail.com>
 Installed-Size: 88
 Depends: mobilesubstrate
-Filename: ./debs//com.tonykraft.novoicecontrol_1.0-1_iphoneos-arm.deb
+Filename: ./debs/com.tonykraft.novoicecontrol_1.0-1_iphoneos-arm.deb
 Size: 3340
 MD5sum: 278802743504289813096376df2f2120
 SHA1: 43173a6ecde18f9efb7ba26afd9f6e1afaac0815
@@ -378,7 +378,7 @@ Architecture: iphoneos-arm
 Maintainer: Tony Kraft <iostonykraft@gmail.com>
 Installed-Size: 140
 Depends: mobilesubstrate
-Filename: ./debs//com.tonykraft.nowplayinggradremover_0.1-2_iphoneos-arm.deb
+Filename: ./debs/com.tonykraft.nowplayinggradremover_0.1-2_iphoneos-arm.deb
 Size: 3528
 MD5sum: 019ffd250ee297374da7abda49081915
 SHA1: 6723a3f11bdd068897155c0d6bfff58f13c886e8
@@ -394,7 +394,7 @@ Architecture: iphoneos-arm
 Maintainer: Tony Kraft <iostonykraft@gmail.com>
 Installed-Size: 88
 Depends: mobilesubstrate
-Filename: ./debs//com.tonykraft.pandorapro_1.0.1-2_iphoneos-arm.deb
+Filename: ./debs/com.tonykraft.pandorapro_1.0.1-2_iphoneos-arm.deb
 Size: 5458
 MD5sum: 75d92ad68f761d054ace6d47c55154b6
 SHA1: 406ea2ea7efb285bd9c02181e0b219cfb9f6512f
@@ -410,7 +410,7 @@ Architecture: iphoneos-arm
 Maintainer: Tony Kraft <iostonykraft@gmail.com>
 Installed-Size: 444
 Depends: mobilesubstrate, firmware (>= 9.0), applist
-Filename: ./debs//com.tonykraft.perfectfit_0.1~beta-4_iphoneos-arm.deb
+Filename: ./debs/com.tonykraft.perfectfit_0.1~beta-4_iphoneos-arm.deb
 Size: 33824
 MD5sum: 4d1019b7d151137ddd2e86a89984068c
 SHA1: 3680b1ca0ea6f4f9200d3107ba77fa1d74d30e0f
@@ -425,7 +425,7 @@ Version: 1.0.1
 Architecture: iphoneos-arm
 Maintainer: Tony Kraft <iostonykraft@gmail.com>
 Depends: mobilesubstrate
-Filename: ./debs//PineappleBootlogo1.deb
+Filename: ./debs/PineappleBootlogo1.deb
 Size: 46010
 MD5sum: 520c0b2ba20ae39febe8014a194815e9
 SHA1: 7c4727b94c829feac4c47aa14a15ef9375409504
@@ -441,7 +441,7 @@ Architecture: iphoneos-arm
 Maintainer: Tony Kraft <iostonykraft@gmail.com>
 Installed-Size: 88
 Depends: mobilesubstrate
-Filename: ./debs//com.tonykraft.playboxadremover_1.0-3_iphoneos-arm.deb
+Filename: ./debs/com.tonykraft.playboxadremover_1.0-3_iphoneos-arm.deb
 Size: 3978
 MD5sum: 700472e9b077fed584a1a9fa2b75afc8
 SHA1: f9c201d61667e5e875e39cddadf6dab9ba6fe440
@@ -456,7 +456,7 @@ Version: 1.3
 Architecture: iphoneos-arm
 Maintainer: Tony Kraft <iostonykraft@gmail.com>
 Replaces: com.myrepospace.Tony999.recommende-list
-Filename: ./debs//com.tonykraft.recommendedrepos_1.3_iphoneos-arm.deb
+Filename: ./debs/com.tonykraft.recommendedrepos_1.3_iphoneos-arm.deb
 Size: 874
 MD5sum: 4f7d8361fecf5e2cafce61c2f1ef73a3
 SHA1: 9785df0ff4e54e14480f0e6a475166e6589776b3
@@ -472,7 +472,7 @@ Architecture: iphoneos-arm
 Maintainer: Tony Kraft
 Installed-Size: 200
 Depends: mobilesubstrate
-Filename: ./debs//com.tonykraft.supporttheunsupported_1.0-3_iphoneos-arm.deb
+Filename: ./debs/com.tonykraft.supporttheunsupported_1.0-3_iphoneos-arm.deb
 Size: 4952
 MD5sum: a7219d0e586e895a9f3d1d24c4b2051c
 SHA1: d7c4b4e29084f20b03601f1a861395de0550da38
@@ -486,7 +486,7 @@ Package: com.winterboardicon
 Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: Tony Kraft <iostonykraft@gmail.com>
-Filename: ./debs//WinterboardApp.deb
+Filename: ./debs/WinterboardApp.deb
 Size: 165252
 MD5sum: ac6e53f7616dfb1019a15ff328a453e3
 SHA1: 0c3d8134e8d2221da447df39f56a8e62cd25e156
@@ -502,7 +502,7 @@ Architecture: iphoneos-arm
 Maintainer: Haifisch
 Installed-Size: 88
 Depends: mobilesubstrate
-Filename: ./debs//ninja.haifisch.novoicemessaging_0.0.1-3_iphoneos-arm.deb
+Filename: ./debs/ninja.haifisch.novoicemessaging_0.0.1-3_iphoneos-arm.deb
 Size: 3542
 MD5sum: feb58d86f75668c18230681ca50af342
 SHA1: fcb0edd8df39db0bc39bb31d0a705d6180063df9
@@ -518,7 +518,7 @@ Architecture: iphoneos-arm
 Maintainer: Tony Kraft
 Installed-Size: 344
 Depends: mobilesubstrate
-Filename: ./debs//org.thebigboss.clarify_1.1-3_iphoneos-arm.deb
+Filename: ./debs/org.thebigboss.clarify_1.1-3_iphoneos-arm.deb
 Size: 45258
 MD5sum: 639b514d5355d5a9e6b01a1f51e59821
 SHA1: 17a9ec6a78603569ada3cfef555b1d31b0e98636
