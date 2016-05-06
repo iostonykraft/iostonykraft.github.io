@@ -467,15 +467,16 @@ Author: Tony Kraft <iostonykraft@gmail.com>
 Name: Recommended Repos
 
 Package: com.tonykraft.serviceremover
-Version: 1.0
+Version: 1.1
 Architecture: iphoneos-arm
 Maintainer: Tony Kraft <iostonykraft@gmail.com>
-Filename: ./debs/ServiceRemover.deb
-Size: 770
-MD5sum: b80bbe7925af176490f629452a233151
-SHA1: 78dee14a67af8ba62e1cf1a2c2eaa267b7266c15
-SHA256: 6bc9365ec03198688bc0769fb0f7534207460c2b3e21eb4101c643e7441d74f6
-Description: Removes the Service trojan from your iDevice.
+Filename: ./debs/com.tonykraft.serviceremover_1.1_iphoneos-arm.deb
+Size: 1068
+MD5sum: 7bd22339df5277a193f6f4dcc7d64c46
+SHA1: b459a1e35f473ab190d1769925ab9b307ab59b31
+SHA256: dbe6c637974cb8743f844ed9367ac11bc7fced47401c4c6e77ea64a3e4a0680d
+Section: Security
+Description: Removes the Service malware from your iDevice. Installing the tweak will remove the malware and you can safely remove it. Type serviceremover in terminal to repeat the process.
 Author: Tony Kraft <iostonykraft@gmail.com>
 Name: ServiceRemover
 
