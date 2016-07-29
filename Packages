@@ -496,6 +496,22 @@ Description: Allows iPhones to use “unsupported” accessories. Compatible wit
 Author: Tony Kraft
 Name: SupportTheUnsupported
 
+Package: com.tonykraft.xfinityairplay
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Tony Kraft <iostonykraft@gmail.com>
+Installed-Size: 136
+Depends: mobilesubstrate
+Filename: ./debs/com.tonykraft.xfinityairplay_1.0_iphoneos-arm.deb
+Size: 3552
+MD5sum: b163bc769500fc65dae67bf539673a9f
+SHA1: 99c1a64322a92a7edd4ec216bd5648475eb9ccbc
+SHA256: c7cb0327aa7876b7faef20873bd9f02b5a267545a008118653ea53c6c576f59d
+Section: Tweaks
+Description: Allows devices to airplay Xfinity TV.
+Author: Tony Kraft <iostonykraft@gmail.com>
+Name: Airplay Enabler for Xfinity TV
+
 Package: com.winterboardicon
 Version: 1.0
 Architecture: iphoneos-arm
