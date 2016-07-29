@@ -340,6 +340,22 @@ Description: Disables the sound the device makes when plugged into charger. Comp
 Author: Tony Kraft <iostonykraft@gmail.com>
 Name: NoPowerSound
 
+Package: com.tonykraft.nosnapads
+Version: 1.0-1+debug
+Architecture: iphoneos-arm
+Maintainer: Tony Kraft <iostonykraft@gmail.com>
+Installed-Size: 136
+Depends: mobilesubstrate
+Filename: ./debs/com.tonykraft.nosnapads_1.0-1+debug_iphoneos-arm.deb
+Size: 4386
+MD5sum: d3d44636699989a2097f5f84b4a924b1
+SHA1: fb9a2fe8bb906eca5752c50454e232188d28746d
+SHA256: 24e572de7f24696ef22579f89e18646696e21b64281d898616c285fb23500064
+Section: Tweaks
+Description: Removes ads in Snapchat. The ads are usually shown after viewing someone’s story. Note: This tweak does not, nor will it ever, remove ads from snapchat tweaks (Phantom, Snap++, etc.)
+Author: Tony Kraft <iostonykraft@gmail.com>
+Name: NoSnapAds
+
 Package: com.tonykraft.noubdrivergeofence
 Version: 0.1~beta-2
 Architecture: iphoneos-arm
