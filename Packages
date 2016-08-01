@@ -1,14 +1,14 @@
 Package: com.atwiiks.bdayspotify2
-Version: 1.0-24
+Version: 1.1
 Architecture: iphoneos-arm
 Maintainer: Tony Kraft <iostonykraft@gmail.com>
-Installed-Size: 120
+Installed-Size: 312
 Depends: mobilesubstrate
-Filename: ./debs/com.atwiiks.bdayspotify2_1.0-24_iphoneos-arm.deb
-Size: 7724
-MD5sum: 8035d1305f72baf969d44bb3dbe7a559
-SHA1: 2d3f04137b0c06fe0f790571916f63110e8b3924
-SHA256: 8e82471fbc9cab47787f43762e92a43377e28693b11bdf4557480647bac9cd5d
+Filename: ./debs/com.atwiiks.bdayspotify2_1.1_iphoneos-arm.deb
+Size: 28836
+MD5sum: b21d4e5262af8ca91df31082b4bd1505
+SHA1: 3681d6f4fb2ca894222c79c1a84b9dce49ba6652
+SHA256: 3c9947173275d985f0c04a69fe1bf15ff036217bc20702523dc01a500cd16b98
 Section: Tweaks
 Description: Current features: Seeking, Choose any song in search and My Music, Unlimited Skips.
 Author: ATWiiks & Tony Kraft <iostonykraft@gmail.com>
