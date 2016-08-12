@@ -452,20 +452,20 @@ Author: Tony Kraft <iostonykraft@gmail.com>
 Name: Redsn0w Pineapple Bootlogo
 
 Package: com.tonykraft.playboxadremover
-Version: 1.0-3
+Version: 2.0
 Architecture: iphoneos-arm
 Maintainer: Tony Kraft <iostonykraft@gmail.com>
-Installed-Size: 88
+Installed-Size: 136
 Depends: mobilesubstrate
-Filename: ./debs/com.tonykraft.playboxadremover_1.0-3_iphoneos-arm.deb
-Size: 3978
-MD5sum: 700472e9b077fed584a1a9fa2b75afc8
-SHA1: f9c201d61667e5e875e39cddadf6dab9ba6fe440
-SHA256: f73214a6a6a0f8eb368510fbb073bc50aac5ffc1d0671eb89859709a09320ebd
+Filename: ./debs/com.tonykraft.playboxadremover_2.0_iphoneos-arm.deb
+Size: 3708
+MD5sum: f41fca315015b5610997cc915a690cac
+SHA1: b5fc64ed4d93a2769a9c36ad129aadee93ec946c
+SHA256: 4e7e5bb49494a37476a73e5fabec700be91ddccea8ddab74b5860894356feb00
 Section: Tweaks
-Description: Disables ads in Playbox HD.
+Description: Disables ads in Cinema Box.
 Author: Tony Kraft <iostonykraft@gmail.com>
-Name: Playbox HD Ad Remover
+Name: CinemaBox Ad Remover
 
 Package: com.tonykraft.recommendedrepos
 Version: 1.3
