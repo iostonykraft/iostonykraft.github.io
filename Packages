@@ -15,19 +15,18 @@ Author: ATWiiks & Tony Kraft <iostonykraft@gmail.com>
 Name: BDaySpotify 2
 
 Package: com.devios.tinderpro
-Version: 1.0-7
+Version: 1.1
 Architecture: iphoneos-arm
 Maintainer: DeViOS <thedevios@icloud.com>
-Installed-Size: 200
+Installed-Size: 136
 Depends: mobilesubstrate
-Replaces: com.tonykraft.tinderpro
-Filename: ./debs/com.devios.tinderpro_1.0-7_iphoneos-arm.deb
-Size: 5460
-MD5sum: f458cf20c74262c5f6ef64487c6afba9
-SHA1: bc7841d5d62ce751261a3aee45748f869eb58f1c
-SHA256: b0991bba01b9ee64b4ff1613655b24ca798b2fc4b398a8a19ff81f43d1a879ee
+Filename: ./debs/com.devios.tinderpro_1.1_iphoneos-arm.deb
+Size: 3854
+MD5sum: f351278906a2f738e704c52379b18539
+SHA1: cbc2df4401b5585cda4b7bf8152d176c7e7b1170
+SHA256: 6de543465b2667c0aa3b98c71cd18fefa87b3439a43d09c34070ca0e4d5c2fea
 Section: Tweaks
-Description: This tweak enables unlimited likes and (maybe) tinder plus for free in Tinder.
+Description: This tweak enables unlimited likes and tinder plus for free in Tinder.
 Author: DeViOS <thedevios@icloud.com>
 Name: TinderPro
 
