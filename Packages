@@ -388,16 +388,16 @@ Author: Tony Kraft <iostonykraft@gmail.com>
 Name: NoVoiceControl
 
 Package: com.tonykraft.nowplayinggradremover
-Version: 0.1-2
+Version: 0.2
 Architecture: iphoneos-arm
 Maintainer: Tony Kraft <iostonykraft@gmail.com>
 Installed-Size: 140
 Depends: mobilesubstrate
-Filename: ./debs/com.tonykraft.nowplayinggradremover_0.1-2_iphoneos-arm.deb
-Size: 3528
-MD5sum: 019ffd250ee297374da7abda49081915
-SHA1: 6723a3f11bdd068897155c0d6bfff58f13c886e8
-SHA256: 87593f5af67884a7b82fba99cc33e166c604a7d45abe40c2e1466e6843ead265
+Filename: ./debs/com.tonykraft.nowplayinggradremover_0.2_iphoneos-arm.deb
+Size: 3192
+MD5sum: 9e4cacfaee255680261fc87ac8481e6a
+SHA1: 28bda363e15e45e0f14d49ec6cafbb5dabc7b181
+SHA256: 2174cc20d8a706c19be197683722e8788853af73e4f0658a614cff2f349dd687
 Section: Tweaks
 Description: Removes the gradient on the Now Playing status bar in the music app (iOS 8.4 and above)
 Author: Tony Kraft <iostonykraft@gmail.com>
