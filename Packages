@@ -310,16 +310,16 @@ Author: Tony Kraft <iostonykraft@gmail.com>
 Name: NoGameCenterAnnoyance
 
 Package: com.tonykraft.noiads
-Version: 1.0
+Version: 1.1
 Architecture: iphoneos-arm
 Maintainer: Tony Kraft <iostonykraft@gmail.com>
-Filename: ./debs/NoiAds.deb
-Size: 1118
-MD5sum: 024bf8f580b5d063d4e1226e765adf1a
-SHA1: 93f4840fb0161ab0bc180f435f26c90a5cf6e740
-SHA256: b78c04fbf9810d60b1b9f93e0b76fb49cda310474b28fb2664d4d4a73794763b
+Filename: ./debs/com.tonykraft.noiads_1.1_iphoneos-arm.deb
+Size: 912
+MD5sum: 552fbcb92a633b3d99797c04200f2a1f
+SHA1: 302c6b55c4a77c6532f12c278710c2f7d9d56a66
+SHA256: 6029510ea2aa620d24f81ffd2387b7f6208ad0adb1e01c3f65b1a88bfc148c25
 Section: Tweaks
-Description: Block iAds on all iOS versions. You can reverse all changes that this package makes by typing 'restoreiads' without quotes in Terminal/SSH. Thanks to @vortexpwn22 for beta testing.
+Description: Block iAds on all iOS versions. v1.1 now automatically reverses changes when the package is being removed.
 Author: Tony Kraft <iostonykraft@gmail.com>
 Name: No iAds
 
