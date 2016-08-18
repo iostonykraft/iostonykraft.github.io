@@ -262,16 +262,16 @@ Author: Tony Kraft <iostonykraft@gmail.com>
 Name: No Automatic Reload for Safari
 
 Package: com.tonykraft.nobatterystatus
-Version: 0.1
+Version: 0.1.1
 Architecture: iphoneos-arm
 Maintainer: Tony Kraft <iostonykraft@gmail.com>
 Installed-Size: 136
 Depends: mobilesubstrate
-Filename: ./debs/com.tonykraft.nobatterystatus_0.1_iphoneos-arm.deb
-Size: 3228
-MD5sum: 1eaf23a7a988bf2bc0878ad10c7d9fd5
-SHA1: 1556223b14c7391ce3af2de3262a5d5988ffc12a
-SHA256: 9e6d7c2ad689cc7991b8ebb55315927528e31cc4931395b8a66a595ad43a0970
+Filename: ./debs/com.tonykraft.nobatterystatus_0.1.1_iphoneos-arm.deb
+Size: 3424
+MD5sum: d1b5fc02ee231725ee05ba38abed99f4
+SHA1: c2838c6f173de69082578fcb09574b492fd45d40
+SHA256: 6f6fcfa84352a915b6b6f2e88998be1856b823180d2b2d49ae5216636f0a7edd
 Section: Tweaks
 Description: Hides the battery icon in status bar. Only confirmed to work on iOS 9.
 Author: Tony Kraft <iostonykraft@gmail.com>
