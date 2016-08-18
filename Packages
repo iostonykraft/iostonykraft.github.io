@@ -403,22 +403,6 @@ Description: Disables voice control on devices that are on iOS 7 and iOS 8. No o
 Author: Tony Kraft <iostonykraft@gmail.com>
 Name: NoVoiceControl
 
-Package: com.tonykraft.nowplayinggradremover
-Version: 0.2
-Architecture: iphoneos-arm
-Maintainer: Tony Kraft <iostonykraft@gmail.com>
-Installed-Size: 140
-Depends: mobilesubstrate
-Filename: ./debs/com.tonykraft.nowplayinggradremover_0.2_iphoneos-arm.deb
-Size: 3194
-MD5sum: 7d43ae9645d449f0200a263e7e9b10a2
-SHA1: 387105cc18650193076e48798737a18728297120
-SHA256: 0a1f26f45aba2c2ff78f1eb4a4c988926ffe5c5e94b0da3476d9920dee81bf00
-Section: Tweaks
-Description: Removes the gradient on the Now Playing status bar in the music app. Currently only works on iOS 9.
-Author: Tony Kraft <iostonykraft@gmail.com>
-Name: NowPlayingGradRemover
-
 Package: com.tonykraft.pandorapro
 Version: 1.0.1-2
 Architecture: iphoneos-arm
