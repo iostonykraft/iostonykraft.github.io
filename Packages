@@ -229,6 +229,22 @@ Description: Adds the following features to Movie Box 3: No Ads, No Bandwidth Th
 Author: Tony Kraft
 Name: MovieBoxPro
 
+Package: com.tonykraft.musicmark
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Tony Kraft <iostonykraft@gmail.com>
+Installed-Size: 136
+Depends: mobilesubstrate
+Filename: ./debs/com.tonykraft.musicmark_1.0_iphoneos-arm.deb
+Size: 3292
+MD5sum: 6b1de26299e6046ee6ab1e3e6e41697d
+SHA1: 1f279bdf52ca7f598db7dc98e3d0989c8e913036
+SHA256: a3ed456479a5e4d1249e3efbfce3a124af800213386165c973c03f3ad7967ff2
+Section: Tweaks
+Description: Allows music app to remember your song’s position. Compatible with iOS 9.
+Author: Tony Kraft <iostonykraft@gmail.com>
+Name: MusicMark
+
 Package: com.tonykraft.narwhalpro
 Version: 1.0-2
 Architecture: iphoneos-arm
