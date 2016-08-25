@@ -262,16 +262,16 @@ Author: Tony Kraft <iostonykraft@gmail.com>
 Name: narwhalPro
 
 Package: com.tonykraft.ncallonly9
-Version: 0.1~beta
+Version: 0.2~beta
 Architecture: iphoneos-arm
 Maintainer: Tony Kraft <iostonykraft@gmail.com>
 Installed-Size: 280
 Depends: mobilesubstrate
-Filename: ./debs/com.tonykraft.ncallonly9_0.1~beta_iphoneos-arm.deb
-Size: 26928
-MD5sum: aa823bb17af42ac3e4a651f0191c43ec
-SHA1: c9c297a148078b2c2998f7cab5ec2a2ae8260db7
-SHA256: 5f567f477fb7ba586a9a84d86566a5e1b5f8a2323877946e8619920b3a0dab21
+Filename: ./debs/com.tonykraft.ncallonly9_0.2~beta_iphoneos-arm.deb
+Size: 26926
+MD5sum: 71b2efe6f781f26c42d7dbc4f6345b4a
+SHA1: ae07fa103c39b459d2181aea2aab61fdda4f13a0
+SHA256: bb2a56743dd853ecfb17d6cbdbd1d884e36562e85221200b5e5f5c30c63a4f8b
 Section: Tweaks
 Description: Hide certain aspects of the notification center. For iOS 7 and 8, please see NCAllOnly on the BigBoss repo.
 Author: Tony Kraft <iostonykraft@gmail.com>
