@@ -30,23 +30,6 @@ Description: This tweak enables unlimited likes and tinder plus for free in Tind
 Author: DeViOS <thedevios@icloud.com>
 Name: TinderPro
 
-Package: com.julioverne.crackle-ads-remover
-Version: 1.1
-Architecture: iphoneos-arm
-Maintainer: Julio
-Depends: mobilesubstrate
-Filename: ./debs/com.julioverne.crackle-ads-remover_1.1_iphoneos-arm.deb
-Size: 12166
-MD5sum: 45f33f10e4221d67badee993debcd209
-SHA1: fddfa138b1bc05dfd289d33b3b22ba3c31dcbede
-SHA256: adf760176ccf3ed23e02b79276954edd6d76f30e42874c6cab24f5612358b9b5
-Section: Tweaks
-Homepage: http://twitter.com/ijulioverne
-Description: Remove ADs, Splash videos, Player Watermark from app Crackle (AppStore)
-Author: julioverne
-Icon: file:///Library/Application Support/Crackle ADs Remover/Icon.png
-Name: Crackle ADs Remover
-
 Package: com.ptvob.perkenhancer
 Version: 0.1~beta-9
 Architecture: iphoneos-arm
@@ -165,22 +148,6 @@ Description: Allows Wifi to stay connected when the device is locked. v1.1 adds 
 Author: Tony Kraft <iostonykraft@gmail.com>
 Name: iNoSleep
 
-Package: com.tonykraft.iris
-Version: 0.1-2
-Architecture: iphoneos-arm
-Maintainer: Tony Kraft <iostonykraft@gmail.com>
-Installed-Size: 204
-Depends: mobilesubstrate, firmware (>= 9.0)
-Filename: ./debs/com.tonykraft.iris_0.1-2_iphoneos-arm.deb
-Size: 5342
-MD5sum: 7a72557dde3e30fe0aaaf4a215f89a5b
-SHA1: d06b425df2f6d9f5e9a4e5abd61ec0415ec2555a
-SHA256: 04ebabb5e62b4da0bd53d19718f8fef08782424985d089da54c0f160b724155d
-Section: Tweaks
-Description: Enables live photos on unsupported devices on iOS 9.
-Author: Tony Kraft <iostonykraft@gmail.com>
-Name: Iris
-
 Package: com.tonykraft.kikpro
 Version: 1.0-11
 Architecture: iphoneos-arm
@@ -245,22 +212,6 @@ Description: Allows music app to remember your song’s position. Compatible wit
 Author: Tony Kraft <iostonykraft@gmail.com>
 Name: MusicMark
 
-Package: com.tonykraft.narwhalpro
-Version: 1.0-2
-Architecture: iphoneos-arm
-Maintainer: Tony Kraft <iostonykraft@gmail.com>
-Installed-Size: 92
-Depends: mobilesubstrate
-Filename: ./debs/com.tonykraft.narwhalpro_1.0-2_iphoneos-arm.deb
-Size: 3720
-MD5sum: 2d5659259841eb5d5281c74710ab2c57
-SHA1: e1451a3bc7517f6b768a68378db7bee750d1cd00
-SHA256: d1f2c720eb316facd31feab59432001ca6c32c7f4b0446759a82cf45b735e7e5
-Section: Tweaks
-Description: Enables pro features and removes jailbreak detection in “narwhal,” a Reddit client for iOS.
-Author: Tony Kraft <iostonykraft@gmail.com>
-Name: narwhalPro
-
 Package: com.tonykraft.ncallonly9
 Version: 0.2~beta
 Architecture: iphoneos-arm
@@ -308,22 +259,6 @@ Section: Tweaks
 Description: Hides the battery icon in status bar. Only confirmed to work on iOS 9.
 Author: Tony Kraft <iostonykraft@gmail.com>
 Name: NoBatteryStatus
-
-Package: com.tonykraft.noclockanimation
-Version: 1.0-12
-Architecture: iphoneos-arm
-Maintainer: Tony Kraft
-Installed-Size: 200
-Depends: mobilesubstrate
-Filename: ./debs/com.tonykraft.noclockanimation_1.0-12_iphoneos-arm.deb
-Size: 4810
-MD5sum: 7375f789ba629a29aab10078abbf1878
-SHA1: 9f9faaef912ad958b2988a87cce30a6ab66c98f3
-SHA256: 7cffc49cb68bd247a84487dce1123a690d0df849e123a5fe6a83ec35ed320820
-Section: Tweaks
-Description: Disables the live clock animation on springboard to save battery.
-Author: Tony Kraft
-Name: NoClockAnimation
 
 Package: com.tonykraft.nocontrolcenter
 Version: 1.0-1
@@ -403,22 +338,6 @@ Description: Removes ads in Snapchat. The ads are usually shown after viewing so
 Author: Tony Kraft <iostonykraft@gmail.com>
 Name: NoSnapAds
 
-Package: com.tonykraft.noubdrivergeofence
-Version: 0.1~beta-2
-Architecture: iphoneos-arm
-Maintainer: Tony Kraft <iostonykraft@gmail.com>
-Installed-Size: 88
-Depends: mobilesubstrate, com.tonykraft.nouberjailbreak
-Filename: ./debs/com.tonykraft.noubdrivergeofence_0.1~beta-2_iphoneos-arm.deb
-Size: 3896
-MD5sum: 067cd25fa53b87c56468317312c698c1
-SHA1: b23e2be2b3181282b394b92ef79d693b4b780588
-SHA256: 87704a9c7bf909820484e9b72b1b8ba8c6500f075580f6c05172f44e4f56403b
-Section: Tweaks
-Description: Disables the geofence in UberDriver
-Author: Tony Kraft <iostonykraft@gmail.com>
-Name: NoUbDriverGeofence
-
 Package: com.tonykraft.novoicecontrol
 Version: 1.0-1
 Architecture: iphoneos-arm
@@ -467,21 +386,6 @@ Description: Force apps to fit your screen!
 Author: Tony Kraft <iostonykraft@gmail.com>
 Name: PerfectFit
 
-Package: com.tonykraft.pineapplelogo
-Version: 1.0.1
-Architecture: iphoneos-arm
-Maintainer: Tony Kraft <iostonykraft@gmail.com>
-Depends: mobilesubstrate
-Filename: ./debs/PineappleBootlogo1.deb
-Size: 46010
-MD5sum: 520c0b2ba20ae39febe8014a194815e9
-SHA1: 7c4727b94c829feac4c47aa14a15ef9375409504
-SHA256: c95e9f876171c94e70a93db69ad0aa4c71201248e5f2660799b83ef7e78af701
-Section: Bootlogos
-Description: Redsn0w Pineapple bootlogo. Animate or Animate for iOS 8 is required.
-Author: Tony Kraft <iostonykraft@gmail.com>
-Name: Redsn0w Pineapple Bootlogo
-
 Package: com.tonykraft.playboxadremover
 Version: 2.0
 Architecture: iphoneos-arm
@@ -526,6 +430,22 @@ Section: Security
 Description: Removes the Service malware from your iDevice. Installing the tweak will remove the malware and you can safely remove it. Type serviceremover in terminal to repeat the process.
 Author: Tony Kraft <iostonykraft@gmail.com>
 Name: ServiceRemover
+
+Package: com.tonykraft.soundcloudpro
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Tony Kraft <iostonykraft@gmail.com>
+Installed-Size: 120
+Depends: mobilesubstrate
+Filename: ./debs/com.tonykraft.soundcloudpro_1.0_iphoneos-arm.deb
+Size: 4266
+MD5sum: 92509c5af2e45cdcf4881149ec73e6ae
+SHA1: 16849dcf4a757cebbd7dc39fbb026eb9929a1d2c
+SHA256: c31efd702f08582e240b128ed389439c9b67dba517df2e4ac28062b0236dc6b1
+Section: Tweaks
+Description: Enable downloads and remove ads. To download a track, just add it to a playlist, or like it.
+Author: Tony Kraft <iostonykraft@gmail.com>
+Name: SoundCloudPro
 
 Package: com.tonykraft.supporttheunsupported
 Version: 1.0-3
@@ -572,20 +492,4 @@ Section: Apps
 Description: Brings the Winterboard icon back to newer versions.
 Author: Tony Kraft <iostonykraft@gmail.com>
 Name: Winterboard Icon
-
-Package: org.thebigboss.clarify
-Version: 1.1-3
-Architecture: iphoneos-arm
-Maintainer: Tony Kraft
-Installed-Size: 344
-Depends: mobilesubstrate
-Filename: ./debs/org.thebigboss.clarify_1.1-3_iphoneos-arm.deb
-Size: 45258
-MD5sum: 639b514d5355d5a9e6b01a1f51e59821
-SHA1: 17a9ec6a78603569ada3cfef555b1d31b0e98636
-SHA256: 9bcff49aca07c878b0c46bceedf25f2f7bc68adb4246f9e7f95db082dbbada7d
-Section: Tweaks
-Description: Add many features to Spotify!
-Author: Tony Kraft
-Name: Clarify
 
