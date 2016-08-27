@@ -101,6 +101,23 @@ Description: Removes ads in the Crunchyroll app. Requested by @cubenstien on Twi
 Author: Tony Kraft <iostonykraft@gmail.com>
 Name: Crunchyroll Ad Remover
 
+Package: com.tonykraft.customnc
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Tony Kraft <iostonykraft@gmail.com>
+Installed-Size: 288
+Depends: mobilesubstrate
+Replaces: com.jbp.ncallonly, com.tonykraft.ncallonly9
+Filename: ./debs/com.tonykraft.customnc_1.0_iphoneos-arm.deb
+Size: 32552
+MD5sum: d8de5e44e417c7f455b97da00f1788e3
+SHA1: 83c510badc2a2d9974b5606a19144a0e6dc69385
+SHA256: 0ec84c2746c9f13ef05887630e9c9e03f35a84c9e86ecf07d0de756a49c3a878
+Section: Tweaks
+Description: Hide certain aspects of the notification center. For iOS 7 and 8, please see NCAllOnly on the BigBoss repo.
+Author: Tony Kraft <iostonykraft@gmail.com>
+Name: CustomNC
+
 Package: com.tonykraft.gba4ios
 Version: 2.1
 Architecture: iphoneos-arm
@@ -211,23 +228,6 @@ Section: Tweaks
 Description: Allows music app to remember your song’s position. Compatible with iOS 9.
 Author: Tony Kraft <iostonykraft@gmail.com>
 Name: MusicMark
-
-Package: com.tonykraft.ncallonly9
-Version: 1.0
-Architecture: iphoneos-arm
-Maintainer: Tony Kraft <iostonykraft@gmail.com>
-Installed-Size: 288
-Depends: mobilesubstrate
-Replaces: com.jbp.ncallonly
-Filename: ./debs/com.tonykraft.ncallonly9_1.0_iphoneos-arm.deb
-Size: 31980
-MD5sum: f145edf63dcb70b978e87f9ab3e59f9b
-SHA1: 5b343c5a351cc3ff33fafd1e2ab9e7756ea5ea19
-SHA256: 2412e487e9868f6bc80f60cb0194997724f75b8004e92e8d2901e064d747f8bf
-Section: Tweaks
-Description: Hide certain aspects of the notification center. For iOS 7 and 8, please see NCAllOnly on the BigBoss repo.
-Author: Tony Kraft <iostonykraft@gmail.com>
-Name: NCAllOnly9
 
 Package: com.tonykraft.noautoreloadforsafari
 Version: 1.0-2
