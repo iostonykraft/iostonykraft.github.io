@@ -213,16 +213,17 @@ Author: Tony Kraft <iostonykraft@gmail.com>
 Name: MusicMark
 
 Package: com.tonykraft.ncallonly9
-Version: 0.2~beta
+Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: Tony Kraft <iostonykraft@gmail.com>
-Installed-Size: 280
+Installed-Size: 288
 Depends: mobilesubstrate
-Filename: ./debs/com.tonykraft.ncallonly9_0.2~beta_iphoneos-arm.deb
-Size: 26926
-MD5sum: 71b2efe6f781f26c42d7dbc4f6345b4a
-SHA1: ae07fa103c39b459d2181aea2aab61fdda4f13a0
-SHA256: bb2a56743dd853ecfb17d6cbdbd1d884e36562e85221200b5e5f5c30c63a4f8b
+Replaces: com.jbp.ncallonly
+Filename: ./debs/com.tonykraft.ncallonly9_1.0_iphoneos-arm.deb
+Size: 31980
+MD5sum: f145edf63dcb70b978e87f9ab3e59f9b
+SHA1: 5b343c5a351cc3ff33fafd1e2ab9e7756ea5ea19
+SHA256: 2412e487e9868f6bc80f60cb0194997724f75b8004e92e8d2901e064d747f8bf
 Section: Tweaks
 Description: Hide certain aspects of the notification center. For iOS 7 and 8, please see NCAllOnly on the BigBoss repo.
 Author: Tony Kraft <iostonykraft@gmail.com>
