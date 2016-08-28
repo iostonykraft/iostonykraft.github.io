@@ -102,19 +102,19 @@ Author: Tony Kraft <iostonykraft@gmail.com>
 Name: Crunchyroll Ad Remover
 
 Package: com.tonykraft.customnc
-Version: 1.0.1b
+Version: 1.0.2b
 Architecture: iphoneos-arm
 Maintainer: Tony Kraft <iostonykraft@gmail.com>
 Installed-Size: 292
 Depends: mobilesubstrate
 Replaces: com.jbp.ncallonly, com.tonykraft.ncallonly9
-Filename: ./debs/com.tonykraft.customnc_1.0.1b_iphoneos-arm.deb
-Size: 32916
-MD5sum: 56488c010b8bcc5e71d42f1422f1c713
-SHA1: 0645586389f01709a6802f139bb459d08fc27da6
-SHA256: aff3bb2d3ade72a337d7646482465a5bac6c0cd9dfaa9d3e6ba6a4dcc93fde4b
+Filename: ./debs/com.tonykraft.customnc_1.0.2b_iphoneos-arm.deb
+Size: 33292
+MD5sum: 1cc138c546e023cbf2e54b0630a7ed03
+SHA1: 06b97fe82c1192832b6231dc188d39193a2bd746
+SHA256: 5b300fa48fb4ee66519776b81968ead5a4cf8d4074f88d4f6834f11fa955f46e
 Section: Tweaks
-Description: Hide certain aspects of the notification center. For iOS 7 and 8, please see NCAllOnly on the BigBoss repo.
+Description: Hide certain aspects of the notification center. 1.0.2b adds a workaround for crash when enabling “Hide Notification View” and “Hide Today View” at same time
 Author: Tony Kraft <iostonykraft@gmail.com>
 Name: CustomNC
 
