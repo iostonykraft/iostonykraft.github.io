@@ -102,17 +102,17 @@ Author: Tony Kraft <iostonykraft@gmail.com>
 Name: Crunchyroll Ad Remover
 
 Package: com.tonykraft.customnc
-Version: 1.0
+Version: 1.0.1b
 Architecture: iphoneos-arm
 Maintainer: Tony Kraft <iostonykraft@gmail.com>
-Installed-Size: 288
+Installed-Size: 292
 Depends: mobilesubstrate
 Replaces: com.jbp.ncallonly, com.tonykraft.ncallonly9
-Filename: ./debs/com.tonykraft.customnc_1.0_iphoneos-arm.deb
-Size: 32552
-MD5sum: d8de5e44e417c7f455b97da00f1788e3
-SHA1: 83c510badc2a2d9974b5606a19144a0e6dc69385
-SHA256: 0ec84c2746c9f13ef05887630e9c9e03f35a84c9e86ecf07d0de756a49c3a878
+Filename: ./debs/com.tonykraft.customnc_1.0.1b_iphoneos-arm.deb
+Size: 32916
+MD5sum: 56488c010b8bcc5e71d42f1422f1c713
+SHA1: 0645586389f01709a6802f139bb459d08fc27da6
+SHA256: aff3bb2d3ade72a337d7646482465a5bac6c0cd9dfaa9d3e6ba6a4dcc93fde4b
 Section: Tweaks
 Description: Hide certain aspects of the notification center. For iOS 7 and 8, please see NCAllOnly on the BigBoss repo.
 Author: Tony Kraft <iostonykraft@gmail.com>
