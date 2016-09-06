@@ -307,6 +307,22 @@ Description: Block iAds on all iOS versions. v1.1 now automatically reverses cha
 Author: Tony Kraft <iostonykraft@gmail.com>
 Name: No iAds
 
+Package: com.tonykraft.noinstaads
+Version: 0.1
+Architecture: iphoneos-arm
+Maintainer: Tony Kraft <iostonykraft@gmail.com>
+Installed-Size: 120
+Depends: mobilesubstrate
+Filename: ./debs/com.tonykraft.noinstaads_0.1_iphoneos-arm.deb
+Size: 3608
+MD5sum: ebd4dd50d4fbd8bdef5600b12333a9f4
+SHA1: 4bfc8734477915422955a446ebbb8b02c2c88836
+SHA256: d7edbabde8903390b4a17c76ffd21e246feb75fc7955883f42d9a91d89337d69
+Section: Tweaks
+Description: Blocks ads (also known as Sponsored Posts) in Instagram. This does not block ads in any Instagram tweaks.
+Author: Tony Kraft <iostonykraft@gmail.com>
+Name: NoInstaAds
+
 Package: com.tonykraft.nopowersound
 Version: 1.0-1
 Architecture: iphoneos-arm
