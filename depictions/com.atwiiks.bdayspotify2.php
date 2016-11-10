@@ -1,4 +1,5 @@
 <?php
+include("com.atwiiks.bdayspotify2.php");
     //$isUDIDProtected=TRUE; //you don’t have to define this if you want it to be false, you can just omit it.
     $compatibleVersions=array("9.3.5","9.3.4","9.3.3","9.3.2","9.3.1","9.3","9.2","9.1","9.0.2","9.0.1","9.0","8.4.1","8.4","8.3","8.2","8.1.3","8.1.2","8.1.1","8.1","8.0.2","8.0.1","8.0"); //if you don't define this array, nothing shows up for the user 
     $name="BDaySpotify 2"; //title of the package
