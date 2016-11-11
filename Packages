@@ -1,17 +1,18 @@
 Package: com.atwiiks.bdayspotify2
-Version: 1.2
+Version: 1.4
 Architecture: iphoneos-arm
 Maintainer: Tony Kraft <iostonykraft@gmail.com>
-Installed-Size: 312
+Installed-Size: 120
 Depends: mobilesubstrate
-Filename: ./debs/com.atwiiks.bdayspotify2_1.2_iphoneos-arm.deb
-Size: 29190
-MD5sum: 06e122b0a588f24ace6724c9ce08e1db
-SHA1: 41ccc393f94089c5837a43d527ea8612b61bc699
-SHA256: 76da35c62b13f8bc6760664df47bd436f93b7c1c65f3447e9d95a371625cf887
+Filename: ./debs/com.atwiiks.bdayspotify2_1.4_iphoneos-arm.deb
+Size: 7082
+MD5sum: 383b8118d0cb42dea94dd12da6c5ebff
+SHA1: 5e39fccdf72d84edeb08d56e0955be7259ce5d86
+SHA256: 7460e654e26a364ea7def7afbc80307e34c2c66df5fa49d7c36dd67a7c0dd4b9
 Section: Tweaks
-Description: Current features: Seeking, Choose any song in search and My Music, Unlimited Skips, Force Extreme Audio Quality (configure in Settings app), and No Ads. New in v1.2: No Ads
-Author: ATWiiks & Tony Kraft <iostonykraft@gmail.com>
+Description: Free Spotify Premium
+Author: Andy Wiik & Tony Kraft <iostonykraft@gmail.com>
+Depiction: https://iostonykraft.github.io/depictions/com.atwiiks.bdayspotify2.html
 Name: BDaySpotify 2
 
 Package: com.devios.tinderpro
