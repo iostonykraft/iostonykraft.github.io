@@ -119,6 +119,23 @@ Description: Hide certain aspects of the notification center.
 Author: Tony Kraft <iostonykraft@gmail.com>
 Name: CustomNC
 
+Package: com.tonykraft.dontkillthebeat
+Version: 1.3.1
+Architecture: iphoneos-arm
+Maintainer: Tony Kraft
+Installed-Size: 324
+Depends: mobilesubstrate
+Filename: ./debs/com.tonykraft.dontkillthebeat_1.3.1_iphoneos-arm.deb
+Size: 40982
+MD5sum: c913ad8ecab705cbc7080754482b1ff4
+SHA1: 77a05bfdcc8a5934e2e1a1466c0a708ffa408404
+SHA256: 62bbea40c344f983ab4f275d7c8f95e44e7dfde6f069f450d2bb0ab350cc4dff
+Section: Tweaks
+Description: Allows more apps to play music. Now deprecated.
+Author: Tony Kraft
+Depiction: https://iostonykraft.github.io/depictions/com.tonykraft.dontkillthebeat.html
+Name: Don't Kill The Beat
+
 Package: com.tonykraft.gba4ios
 Version: 2.1
 Architecture: iphoneos-arm
