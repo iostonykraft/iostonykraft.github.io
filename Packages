@@ -406,19 +406,20 @@ Author: Tony Kraft <iostonykraft@gmail.com>
 Name: NoVoiceControl
 
 Package: com.tonykraft.pandorapro
-Version: 1.0.1-2
+Version: 1.1
 Architecture: iphoneos-arm
 Maintainer: Tony Kraft <iostonykraft@gmail.com>
-Installed-Size: 88
+Installed-Size: 172
 Depends: mobilesubstrate
-Filename: ./debs/com.tonykraft.pandorapro_1.0.1-2_iphoneos-arm.deb
-Size: 5458
-MD5sum: 75d92ad68f761d054ace6d47c55154b6
-SHA1: 406ea2ea7efb285bd9c02181e0b219cfb9f6512f
-SHA256: 941baa88b4582318274fc852a3b950dd8c06aeaa42a364e10fbfb8f60e1eeb67
+Filename: ./debs/com.tonykraft.pandorapro_1.1_iphoneos-arm.deb
+Size: 8670
+MD5sum: 96fae8dc2b19f6c3ae52bb7cb5c09667
+SHA1: 732e768da3869a295ab5ae432115ac907d4d6561
+SHA256: 0faf30b2da50396650a1df616067a5a7d94992c0c32389427f66062a2c95454d
 Section: Tweaks
-Description: Unlimited Skips, No Ads whatsoever, No Skip Delay (You don't need to wait for the button to appear), Higher Bit Rate for WiFi and High Quality Cellular, No Jailbreak Detection, The "PandoraOne" Splash Screen.
+Description: Pandora premium features for free
 Author: Tony Kraft <iostonykraft@gmail.com>
+Depiction: http://iostonykraft.github.io/depictions/com.tonykraft.pandorapro
 Name: PandoraPro
 
 Package: com.tonykraft.perfectfit
