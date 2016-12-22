@@ -95,7 +95,7 @@ const VERSION_CHECK_UNSUPPORTED = "Only compatible with iOS %s to %s &#x1f61e;";
 		isBad = true;
 	} else if (maxVersion && compareVersions(maxVersion, osVersion) == -1) {
 		if ("unsupported" in prerequisite.dataset) {
-			message = VERSION_CHECK_UNSUPPORTED.replace("%s", minString).replace("%s", maxString);
+			message = VERSION_CHECK_UNCONFIRMED.replace("%s", minString).replace("%s", maxString);
 		} else {
 			message = VERSION_CHECK_UNCONFIRMED.replace("%s", osString);
 		}
