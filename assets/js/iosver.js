@@ -103,11 +103,6 @@ const VERSION_CHECK_UNSUPPORTED = "Only compatible with iOS %s to %s &#x1f61e;";
 		isBad = true;
 	}
 
-	if (osVersion) =< 10.0 {
-		message = VERSION_CHECK_SUPPORTED;
-		isBad = false;
-	}
-
 //	prerequisite.querySelector("p").textContent = message;
     prerequisite.querySelector("p").innerHTML = message;
 
