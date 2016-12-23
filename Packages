@@ -183,6 +183,20 @@ Description: Allows Wifi to stay connected when the device is locked. v1.1 adds 
 Author: Tony Kraft <iostonykraft@gmail.com>
 Name: iNoSleep
 
+Package: com.tonykraft.ios10jbfix
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Tony Kraft <iostonykraft@gmail.com>
+Filename: ./debs/iOS10JBFix.deb
+Size: 1288
+MD5sum: 500da9403c96a025747347131a649a00
+SHA1: 58d72a57d4cb8db9e0e85ac113ce091c1c7fd4da
+SHA256: e7cacdf9084c6dafce2f91c9a070f824053e5f5314158d2c5005dbc24fd1f7ad
+Section: Tweaks
+Description: Fixes a number of bugs in the iOS 10 jailbreak beta
+Author: Tony Kraft <iostonykraft@gmail.com>
+Name: Fixes for iOS 10 Jailbreak
+
 Package: com.tonykraft.kikpro
 Version: 1.0-11
 Architecture: iphoneos-arm
@@ -406,16 +420,16 @@ Author: Tony Kraft <iostonykraft@gmail.com>
 Name: NoVoiceControl
 
 Package: com.tonykraft.pandorapro
-Version: 1.1
+Version: 1.2
 Architecture: iphoneos-arm
 Maintainer: Tony Kraft <iostonykraft@gmail.com>
-Installed-Size: 172
+Installed-Size: 124
 Depends: mobilesubstrate
-Filename: ./debs/com.tonykraft.pandorapro_1.1_iphoneos-arm.deb
-Size: 8670
-MD5sum: 96fae8dc2b19f6c3ae52bb7cb5c09667
-SHA1: 732e768da3869a295ab5ae432115ac907d4d6561
-SHA256: 0faf30b2da50396650a1df616067a5a7d94992c0c32389427f66062a2c95454d
+Filename: ./debs/com.tonykraft.pandorapro_1.2_iphoneos-arm.deb
+Size: 6586
+MD5sum: 34d48172556cfb190ea2527cbe83c786
+SHA1: 00a7e3692bb6f913ac7ee617b20ebb9c77403f70
+SHA256: 414984e7c1aaf3374a024bc73674353f99bb1071b3b85497986a65ec59406af8
 Section: Tweaks
 Description: Pandora premium features for free
 Author: Tony Kraft <iostonykraft@gmail.com>
