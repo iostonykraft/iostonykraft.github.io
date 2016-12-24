@@ -174,14 +174,14 @@ Maintainer: Tony Kraft <iostonykraft@gmail.com>
 Installed-Size: 296
 Depends: mobilesubstrate
 Filename: ./debs/com.tonykraft.inosleep_1.2_iphoneos-arm.deb
-Size: 30938
-MD5sum: e530a6984f2aaa401c00a4fded4c54b9
-SHA1: 39e758fe7760fd6730e27c3e16b3ad1bd3ac02e7
-SHA256: 71dd2df16f65a1582625f2a256967ae86ba70c1032aa2078101022128f438491
+Size: 30940
+MD5sum: ad38a6db7988b07444b82423b224719c
+SHA1: 0a5d34bb77b8db963ea1273ecdf74bdfd43e489d
+SHA256: fc678984de7420190d289342592b3f80411decac70c81d98009ea6e44130baaf
 Section: Tweaks
 Description: Allows Wifi to stay connected when the device is locked.
 Author: Tony Kraft <iostonykraft@gmail.com>
-Depiction: http://iostonykraft.github.io/depictions/com.tonykraft.inosleep.html/
+Depiction: http://iostonykraft.github.io/depictions/com.tonykraft.inosleep.html
 Name: iNoSleep
 
 Package: com.tonykraft.ios10jbfix
