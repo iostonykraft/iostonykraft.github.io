@@ -168,19 +168,20 @@ Author: Tony Kraft <iostonykraft@gmail.com>
 Name: iHeartRadioPro
 
 Package: com.tonykraft.inosleep
-Version: 1.1-1+debug
+Version: 1.2
 Architecture: iphoneos-arm
 Maintainer: Tony Kraft <iostonykraft@gmail.com>
-Installed-Size: 456
+Installed-Size: 296
 Depends: mobilesubstrate
-Filename: ./debs/com.tonykraft.inosleep_1.1-1+debug_iphoneos-arm.deb
-Size: 32104
-MD5sum: 4cb3e5e0b25aec012292e506c148b346
-SHA1: 14c81bc6e61fb37deb2bc59439264a60ebff564e
-SHA256: 488da180471678acfe5aed72bf72f46a4a76ecae4ae536a5c9c528a1be83ee76
+Filename: ./debs/com.tonykraft.inosleep_1.2_iphoneos-arm.deb
+Size: 30938
+MD5sum: e530a6984f2aaa401c00a4fded4c54b9
+SHA1: 39e758fe7760fd6730e27c3e16b3ad1bd3ac02e7
+SHA256: 71dd2df16f65a1582625f2a256967ae86ba70c1032aa2078101022128f438491
 Section: Tweaks
-Description: Allows Wifi to stay connected when the device is locked. v1.1 adds early support for iOS 10.
+Description: Allows Wifi to stay connected when the device is locked.
 Author: Tony Kraft <iostonykraft@gmail.com>
+Depiction: http://iostonykraft.github.io/depictions/com.tonykraft.inosleep.html/
 Name: iNoSleep
 
 Package: com.tonykraft.ios10jbfix
@@ -421,16 +422,16 @@ Author: Tony Kraft <iostonykraft@gmail.com>
 Name: NoVoiceControl
 
 Package: com.tonykraft.pandorapro
-Version: 1.2
+Version: 1.2.1
 Architecture: iphoneos-arm
 Maintainer: Tony Kraft <iostonykraft@gmail.com>
 Installed-Size: 124
 Depends: mobilesubstrate
-Filename: ./debs/com.tonykraft.pandorapro_1.2_iphoneos-arm.deb
-Size: 6586
-MD5sum: 34d48172556cfb190ea2527cbe83c786
-SHA1: 00a7e3692bb6f913ac7ee617b20ebb9c77403f70
-SHA256: 414984e7c1aaf3374a024bc73674353f99bb1071b3b85497986a65ec59406af8
+Filename: ./debs/com.tonykraft.pandorapro_1.2.1_iphoneos-arm.deb
+Size: 6928
+MD5sum: 8f034056caee4e3a9ae72777b9e113f8
+SHA1: 24b2a97685599faf3101fd9a37d22f073705b970
+SHA256: fcdd360280e14e06770063bf2428d1fd8891d481d44085c858fb5c9829b88cd1
 Section: Tweaks
 Description: Pandora premium features for free
 Author: Tony Kraft <iostonykraft@gmail.com>
