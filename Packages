@@ -188,11 +188,11 @@ Package: com.tonykraft.ios10jbfix
 Version: 1.0.2
 Architecture: iphoneos-arm
 Maintainer: Tony Kraft <iostonykraft@gmail.com>
-Filename: ./debs/iOS10JBFix.deb
-Size: 1254
-MD5sum: be40353edb93a83b6fe2800f1be3f0ac
-SHA1: 816d423cd9334d9af55598bc9d6232e85e8d772c
-SHA256: 1317f7c183e3679ed5970bdd109cc47b25e76299f0de458072076b911d9d0677
+Filename: ./debs/com.tonykraft.ios10jbfix_1.0.2_iphoneos-arm.deb
+Size: 820
+MD5sum: 26a844d004a6b7ff12e211190d4b0ad5
+SHA1: d4668d86f555c4fd3ea7c596442704114c4f3e90
+SHA256: b41395142417a0dc19997e9ed22d115da42ee96ac6da216fa2ad4b1e52da6407
 Section: Tweaks
 Description: Fixes a number of bugs in the iOS 10 jailbreak beta
 Author: Tony Kraft <iostonykraft@gmail.com>

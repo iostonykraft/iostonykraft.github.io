@@ -1,8 +1,0 @@
-Origin: Tony’s Repo
-Label: Tony Kraft
-Suite: stable
-Version: 1.0
-Codename: Tony’s Repo
-Architectures: iphoneos-arm
-Components: main
-Description: This repo contains tweaks that I’ve made, and some that others have made.
