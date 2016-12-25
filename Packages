@@ -185,14 +185,14 @@ Depiction: http://iostonykraft.github.io/depictions/com.tonykraft.inosleep.html
 Name: iNoSleep
 
 Package: com.tonykraft.ios10jbfix
-Version: 1.0.1
+Version: 1.0.2
 Architecture: iphoneos-arm
 Maintainer: Tony Kraft <iostonykraft@gmail.com>
 Filename: ./debs/iOS10JBFix.deb
-Size: 1312
-MD5sum: a1cdc1bd75b5fbe47315f6dfa2ef732f
-SHA1: 4209c1f9625624ad2312f803afdd477c1682121c
-SHA256: 736014b354b3e53bbc4035c54474f871b6c04eef689f0dbcaebdadb8a4e364e4
+Size: 1254
+MD5sum: be40353edb93a83b6fe2800f1be3f0ac
+SHA1: 816d423cd9334d9af55598bc9d6232e85e8d772c
+SHA256: 1317f7c183e3679ed5970bdd109cc47b25e76299f0de458072076b911d9d0677
 Section: Tweaks
 Description: Fixes a number of bugs in the iOS 10 jailbreak beta
 Author: Tony Kraft <iostonykraft@gmail.com>
