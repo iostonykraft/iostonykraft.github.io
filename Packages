@@ -119,23 +119,6 @@ Description: Hide certain aspects of the notification center.
 Author: Tony Kraft <iostonykraft@gmail.com>
 Name: CustomNC
 
-Package: com.tonykraft.deezeralwaysshuffle
-Version: 0.1
-Architecture: iphoneos-arm
-Maintainer: Tony Kraft
-Installed-Size: 120
-Depends: mobilesubstrate
-Filename: ./debs/com.tonykraft.deezeralwaysshuffle_0.1_iphoneos-arm.deb
-Size: 3324
-MD5sum: 693789d783a42b1250eef8d02c51533b
-SHA1: 925f541ec0cef38db28aba8adba22427924a8e06
-SHA256: b408e793679af14b30c29f19876d874e6c1b704039605f4cff5622efae63d25a
-Section: Tweaks
-Description: Make Deezer’s shuffle feature more convenient
-Author: Tony Kraft
-Depiction: http://iostonykraft.github.io/depictions/com.tonykraft.deezeralwaysshuffle.html
-Name: DeezerAlwaysShuffle
-
 Package: com.tonykraft.dontkillthebeat
 Version: 1.3.1
 Architecture: iphoneos-arm
