@@ -1,0 +1,8 @@
+Origin: Tony's Repo
+Label: Tony's Repo
+Suite: stable
+Version: 0.1
+Codename: jimbo
+Architectures: iphoneos-arm
+Components: main
+Description: My personal repository.
