@@ -374,6 +374,23 @@ Description: Blocks ads (also known as Sponsored Posts) in Instagram. This does 
 Author: Tony Kraft <iostonykraft@gmail.com>
 Name: NoInstaAds
 
+Package: com.tonykraft.nolockcamera
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Tony Kraft <iostonykraft@gmail.com>
+Installed-Size: 120
+Depends: mobilesubstrate
+Filename: ./debs/com.tonykraft.nolockcamera_1.0_iphoneos-arm.deb
+Size: 3326
+MD5sum: d92aa77fa48c770d1885dca38768ae0d
+SHA1: 2e61bc0a67ff2780f7889b8929dc351a58b6af9d
+SHA256: bda22dd2aa0ec9d03fc75f16262a046fbe00aeb8a9a6898b32ca8ab20a632b95
+Section: Tweaks
+Description: Disable lockscreen camera
+Author: Tony Kraft <iostonykraft@gmail.com>
+Depiction: http://iostonykraft.github.io/depiction/com.tonykraft.nolockcamera.html
+Name: NoLockCamera
+
 Package: com.tonykraft.nopowersound
 Version: 1.0-1
 Architecture: iphoneos-arm
