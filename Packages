@@ -70,6 +70,23 @@ Dev: chpwn
 Icon: file:///Library/PreferenceLoader/Preferences/Infinidock.png
 Name: Infinidock (iOS 8)
 
+Package: com.tonykraft.1passpro
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Tony Kraft <iostonykraft@gmail.com>
+Installed-Size: 120
+Depends: mobilesubstrate
+Filename: ./debs/com.tonykraft.1passpro_1.0_iphoneos-arm.deb
+Size: 3640
+MD5sum: 8576fbd14974c312c7bb49187ee473b6
+SHA1: 2c2fda9a05ac5057e47f354c98351d9421b93b07
+SHA256: e1bdc682950e99a8b0dca76a02f52f0076bf4c3267951491dbbafcf795911188
+Section: Tweaks
+Description: Free 1Password Premium
+Author: Tony Kraft <iostonykraft@gmail.com>
+Depiction: http://iostonykraft.github.io/depictions/com.tonykraft.1passpro.html
+Name: 1PassPro
+
 Package: com.tonykraft.betterbackground8
 Version: 0.1~beta-1
 Architecture: iphoneos-arm
