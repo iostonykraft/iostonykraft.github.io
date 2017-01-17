@@ -186,16 +186,16 @@ Depiction: http://iostonykraft.github.io/depictions/com.tonykraft.iheartradiopro
 Name: iHeartRadioPro
 
 Package: com.tonykraft.inosleep
-Version: 1.2
+Version: 1.2.1
 Architecture: iphoneos-arm
 Maintainer: Tony Kraft <iostonykraft@gmail.com>
 Installed-Size: 296
 Depends: mobilesubstrate
-Filename: ./debs/com.tonykraft.inosleep_1.2_iphoneos-arm.deb
-Size: 30940
-MD5sum: ad38a6db7988b07444b82423b224719c
-SHA1: 0a5d34bb77b8db963ea1273ecdf74bdfd43e489d
-SHA256: fc678984de7420190d289342592b3f80411decac70c81d98009ea6e44130baaf
+Filename: ./debs/com.tonykraft.inosleep_1.2.1_iphoneos-arm.deb
+Size: 30162
+MD5sum: 3d14fd56bcddf874f000cafe1d226660
+SHA1: d860898e62345ab8123659bcdbcfe2205cfb0bf0
+SHA256: e7949d048ed8cf9f8c6055c4765307af1d3dee7a437bae10712adad96163fef6
 Section: Tweaks
 Description: Allows Wifi to stay connected when the device is locked.
 Author: Tony Kraft <iostonykraft@gmail.com>
@@ -282,19 +282,20 @@ Author: Tony Kraft <iostonykraft@gmail.com>
 Name: MovieBoxPro
 
 Package: com.tonykraft.musicmark
-Version: 1.0
+Version: 1.1
 Architecture: iphoneos-arm
 Maintainer: Tony Kraft <iostonykraft@gmail.com>
-Installed-Size: 136
+Installed-Size: 120
 Depends: mobilesubstrate
-Filename: ./debs/com.tonykraft.musicmark_1.0_iphoneos-arm.deb
-Size: 3292
-MD5sum: 6b1de26299e6046ee6ab1e3e6e41697d
-SHA1: 1f279bdf52ca7f598db7dc98e3d0989c8e913036
-SHA256: a3ed456479a5e4d1249e3efbfce3a124af800213386165c973c03f3ad7967ff2
+Filename: ./debs/com.tonykraft.musicmark_1.1_iphoneos-arm.deb
+Size: 3920
+MD5sum: f87085340c8be40a2a7fdbefefb2ea2c
+SHA1: 34efab7858ce5f808d90ee20b5759f273d2b518d
+SHA256: 2d2e0eae7f4449c7b44ac29124163d83c5aa98ab9f28297f1133f3270d427df0
 Section: Tweaks
 Description: Allows music app to remember your song’s position. Compatible with iOS 9.
 Author: Tony Kraft <iostonykraft@gmail.com>
+Depiction: http://iostonykraft.github.io/depictions/com.tonykraft.musicmark.html
 Name: MusicMark
 
 Package: com.tonykraft.noautoreloadforsafari
