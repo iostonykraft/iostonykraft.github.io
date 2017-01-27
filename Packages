@@ -15,6 +15,28 @@ Author: Andy Wiik & Tony Kraft <iostonykraft@gmail.com>
 Depiction: https://iostonykraft.github.io/depictions/com.atwiiks.bdayspotify2.html
 Name: BDaySpotify 2
 
+Package: com.chpwn.iconsupport
+Version: 1.9.4-5
+Architecture: iphoneos-arm
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Installed-Size: 140
+Pre-Depends: firmware (>= 3.0)
+Depends: mobilesubstrate, firmware (>= 6.0) | jp.ashikase.bugfix.stuckpages, firmware (>= 6.0) | jp.ashikase.bugfix.duplicateicons
+Filename: ./debs/com.chpwn.iconsupport_1.9.4-5_iphoneos-arm.deb
+Size: 31018
+MD5sum: 973c9800c98b84e9c6219e0b6b373225
+SHA1: 2c0069cd8573c682512c1b87106a816d3be34f3f
+SHA256: 68972b7b27c9e3a04f6075aacd3e308a6d23f330c98816f9f2e12e5919c5a31e
+Section: Development
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=iconsupportData
+Description: Support library for safe icon tweaks.
+Tag: role::developer, purpose::extension
+Author: ashikase <support@ashikase.com>
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=iconsupportData
+Dev: ashikase
+Name: IconSupport (fixed install)
+Sponsor: thebigboss.org <http://thebigboss.org>
+
 Package: com.devios.tinderpro
 Version: 1.1
 Architecture: iphoneos-arm
