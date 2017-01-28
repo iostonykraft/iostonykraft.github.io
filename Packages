@@ -37,22 +37,6 @@ Dev: ashikase
 Name: IconSupport (fixed install)
 Sponsor: thebigboss.org <http://thebigboss.org>
 
-Package: com.devios.tinderpro
-Version: 1.1
-Architecture: iphoneos-arm
-Maintainer: DeViOS <thedevios@icloud.com>
-Installed-Size: 136
-Depends: mobilesubstrate
-Filename: ./debs/com.devios.tinderpro_1.1_iphoneos-arm.deb
-Size: 3854
-MD5sum: f351278906a2f738e704c52379b18539
-SHA1: cbc2df4401b5585cda4b7bf8152d176c7e7b1170
-SHA256: 6de543465b2667c0aa3b98c71cd18fefa87b3439a43d09c34070ca0e4d5c2fea
-Section: Tweaks
-Description: This tweak enables unlimited likes and tinder plus for free in Tinder.
-Author: DeViOS <thedevios@icloud.com>
-Name: TinderPro
-
 Package: com.ptvob.perkenhancer
 Version: 0.1~beta-9
 Architecture: iphoneos-arm
@@ -69,28 +53,6 @@ Section: Tweaks
 Description: Blocks the annoying pop-ups and disables adblocker detection in PerkTV.
 Author: PTVoB <devios@icloud.com>
 Name: PerkEnhancer
-
-Package: com.tony.infinidock8
-Version: 2.1.2-1k
-Architecture: iphoneos-arm
-Maintainer: Tony Kraft
-Installed-Size: 212
-Pre-Depends: firmware (>= 8.0)
-Depends: mobilesubstrate, preferenceloader (>= 1.1), com.chpwn.iconsupport, firmware (>= 8.0)
-Conflicts: com.saurik.iphone.fid, com.weiphone.setwallpaper3, com.macciti.6icondock, com.imario.supremepreferencesthree, com.thecyberduck.springboardenhancer
-Replaces: com.saurik.iphone.fid, com.weiphone.setwallpaper3, com.macciti.6icondock, com.imario.supremepreferencesthree, com.thecyberduck.springboardenhancer
-Provides: com.saurik.iphone.fid, com.macciti.6icondock
-Filename: ./debs/infinidock.deb
-Size: 62850
-MD5sum: 10d7bc0c87187c55862fa3d344a52c23
-SHA1: f3da03848b672aa89a1d0c815755ac8f5f64a232
-SHA256: 4905e2db4703add0980192283c529fbdc337172c22145d27a22ccb24cc1bc8eb
-Section: Tweaks
-Description: Scroll your dock with infinite icons!
-Author: chpwn
-Dev: chpwn
-Icon: file:///Library/PreferenceLoader/Preferences/Infinidock.png
-Name: Infinidock (iOS 8)
 
 Package: com.tonykraft.1passpro
 Version: 1.0
@@ -109,21 +71,22 @@ Author: Tony Kraft <iostonykraft@gmail.com>
 Depiction: http://iostonykraft.github.io/depictions/com.tonykraft.1passpro.html
 Name: 1PassPro
 
-Package: com.tonykraft.betterbackground8
-Version: 0.1~beta-1
+Package: com.tonykraft.antisocial
+Version: 0.1
 Architecture: iphoneos-arm
 Maintainer: Tony Kraft <iostonykraft@gmail.com>
-Installed-Size: 88
-Depends: mobilesubstrate, firmware (>= 8.0)
-Filename: ./debs/com.tonykraft.betterbackground8_0.1~beta-1_iphoneos-arm.deb
-Size: 3742
-MD5sum: 318701c2ceaa3ca28cc31153434b28a5
-SHA1: fe4c8ea708bab38639c1b38149b1f245889ac572
-SHA256: 5518bd96f5a831b3ad3bccce3b40a436fdacb97a76ba9fce893f2f9b0abd10b9
+Installed-Size: 120
+Depends: mobilesubstrate
+Filename: ./debs/com.tonykraft.antisocial_0.1_iphoneos-arm.deb
+Size: 3184
+MD5sum: 7646e81f3547f325fd4ba459bf0354a4
+SHA1: 108c28956e751732c3011e0c5518b97365bf11e3
+SHA256: 2e1d7f3fbc07c5031ded7440c1d722d115d090bf5091ffb1a52453c0049bb925
 Section: Tweaks
-Description: Forces apps to always run in the background, the way iOS multitasking should be. Currently in alpha, so it has no options to configure. This tweak was made for iOS 8 and I have no plans in adding support for anything below it.
+Description: Leave any group chat
 Author: Tony Kraft <iostonykraft@gmail.com>
-Name: BetterBackground8
+Depiction: http://iostonykraft.github.io/depictions/com.tonykraft.antisocial.html
+Name: AntiSocial
 
 Package: com.tonykraft.crunchyrolladremover
 Version: 1.0-1
@@ -351,38 +314,6 @@ Section: Tweaks
 Description: Hides the battery icon in status bar. Only confirmed to work on iOS 9.
 Author: Tony Kraft <iostonykraft@gmail.com>
 Name: NoBatteryStatus
-
-Package: com.tonykraft.nocontrolcenter
-Version: 1.0-1
-Architecture: iphoneos-arm
-Maintainer: Tony Kraft
-Installed-Size: 88
-Depends: mobilesubstrate
-Filename: ./debs/com.tonykraft.nocontrolcenter_1.0-1_iphoneos-arm.deb
-Size: 3402
-MD5sum: 6f1692dc60d8e0823f286c3cb6dab269
-SHA1: 49410b12ceb379b4ffaf81fcd2ca7c80748ed525
-SHA256: e94cffa2cd3ad375f58a5bbde3407b97f83a40408171af960ed36f3ff2e8ac99
-Section: Tweaks
-Description: No Control Center, ever.
-Author: Tony Kraft
-Name: NoControlCenter
-
-Package: com.tonykraft.nogamecenterannoyance
-Version: 0.1-1
-Architecture: iphoneos-arm
-Maintainer: Tony Kraft <iostonykraft@gmail.com>
-Installed-Size: 200
-Depends: mobilesubstrate
-Filename: ./debs/com.tonykraft.nogamecenterannoyance_0.1-1_iphoneos-arm.deb
-Size: 4884
-MD5sum: 768bee8985fafb0799a2f401b458148f
-SHA1: 320389abaee37e926b0f8419116589ecfe57c5b9
-SHA256: 964d6eb08e9f8cd8c09936dcd1d065cb692ce5688d1772afaaff98fbacc466cf
-Section: Tweaks
-Description: Stops iOS from annoying you about Game Center. The pop up that prompts you to make a Game Center account is disabled by this tweak. This was only tested on iOS 9 so I really don’t know if it works on other versions.
-Author: Tony Kraft <iostonykraft@gmail.com>
-Name: NoGameCenterAnnoyance
 
 Package: com.tonykraft.noiads
 Version: 1.1
