@@ -362,6 +362,23 @@ Author: Tony Kraft <iostonykraft@gmail.com>
 Depiction: http://iostonykraft.github.io/depictions/com.tonykraft.nolockcamera.html
 Name: NoLockCamera
 
+Package: com.tonykraft.nopluginbuttons
+Version: 0.1
+Architecture: iphoneos-arm
+Maintainer: Tony Kraft <iostonykraft@gmail.com>
+Installed-Size: 120
+Depends: mobilesubstrate
+Filename: ./debs/com.tonykraft.nopluginbuttons_0.1_iphoneos-arm.deb
+Size: 3088
+MD5sum: 62f694cfa3e2b6d568a5ae28c43e1e76
+SHA1: 624ca693d96f3bb08c099d76dae511f9f9c3f60d
+SHA256: a83f8907808f4f82848778199227ff85209b0e6d9816382be3f07bab402d34a3
+Section: Tweaks
+Description: Hides digital touch buttons in Messages app.
+Author: Tony Kraft <iostonykraft@gmail.com>
+Depiction: http://iostonykraft.github.io/depictions/com.tonykraft.nopluginbuttons.html
+Name: NoPluginButtons for Messages
+
 Package: com.tonykraft.nopowersound
 Version: 1.0-1
 Architecture: iphoneos-arm
@@ -377,23 +394,6 @@ Section: Tweaks
 Description: Disables the sound the device makes when plugged into charger. Compatible with iOS 7 to iOS 9.
 Author: Tony Kraft <iostonykraft@gmail.com>
 Name: NoPowerSound
-
-Package: com.tonykraft.nosnapads
-Version: 1.1
-Architecture: iphoneos-arm
-Maintainer: Tony Kraft <iostonykraft@gmail.com>
-Installed-Size: 120
-Depends: mobilesubstrate
-Filename: ./debs/com.tonykraft.nosnapads_1.1_iphoneos-arm.deb
-Size: 4582
-MD5sum: 34d8ff61bdc4fb4193d3852a335d43c4
-SHA1: 401c67d379e64fcb0907b0995e4fbf5b44827aa1
-SHA256: 6f5717294ee7cce432cdebca397a24dc5af0986ec48085f73e95fe3afd0fff98
-Section: Tweaks
-Description: Removes ads in Snapchat. The ads are usually shown after viewing someone’s story. Note: This tweak does not, nor will it ever, remove ads from snapchat tweaks (Phantom, Snap++, etc.)
-Author: Tony Kraft <iostonykraft@gmail.com>
-Depiction: http://iostonykraft.github.io/depictions/com.tonykraft.nosnapads.html
-Name: NoSnapAds
 
 Package: com.tonykraft.novoicecontrol
 Version: 1.0-1
