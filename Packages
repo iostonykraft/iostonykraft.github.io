@@ -1,0 +1,554 @@
+Package: com.atwiiks.bdayspotify2
+Version: 1.4.3
+Architecture: iphoneos-arm
+Maintainer: Tony Kraft <iostonykraft@gmail.com>
+Installed-Size: 120
+Depends: mobilesubstrate
+Filename: ./debs/com.atwiiks.bdayspotify2_1.4.3_iphoneos-arm.deb
+Size: 8552
+MD5sum: 793f971e922e1c8d0c8a6af66a0ca113
+SHA1: d7823ae2b88f3d26fd5f1f9ea5f09d98d165773d
+SHA256: 8566a2c7b602cb7f2ee7c207869f4feac8523af5a1dffd09b79d11e2039be7fc
+Section: Tweaks
+Description: Free Spotify Premium
+Author: Andy Wiik & Tony Kraft <iostonykraft@gmail.com>
+Depiction: https://iostonykraft.github.io/depictions/com.atwiiks.bdayspotify2.html
+Name: BDaySpotify 2
+
+Package: com.chpwn.iconsupport
+Version: 1.9.4-5
+Architecture: iphoneos-arm
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Installed-Size: 140
+Pre-Depends: firmware (>= 3.0)
+Depends: mobilesubstrate, firmware (>= 6.0) | jp.ashikase.bugfix.stuckpages, firmware (>= 6.0) | jp.ashikase.bugfix.duplicateicons
+Filename: ./debs/com.chpwn.iconsupport_1.9.4-5_iphoneos-arm.deb
+Size: 31018
+MD5sum: 973c9800c98b84e9c6219e0b6b373225
+SHA1: 2c0069cd8573c682512c1b87106a816d3be34f3f
+SHA256: 68972b7b27c9e3a04f6075aacd3e308a6d23f330c98816f9f2e12e5919c5a31e
+Section: Development
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=iconsupportData
+Description: Support library for safe icon tweaks.
+Tag: role::developer, purpose::extension
+Author: ashikase <support@ashikase.com>
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=iconsupportData
+Dev: ashikase
+Name: IconSupport (fixed install)
+Sponsor: thebigboss.org <http://thebigboss.org>
+
+Package: com.ptvob.perkenhancer
+Version: 0.1~beta-9
+Architecture: iphoneos-arm
+Maintainer: PTVoB <devios@icloud.com>
+Installed-Size: 92
+Depends: mobilesubstrate
+Replaces: com.tonykraft.perkenhancer
+Filename: ./debs/com.ptvob.perkenhancer_0.1~beta-9_iphoneos-arm.deb
+Size: 4188
+MD5sum: 88a4c677cc097133502ba4642bcd43f1
+SHA1: 0950af6b3981015da647578751cb56e758cc60ef
+SHA256: 27536bb66b3cf9a0c33a279a131c8ad46cdee716e4f6e1401d8a9f8dc272400f
+Section: Tweaks
+Description: Blocks the annoying pop-ups and disables adblocker detection in PerkTV.
+Author: PTVoB <devios@icloud.com>
+Name: PerkEnhancer
+
+Package: com.tonykraft.1passpro
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Tony Kraft <iostonykraft@gmail.com>
+Installed-Size: 120
+Depends: mobilesubstrate
+Filename: ./debs/com.tonykraft.1passpro_1.0_iphoneos-arm.deb
+Size: 3640
+MD5sum: 8576fbd14974c312c7bb49187ee473b6
+SHA1: 2c2fda9a05ac5057e47f354c98351d9421b93b07
+SHA256: e1bdc682950e99a8b0dca76a02f52f0076bf4c3267951491dbbafcf795911188
+Section: Tweaks
+Description: Free 1Password Premium
+Author: Tony Kraft <iostonykraft@gmail.com>
+Depiction: http://iostonykraft.github.io/depictions/com.tonykraft.1passpro.html
+Name: 1PassPro
+
+Package: com.tonykraft.antisocial
+Version: 0.1
+Architecture: iphoneos-arm
+Maintainer: Tony Kraft <iostonykraft@gmail.com>
+Installed-Size: 120
+Depends: mobilesubstrate
+Filename: ./debs/com.tonykraft.antisocial_0.1_iphoneos-arm.deb
+Size: 3184
+MD5sum: 7646e81f3547f325fd4ba459bf0354a4
+SHA1: 108c28956e751732c3011e0c5518b97365bf11e3
+SHA256: 2e1d7f3fbc07c5031ded7440c1d722d115d090bf5091ffb1a52453c0049bb925
+Section: Tweaks
+Description: Leave any group chat
+Author: Tony Kraft <iostonykraft@gmail.com>
+Depiction: http://iostonykraft.github.io/depictions/com.tonykraft.antisocial.html
+Name: AntiSocial
+
+Package: com.tonykraft.crunchyrolladremover
+Version: 1.0-1
+Architecture: iphoneos-arm
+Maintainer: Tony Kraft <iostonykraft@gmail.com>
+Installed-Size: 88
+Depends: mobilesubstrate
+Filename: ./debs/com.tonykraft.crunchyrolladremover_1.0-1_iphoneos-arm.deb
+Size: 3636
+MD5sum: 486de093a73dd3ca2cb679460cc404de
+SHA1: 693cfa61ce22e33c3273272021a9cf64b36dd2a2
+SHA256: f2d9da53b2f448ee29085845f6c4345b5628e0f84ce99396f24c4d7dd153a469
+Section: Tweaks
+Description: Removes ads in the Crunchyroll app. Requested by @cubenstien on Twitter.
+Author: Tony Kraft <iostonykraft@gmail.com>
+Name: Crunchyroll Ad Remover
+
+Package: com.tonykraft.customnc
+Version: 1.1.1b
+Architecture: iphoneos-arm
+Maintainer: Tony Kraft <iostonykraft@gmail.com>
+Installed-Size: 292
+Depends: mobilesubstrate
+Replaces: com.jbp.ncallonly, com.tonykraft.ncallonly9
+Filename: ./debs/com.tonykraft.customnc_1.1.1b_iphoneos-arm.deb
+Size: 33504
+MD5sum: 624a09884f9adc9d7515730ed665e506
+SHA1: c6185e6e3fa1a47eace849ff73a4066ed1ae34c9
+SHA256: 2d937b2255d2152b438d1e20694b4904d4b622b26e794a7344b6bbd63654db4d
+Section: Tweaks
+Description: Hide certain aspects of the notification center.
+Author: Tony Kraft <iostonykraft@gmail.com>
+Name: CustomNC
+
+Package: com.tonykraft.dontkillthebeat
+Version: 1.3.1
+Architecture: iphoneos-arm
+Maintainer: Tony Kraft
+Installed-Size: 324
+Depends: mobilesubstrate
+Filename: ./debs/com.tonykraft.dontkillthebeat_1.3.1_iphoneos-arm.deb
+Size: 40982
+MD5sum: c913ad8ecab705cbc7080754482b1ff4
+SHA1: 77a05bfdcc8a5934e2e1a1466c0a708ffa408404
+SHA256: 62bbea40c344f983ab4f275d7c8f95e44e7dfde6f069f450d2bb0ab350cc4dff
+Section: Tweaks
+Description: Allows more apps to play music. Now deprecated.
+Author: Tony Kraft
+Depiction: https://iostonykraft.github.io/depictions/com.tonykraft.dontkillthebeat.html
+Name: Don't Kill The Beat
+
+Package: com.tonykraft.gba4ios
+Version: 2.1
+Architecture: iphoneos-arm
+Maintainer: Tony Kraft <iostonykraft@gmail.com>
+Depends: mobilesubstrate
+Filename: ./debs/com.tonykraft.gba4ios_2.1_iphoneos-arm.deb
+Size: 7723014
+MD5sum: 8e8b21af52e6314c37938fe6bc2485e7
+SHA1: 258e99c802d394d388b1c38df950729195c69fa5
+SHA256: fdf636abe15efd69a0c1aba73fd3f708d373b28cb97fc104c46f8f22b90b83f6
+Section: Games
+Description: A GBA emulator by Riley Testut.
+Author: Riley Testut
+Name: GBA4iOS
+
+Package: com.tonykraft.iheartradiopro
+Version: 1.1
+Architecture: iphoneos-arm
+Maintainer: Tony Kraft <iostonykraft@gmail.com>
+Installed-Size: 120
+Depends: mobilesubstrate
+Filename: ./debs/com.tonykraft.iheartradiopro_1.1_iphoneos-arm.deb
+Size: 4798
+MD5sum: 9dc7019fffac427ee3e1c35d86f160f1
+SHA1: 594026f25664f0b3a784e329f1267ceeac191874
+SHA256: d2a2b63d6e1326bc070babede06324c73a7844a4efee0bf082f37f0046e52ef4
+Section: Tweaks
+Description: No ads, unlimited skips, and no jailbreak detection in iHeartRadio.
+Author: Tony Kraft <iostonykraft@gmail.com>
+Depiction: http://iostonykraft.github.io/depictions/com.tonykraft.iheartradiopro.html
+Name: iHeartRadioPro
+
+Package: com.tonykraft.inosleep
+Version: 1.2.1
+Architecture: iphoneos-arm
+Maintainer: Tony Kraft <iostonykraft@gmail.com>
+Installed-Size: 296
+Depends: mobilesubstrate
+Filename: ./debs/com.tonykraft.inosleep_1.2.1_iphoneos-arm.deb
+Size: 30162
+MD5sum: 3d14fd56bcddf874f000cafe1d226660
+SHA1: d860898e62345ab8123659bcdbcfe2205cfb0bf0
+SHA256: e7949d048ed8cf9f8c6055c4765307af1d3dee7a437bae10712adad96163fef6
+Section: Tweaks
+Description: Allows Wifi to stay connected when the device is locked.
+Author: Tony Kraft <iostonykraft@gmail.com>
+Depiction: http://iostonykraft.github.io/depictions/com.tonykraft.inosleep.html
+Name: iNoSleep
+
+Package: com.tonykraft.ios10jbfix
+Version: 1.0.2
+Architecture: iphoneos-arm
+Maintainer: Tony Kraft <iostonykraft@gmail.com>
+Filename: ./debs/com.tonykraft.ios10jbfix_1.0.2_iphoneos-arm.deb
+Size: 820
+MD5sum: 26a844d004a6b7ff12e211190d4b0ad5
+SHA1: d4668d86f555c4fd3ea7c596442704114c4f3e90
+SHA256: b41395142417a0dc19997e9ed22d115da42ee96ac6da216fa2ad4b1e52da6407
+Section: Tweaks
+Description: Fixes a number of bugs in the iOS 10 jailbreak beta
+Author: Tony Kraft <iostonykraft@gmail.com>
+Depiction: http://iostonykraft.github.io/depictions/com.tonykraft.ios10jbfix
+Name: Fixes for iOS 10 Jailbreak
+
+Package: com.tonykraft.kikpro
+Version: 1.0-11
+Architecture: iphoneos-arm
+Maintainer: Tony Kraft <iostonykraft@gmail.com>
+Installed-Size: 232
+Depends: mobilesubstrate
+Filename: ./debs/com.tonykraft.kikpro_1.0-11_iphoneos-arm.deb
+Size: 42576
+MD5sum: d8bf20206b6c1204926cb3d44bcdef96
+SHA1: 72e846c5fee46836c28a2ab60903dd9f273f6444
+SHA256: f364ab91e7df7ef2585d2ed839022416092e604bb01c306d470bb96a645733e0
+Section: Tweaks
+Description: Features: Don’t send “Is Typing” to users, don’t tell the user when you read their message, make kik think that all photos were sent via camera, disable smilies, register with any info, and email always confirmed. Options configurable in settings.
+Author: Tony Kraft <iostonykraft@gmail.com>
+Name: KikPro
+
+Package: com.tonykraft.linktunesadremover
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Tony Kraft <iostonykraft@gmail.com>
+Installed-Size: 120
+Depends: mobilesubstrate
+Filename: ./debs/com.tonykraft.linktunesadremover_1.0_iphoneos-arm.deb
+Size: 3106
+MD5sum: f1003a37b8fbf09d0a044214e39b2e42
+SHA1: 637b0c3d34b5357142a4f54d81b50cafbf0e7504
+SHA256: d6d302877e1777db442725a20f061d35b34961ff28083e518119cc5102663b43
+Section: Tweaks
+Description: Remove ads in LinkTunes. Only tested on iOS 9, but it should also work on all previous versions.
+Author: Tony Kraft <iostonykraft@gmail.com>
+Name: LinkTunes Ad Remover
+
+Package: com.tonykraft.medusaenabler
+Version: 1.1
+Architecture: iphoneos-arm
+Maintainer: Tony Kraft <iostonykraft@gmail.com>
+Installed-Size: 120
+Depends: mobilesubstrate, firmware (>= 9.0)
+Filename: ./debs/com.tonykraft.medusaenabler_1.1_iphoneos-arm.deb
+Size: 4422
+MD5sum: e53a970200c28dc0e5839e9d182e472d
+SHA1: 8d24626f7485118e03f3c3b72157629fe66159a2
+SHA256: 72924f1a201cdb06e4aca80b3e2d4071858dd42d2b976725b18ea7fcceae191b
+Section: Tweaks
+Description: Enable the Medusa feature on all devices.
+Author: Tony Kraft <iostonykraft@gmail.com>
+Name: MedusaEnabler
+
+Package: com.tonykraft.movieboxpro
+Version: 1.1.1
+Architecture: iphoneos-arm
+Maintainer: Tony Kraft <iostonykraft@gmail.com>
+Installed-Size: 288
+Depends: mobilesubstrate
+Filename: ./debs/com.tonykraft.movieboxpro_1.1.1_iphoneos-arm.deb
+Size: 34234
+MD5sum: 3efa3689c46609573dbb724761351ee0
+SHA1: 318e1c0da49c2fa864ab59f21798e39c5a092e62
+SHA256: b375a3d6be0760a384365d633d8e69a5db3f575d523023ddee796aa6edcb6292
+Section: Tweaks
+Description: Adds the following features to Movie Box 3: No Ads, No Bandwidth Throttling, Background Downloading Allowed, No Jailbreak Detection, No Tracking, Turbo Mode Always On. Options configurable in Settings.
+Author: Tony Kraft <iostonykraft@gmail.com>
+Name: MovieBoxPro
+
+Package: com.tonykraft.musicmark
+Version: 1.1
+Architecture: iphoneos-arm
+Maintainer: Tony Kraft <iostonykraft@gmail.com>
+Installed-Size: 120
+Depends: mobilesubstrate
+Filename: ./debs/com.tonykraft.musicmark_1.1_iphoneos-arm.deb
+Size: 3920
+MD5sum: f87085340c8be40a2a7fdbefefb2ea2c
+SHA1: 34efab7858ce5f808d90ee20b5759f273d2b518d
+SHA256: 2d2e0eae7f4449c7b44ac29124163d83c5aa98ab9f28297f1133f3270d427df0
+Section: Tweaks
+Description: Allows music app to remember your song’s position. Compatible with iOS 9.
+Author: Tony Kraft <iostonykraft@gmail.com>
+Depiction: http://iostonykraft.github.io/depictions/com.tonykraft.musicmark.html
+Name: MusicMark
+
+Package: com.tonykraft.noautoreloadforsafari
+Version: 1.0-2
+Architecture: iphoneos-arm
+Maintainer: Tony Kraft <iostonykraft@gmail.com>
+Installed-Size: 200
+Depends: mobilesubstrate
+Filename: ./debs/com.tonykraft.noautoreloadforsafari_1.0-2_iphoneos-arm.deb
+Size: 5302
+MD5sum: f9c71e8a30af6002cd92f22a2daf2f51
+SHA1: ddbdafaae451259d7213e04e791eb7c96fe5436a
+SHA256: 9c729d23d5a964b2badfdc495e7116c0c538faf18243a902a7796c4d5b0da854
+Section: Tweaks
+Description: Stops tabs in Safari from automatically reloading. Tabs reload when Safari runs out of RAM, so I only recommend this tweak to users with devices that have 1 GB of RAM or more. Compatible with iOS 7, 8, and 9.
+Author: Tony Kraft <iostonykraft@gmail.com>
+Name: No Automatic Reload for Safari
+
+Package: com.tonykraft.nobatterystatus
+Version: 0.1.1
+Architecture: iphoneos-arm
+Maintainer: Tony Kraft <iostonykraft@gmail.com>
+Installed-Size: 136
+Depends: mobilesubstrate
+Filename: ./debs/com.tonykraft.nobatterystatus_0.1.1_iphoneos-arm.deb
+Size: 3424
+MD5sum: d1b5fc02ee231725ee05ba38abed99f4
+SHA1: c2838c6f173de69082578fcb09574b492fd45d40
+SHA256: 6f6fcfa84352a915b6b6f2e88998be1856b823180d2b2d49ae5216636f0a7edd
+Section: Tweaks
+Description: Hides the battery icon in status bar. Only confirmed to work on iOS 9.
+Author: Tony Kraft <iostonykraft@gmail.com>
+Name: NoBatteryStatus
+
+Package: com.tonykraft.noiads
+Version: 1.1
+Architecture: iphoneos-arm
+Maintainer: Tony Kraft <iostonykraft@gmail.com>
+Filename: ./debs/com.tonykraft.noiads_1.1_iphoneos-arm.deb
+Size: 912
+MD5sum: 552fbcb92a633b3d99797c04200f2a1f
+SHA1: 302c6b55c4a77c6532f12c278710c2f7d9d56a66
+SHA256: 6029510ea2aa620d24f81ffd2387b7f6208ad0adb1e01c3f65b1a88bfc148c25
+Section: Tweaks
+Description: Block iAds on all iOS versions. v1.1 now automatically reverses changes when the package is being removed.
+Author: Tony Kraft <iostonykraft@gmail.com>
+Name: No iAds
+
+Package: com.tonykraft.noinstaads
+Version: 0.1
+Architecture: iphoneos-arm
+Maintainer: Tony Kraft <iostonykraft@gmail.com>
+Installed-Size: 120
+Depends: mobilesubstrate
+Filename: ./debs/com.tonykraft.noinstaads_0.1_iphoneos-arm.deb
+Size: 3608
+MD5sum: ebd4dd50d4fbd8bdef5600b12333a9f4
+SHA1: 4bfc8734477915422955a446ebbb8b02c2c88836
+SHA256: d7edbabde8903390b4a17c76ffd21e246feb75fc7955883f42d9a91d89337d69
+Section: Tweaks
+Description: Blocks ads (also known as Sponsored Posts) in Instagram. This does not block ads in any Instagram tweaks.
+Author: Tony Kraft <iostonykraft@gmail.com>
+Name: NoInstaAds
+
+Package: com.tonykraft.nolockcamera
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Tony Kraft <iostonykraft@gmail.com>
+Installed-Size: 120
+Depends: mobilesubstrate
+Filename: ./debs/com.tonykraft.nolockcamera_1.0_iphoneos-arm.deb
+Size: 4552
+MD5sum: a9178bc306c2dd7a38c8f910f9a8c844
+SHA1: e5ae878916e00090f01baa1a472d0f67881b8e21
+SHA256: 83c0aee68d66e8d4de047cbaf6ed1e697f5f27670335d5143f789aafc452438f
+Section: Tweaks
+Description: Disable lockscreen camera
+Author: Tony Kraft <iostonykraft@gmail.com>
+Depiction: http://iostonykraft.github.io/depictions/com.tonykraft.nolockcamera.html
+Name: NoLockCamera
+
+Package: com.tonykraft.nopluginbuttons
+Version: 0.1
+Architecture: iphoneos-arm
+Maintainer: Tony Kraft <iostonykraft@gmail.com>
+Installed-Size: 120
+Depends: mobilesubstrate
+Filename: ./debs/com.tonykraft.nopluginbuttons_0.1_iphoneos-arm.deb
+Size: 3088
+MD5sum: 62f694cfa3e2b6d568a5ae28c43e1e76
+SHA1: 624ca693d96f3bb08c099d76dae511f9f9c3f60d
+SHA256: a83f8907808f4f82848778199227ff85209b0e6d9816382be3f07bab402d34a3
+Section: Tweaks
+Description: Hides digital touch buttons in Messages app.
+Author: Tony Kraft <iostonykraft@gmail.com>
+Depiction: http://iostonykraft.github.io/depictions/com.tonykraft.nopluginbuttons.html
+Name: NoPluginButtons for Messages
+
+Package: com.tonykraft.nopowersound
+Version: 1.0-1
+Architecture: iphoneos-arm
+Maintainer: Tony Kraft <iostonykraft@gmail.com>
+Installed-Size: 200
+Depends: mobilesubstrate
+Filename: ./debs/com.tonykraft.nopowersound_1.0-1_iphoneos-arm.deb
+Size: 4696
+MD5sum: ce79c7409763fe0856df4a78cd850f20
+SHA1: cb23c9a8f9d0eb30fd68c265b62ffbd35cbafaa7
+SHA256: 0894b4ab6d8099dbe8e5a24568c861e3d71733d37eae1f82e62fc03d10942d30
+Section: Tweaks
+Description: Disables the sound the device makes when plugged into charger. Compatible with iOS 7 to iOS 9.
+Author: Tony Kraft <iostonykraft@gmail.com>
+Name: NoPowerSound
+
+Package: com.tonykraft.novoicecontrol
+Version: 1.0-1
+Architecture: iphoneos-arm
+Maintainer: Tony Kraft <iostonykraft@gmail.com>
+Installed-Size: 88
+Depends: mobilesubstrate
+Filename: ./debs/com.tonykraft.novoicecontrol_1.0-1_iphoneos-arm.deb
+Size: 3340
+MD5sum: 278802743504289813096376df2f2120
+SHA1: 43173a6ecde18f9efb7ba26afd9f6e1afaac0815
+SHA256: ce4ebefca7d577bb71a64fe81d801055a20cc81a8da3922964b6f09bd934f26f
+Section: Tweaks
+Description: Disables voice control on devices that are on iOS 7 and iOS 8. No options to configure.
+Author: Tony Kraft <iostonykraft@gmail.com>
+Name: NoVoiceControl
+
+Package: com.tonykraft.pandorapro
+Version: 1.2.2
+Architecture: iphoneos-arm
+Maintainer: Tony Kraft <iostonykraft@gmail.com>
+Installed-Size: 124
+Depends: mobilesubstrate
+Filename: ./debs/com.tonykraft.pandorapro_1.2.2_iphoneos-arm.deb
+Size: 7016
+MD5sum: d577b8470db1606ce3e90b5a05974e16
+SHA1: 9de11e9949fe9748058933b03febf922e63cad43
+SHA256: 7a607ef5fbae8304daa9b13c57a322cbf638ec314f23df626a96d602c2b960bc
+Section: Tweaks
+Description: Pandora premium features for free
+Author: Tony Kraft <iostonykraft@gmail.com>
+Depiction: http://iostonykraft.github.io/depictions/com.tonykraft.pandorapro
+Name: PandoraPro
+
+Package: com.tonykraft.perfectfit
+Version: 1.0.1~beta1
+Architecture: iphoneos-arm
+Maintainer: Tony Kraft <iostonykraft@gmail.com>
+Installed-Size: 316
+Depends: mobilesubstrate, firmware (>= 8.0), applist, com.rpetrich.rocketbootstrap (>= 1.0.3)
+Filename: ./debs/com.tonykraft.perfectfit_1.0.1~beta1_iphoneos-arm.deb
+Size: 26730
+MD5sum: 4af31505336e8f57c935800214c106a9
+SHA1: 581dedc3127aaf9707314b2625adfe1a690fb547
+SHA256: 2cc732c168b24615fc623cdf8d3e1feaf15fa7582cfe9609890d27070e81f18f
+Section: Tweaks
+Description: Force apps to fit your screen!
+Author: Tony Kraft <iostonykraft@gmail.com>
+Depiction: http://iostonykraft.github.io/depictions/com.tonykraft.perfectfit.html
+Name: PerfectFit
+
+Package: com.tonykraft.playboxadremover
+Version: 2.0
+Architecture: iphoneos-arm
+Maintainer: Tony Kraft <iostonykraft@gmail.com>
+Installed-Size: 136
+Depends: mobilesubstrate
+Filename: ./debs/com.tonykraft.playboxadremover_2.0_iphoneos-arm.deb
+Size: 3708
+MD5sum: f41fca315015b5610997cc915a690cac
+SHA1: b5fc64ed4d93a2769a9c36ad129aadee93ec946c
+SHA256: 4e7e5bb49494a37476a73e5fabec700be91ddccea8ddab74b5860894356feb00
+Section: Tweaks
+Description: Disables ads in Cinema Box.
+Author: Tony Kraft <iostonykraft@gmail.com>
+Name: CinemaBox Ad Remover
+
+Package: com.tonykraft.recommendedrepos
+Version: 1.3
+Architecture: iphoneos-arm
+Maintainer: Tony Kraft <iostonykraft@gmail.com>
+Replaces: com.myrepospace.Tony999.recommende-list
+Filename: ./debs/com.tonykraft.recommendedrepos_1.3_iphoneos-arm.deb
+Size: 874
+MD5sum: 4f7d8361fecf5e2cafce61c2f1ef73a3
+SHA1: 9785df0ff4e54e14480f0e6a475166e6589776b3
+SHA256: 3db3aa88e58e6e829b565fb3bf5f3a19892a91ad6e5914265cf6e26da171d698
+Section: Utilities
+Description: Install this package to add some trusted repos that I like.
+Author: Tony Kraft <iostonykraft@gmail.com>
+Name: Recommended Repos
+
+Package: com.tonykraft.serviceremover
+Version: 1.1
+Architecture: iphoneos-arm
+Maintainer: Tony Kraft <iostonykraft@gmail.com>
+Filename: ./debs/com.tonykraft.serviceremover_1.1_iphoneos-arm.deb
+Size: 1068
+MD5sum: 7bd22339df5277a193f6f4dcc7d64c46
+SHA1: b459a1e35f473ab190d1769925ab9b307ab59b31
+SHA256: dbe6c637974cb8743f844ed9367ac11bc7fced47401c4c6e77ea64a3e4a0680d
+Section: Security
+Description: Removes the Service malware from your iDevice. Installing the tweak will remove the malware and you can safely remove it. Type serviceremover in terminal to repeat the process.
+Author: Tony Kraft <iostonykraft@gmail.com>
+Name: ServiceRemover
+
+Package: com.tonykraft.soundcloudpro
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Tony Kraft <iostonykraft@gmail.com>
+Installed-Size: 120
+Depends: mobilesubstrate
+Filename: ./debs/com.tonykraft.soundcloudpro_1.0_iphoneos-arm.deb
+Size: 4266
+MD5sum: 92509c5af2e45cdcf4881149ec73e6ae
+SHA1: 16849dcf4a757cebbd7dc39fbb026eb9929a1d2c
+SHA256: c31efd702f08582e240b128ed389439c9b67dba517df2e4ac28062b0236dc6b1
+Section: Tweaks
+Description: Enable downloads and remove ads. To download a track, just add it to a playlist, or like it.
+Author: Tony Kraft <iostonykraft@gmail.com>
+Name: SoundCloudPro
+
+Package: com.tonykraft.supporttheunsupported
+Version: 1.0-3
+Architecture: iphoneos-arm
+Maintainer: Tony Kraft
+Installed-Size: 200
+Depends: mobilesubstrate
+Filename: ./debs/com.tonykraft.supporttheunsupported_1.0-3_iphoneos-arm.deb
+Size: 4952
+MD5sum: a7219d0e586e895a9f3d1d24c4b2051c
+SHA1: d7c4b4e29084f20b03601f1a861395de0550da38
+SHA256: 4dde6fa22fe837a7f61a5c15e8829f19c0604667b01f39b553c0085b36f36ddd
+Section: Tweaks
+Description: Allows iPhones to use “unsupported” accessories. Compatible with iOS 7 and iOS 8.
+Author: Tony Kraft
+Name: SupportTheUnsupported
+
+Package: com.tonykraft.xfinityairplay
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Tony Kraft <iostonykraft@gmail.com>
+Installed-Size: 136
+Depends: mobilesubstrate
+Filename: ./debs/com.tonykraft.xfinityairplay_1.0_iphoneos-arm.deb
+Size: 3552
+MD5sum: b163bc769500fc65dae67bf539673a9f
+SHA1: 99c1a64322a92a7edd4ec216bd5648475eb9ccbc
+SHA256: c7cb0327aa7876b7faef20873bd9f02b5a267545a008118653ea53c6c576f59d
+Section: Tweaks
+Description: Allows devices to airplay Xfinity TV.
+Author: Tony Kraft <iostonykraft@gmail.com>
+Name: Airplay Enabler for Xfinity TV
+
+Package: com.winterboardicon
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Tony Kraft <iostonykraft@gmail.com>
+Filename: ./debs/WinterboardApp.deb
+Size: 165252
+MD5sum: ac6e53f7616dfb1019a15ff328a453e3
+SHA1: 0c3d8134e8d2221da447df39f56a8e62cd25e156
+SHA256: 22306980840f331b255af72a6ae376a8b863d30567e7dd2e25d71a6b56ab4e42
+Section: Apps
+Description: Brings the Winterboard icon back to newer versions.
+Author: Tony Kraft <iostonykraft@gmail.com>
+Name: Winterboard Icon
+
