@@ -429,16 +429,16 @@ Depiction: http://iostonykraft.github.io/depictions/com.tonykraft.pandorapro
 Name: PandoraPro
 
 Package: com.tonykraft.perfectfit
-Version: 1.0.1~beta2
+Version: 1.0.1~beta3
 Architecture: iphoneos-arm
 Maintainer: Tony Kraft <iostonykraft@gmail.com>
-Installed-Size: 316
+Installed-Size: 328
 Depends: mobilesubstrate, firmware (>= 8.0), applist, com.rpetrich.rocketbootstrap (>= 1.0.3)
-Filename: ./debs/com.tonykraft.perfectfit_1.0.1~beta2_iphoneos-arm.deb
-Size: 26316
-MD5sum: 23b0d6042dd8f96ac80c2d0141dccfe8
-SHA1: 4e1ff6e6ba9787c9a8e0ece62129dd0a0612e8eb
-SHA256: 4727103526ea462b071cc555485da1492c25f37804d1972087cf7af1794d64ed
+Filename: ./debs/com.tonykraft.perfectfit_1.0.1~beta3_iphoneos-arm.deb
+Size: 34664
+MD5sum: 769ca56e78ec3bb127900002d3d3828b
+SHA1: c6b2fac0511d6506740415d54933a1812ae0f0d9
+SHA256: a88312654a9d498c779056f168d1980cce8ba4ca7119e5810afd2f6fbf4c40e6
 Section: Tweaks
 Description: Force apps to fit your screen!
 Author: Tony Kraft <iostonykraft@gmail.com>
