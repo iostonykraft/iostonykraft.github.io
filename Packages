@@ -491,19 +491,20 @@ Author: Tony Kraft <iostonykraft@gmail.com>
 Name: ServiceRemover
 
 Package: com.tonykraft.soundcloudpro
-Version: 1.0
+Version: 1.1
 Architecture: iphoneos-arm
 Maintainer: Tony Kraft <iostonykraft@gmail.com>
 Installed-Size: 120
 Depends: mobilesubstrate
-Filename: ./debs/com.tonykraft.soundcloudpro_1.0_iphoneos-arm.deb
-Size: 4266
-MD5sum: 92509c5af2e45cdcf4881149ec73e6ae
-SHA1: 16849dcf4a757cebbd7dc39fbb026eb9929a1d2c
-SHA256: c31efd702f08582e240b128ed389439c9b67dba517df2e4ac28062b0236dc6b1
+Filename: ./debs/com.tonykraft.soundcloudpro_1.1_iphoneos-arm.deb
+Size: 3072
+MD5sum: 4dceeb9e2314637cda889830511b5cc1
+SHA1: 13f6c5ae6b263ca5f67794919f313475a1054195
+SHA256: e66f842bcf58bc8a87205db73d1979948b972ea60714addcb18690a04f349ba4
 Section: Tweaks
-Description: Enable downloads and remove ads. To download a track, just add it to a playlist, or like it.
+Description: Enable downloads and remove ads.
 Author: Tony Kraft <iostonykraft@gmail.com>
+Depiction: http://iostonykraft.github.io/depictions/com.tonykraft.soundcloudpro.html
 Name: SoundCloudPro
 
 Package: com.tonykraft.supporttheunsupported
