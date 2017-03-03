@@ -235,19 +235,20 @@ Author: Tony Kraft <iostonykraft@gmail.com>
 Name: LinkTunes Ad Remover
 
 Package: com.tonykraft.medusaenabler
-Version: 1.1
+Version: 1.2
 Architecture: iphoneos-arm
 Maintainer: Tony Kraft <iostonykraft@gmail.com>
 Installed-Size: 120
 Depends: mobilesubstrate, firmware (>= 9.0)
-Filename: ./debs/com.tonykraft.medusaenabler_1.1_iphoneos-arm.deb
-Size: 4422
-MD5sum: e53a970200c28dc0e5839e9d182e472d
-SHA1: 8d24626f7485118e03f3c3b72157629fe66159a2
-SHA256: 72924f1a201cdb06e4aca80b3e2d4071858dd42d2b976725b18ea7fcceae191b
+Filename: ./debs/com.tonykraft.medusaenabler_1.2_iphoneos-arm.deb
+Size: 3266
+MD5sum: 5a09c959cc00d033b58c46e34f0620a1
+SHA1: 295d7485a8f16ef6540c5ec78e31f35578ad4453
+SHA256: 9f88464a4f890ec209f2f96d37d58fcc01cfb3d801a215849fe47185f2b21fb2
 Section: Tweaks
 Description: Enable the Medusa feature on all devices.
 Author: Tony Kraft <iostonykraft@gmail.com>
+Depiction: http://iostonykraft.github.io/com.tonykraft.medusaenabler.html
 Name: MedusaEnabler
 
 Package: com.tonykraft.movieboxpro
