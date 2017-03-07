@@ -171,16 +171,16 @@ Depiction: http://iostonykraft.github.io/depictions/com.tonykraft.iheartradiopro
 Name: iHeartRadioPro
 
 Package: com.tonykraft.inosleep
-Version: 1.2.1
+Version: 1.2.2
 Architecture: iphoneos-arm
 Maintainer: Tony Kraft <iostonykraft@gmail.com>
 Installed-Size: 296
 Depends: mobilesubstrate
-Filename: ./debs/com.tonykraft.inosleep_1.2.1_iphoneos-arm.deb
-Size: 30162
-MD5sum: 3d14fd56bcddf874f000cafe1d226660
-SHA1: d860898e62345ab8123659bcdbcfe2205cfb0bf0
-SHA256: e7949d048ed8cf9f8c6055c4765307af1d3dee7a437bae10712adad96163fef6
+Filename: ./debs/com.tonykraft.inosleep_1.2.2_iphoneos-arm.deb
+Size: 30276
+MD5sum: 2720b221b3f64cf967d0456e714bb7a0
+SHA1: 49467dffcba3052a6dc5825319033e24848c8ce8
+SHA256: 3a98963fb8b4aeaffd0409e4fbca1ec6e5fc6643c430585d761213f246f2e361
 Section: Tweaks
 Description: Allows Wifi to stay connected when the device is locked.
 Author: Tony Kraft <iostonykraft@gmail.com>
