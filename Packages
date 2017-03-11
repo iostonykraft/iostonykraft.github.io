@@ -525,20 +525,21 @@ Author: Tony Kraft
 Name: SupportTheUnsupported
 
 Package: com.tonykraft.xfinityairplay
-Version: 1.0
+Version: 1.1
 Architecture: iphoneos-arm
 Maintainer: Tony Kraft <iostonykraft@gmail.com>
-Installed-Size: 136
+Installed-Size: 120
 Depends: mobilesubstrate
-Filename: ./debs/com.tonykraft.xfinityairplay_1.0_iphoneos-arm.deb
-Size: 3552
-MD5sum: b163bc769500fc65dae67bf539673a9f
-SHA1: 99c1a64322a92a7edd4ec216bd5648475eb9ccbc
-SHA256: c7cb0327aa7876b7faef20873bd9f02b5a267545a008118653ea53c6c576f59d
+Filename: ./debs/com.tonykraft.xfinityairplay_1.1_iphoneos-arm.deb
+Size: 2956
+MD5sum: b27ca986619926002b86705be016c979
+SHA1: 00a68a230bf9d38ae9f9790f4a950ae1dc63864a
+SHA256: 1287b183cb10de62e6540042e5500ab69e350134715d01b9b171e4061a281e2a
 Section: Tweaks
 Description: Allows devices to airplay Xfinity TV.
 Author: Tony Kraft <iostonykraft@gmail.com>
-Name: Airplay Enabler for Xfinity TV
+Depiction: http://iostonykraft.github.io/depictions/com.tonykraft.xfinityairplay.html
+Name: Airplay Enabler for Xfinity Stream
 
 Package: com.winterboardicon
 Version: 1.0
