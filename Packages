@@ -1,14 +1,14 @@
 Package: com.atwiiks.bdayspotify2
-Version: 1.4.6
+Version: 1.4.7
 Architecture: iphoneos-arm
 Maintainer: Tony Kraft <iostonykraft@gmail.com>
 Installed-Size: 120
 Depends: mobilesubstrate
-Filename: ./debs/com.atwiiks.bdayspotify2_1.4.6_iphoneos-arm.deb
-Size: 10320
-MD5sum: 2cf35ad665f7ebf63f038d514d2ffc22
-SHA1: 12631b2623fd301e5f80ef5e65e2eeb29276a33c
-SHA256: 0516aba749c6150bd498c3515a91b2c75747e7f6155659f90df9e20b0576df8d
+Filename: ./debs/com.atwiiks.bdayspotify2_1.4.7_iphoneos-arm.deb
+Size: 10410
+MD5sum: 8db3cc8901d96ae67863d8c7ffe7cba7
+SHA1: adf5fc9d673c3bb2932ee1881ef63548a48b7337
+SHA256: b764d6797c3d0ea1d9bbf4f585d0754907c74312da8715a4c073c61671f0d160
 Section: Tweaks
 Description: Free Spotify Premium
 Author: Andy Wiik & Tony Kraft <iostonykraft@gmail.com>
