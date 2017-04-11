@@ -413,16 +413,16 @@ Author: Tony Kraft <iostonykraft@gmail.com>
 Name: NoVoiceControl
 
 Package: com.tonykraft.pandorapro
-Version: 1.2.2
+Version: 1.2.3
 Architecture: iphoneos-arm
 Maintainer: Tony Kraft <iostonykraft@gmail.com>
 Installed-Size: 124
 Depends: mobilesubstrate
-Filename: ./debs/com.tonykraft.pandorapro_1.2.2_iphoneos-arm.deb
-Size: 7016
-MD5sum: d577b8470db1606ce3e90b5a05974e16
-SHA1: 9de11e9949fe9748058933b03febf922e63cad43
-SHA256: 7a607ef5fbae8304daa9b13c57a322cbf638ec314f23df626a96d602c2b960bc
+Filename: ./debs/com.tonykraft.pandorapro_1.2.3_iphoneos-arm.deb
+Size: 7376
+MD5sum: d838c2c8864d3453639225ceaf069bb8
+SHA1: 3b5e385f2e97bb6d411f12c8bb711a93266a23b0
+SHA256: 567ac26827f18acbe9b380880f103ee418c6c13f95f2fb19f034d74bbd039e0d
 Section: Tweaks
 Description: Pandora premium features for free
 Author: Tony Kraft <iostonykraft@gmail.com>
