@@ -71,6 +71,23 @@ Author: Tony Kraft <iostonykraft@gmail.com>
 Depiction: http://iostonykraft.github.io/depictions/com.tonykraft.1passpro.html
 Name: 1PassPro
 
+Package: com.tonykraft.8trackspro
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Tony Kraft <iostonykraft@gmail.com>
+Installed-Size: 120
+Depends: mobilesubstrate
+Filename: ./debs/com.tonykraft.8trackspro_1.0_iphoneos-arm.deb
+Size: 2748
+MD5sum: 5299e3c548e92ce47c8eff3c295bab4a
+SHA1: 87c4aed85816c0874d469303b30e0f1519fcadfe
+SHA256: 44199f117415a1c8bf8a8f2476937c4256d16dd6938f4506df689569ac8ddf87
+Section: Tweaks
+Description: Enables 8Tracks premium for free
+Author: Tony Kraft <iostonykraft@gmail.com>
+Depiction: http://iostonykraft.github.io/depictions/com.tonykraft.8trackspro.html
+Name: 8TracksPro
+
 Package: com.tonykraft.antisocial
 Version: 0.1
 Architecture: iphoneos-arm
