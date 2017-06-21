@@ -398,19 +398,20 @@ Depiction: http://iostonykraft.github.io/depictions/com.tonykraft.nopluginbutton
 Name: NoPluginButtons for Messages
 
 Package: com.tonykraft.nopowersound
-Version: 1.0-1
+Version: 1.1
 Architecture: iphoneos-arm
 Maintainer: Tony Kraft <iostonykraft@gmail.com>
-Installed-Size: 200
+Installed-Size: 168
 Depends: mobilesubstrate
-Filename: ./debs/com.tonykraft.nopowersound_1.0-1_iphoneos-arm.deb
-Size: 4696
-MD5sum: ce79c7409763fe0856df4a78cd850f20
-SHA1: cb23c9a8f9d0eb30fd68c265b62ffbd35cbafaa7
-SHA256: 0894b4ab6d8099dbe8e5a24568c861e3d71733d37eae1f82e62fc03d10942d30
+Filename: ./debs/com.tonykraft.nopowersound_1.1_iphoneos-arm.deb
+Size: 3214
+MD5sum: 48eb479962f72d651425e089c48ac6c9
+SHA1: efb80b3c164389c5321e1ed401b248786a769c54
+SHA256: 7bad7c2916b74bd08cef7779a11fa17b8b55e8d08815defbce4ecb475b54efd9
 Section: Tweaks
-Description: Disables the sound the device makes when plugged into charger. Compatible with iOS 7 to iOS 9.
+Description: Disables charger sound
 Author: Tony Kraft <iostonykraft@gmail.com>
+Depiction: http://iostonykraft.github.io/depictions/com.tonykraft.nopowersound.html
 Name: NoPowerSound
 
 Package: com.tonykraft.novoicecontrol
