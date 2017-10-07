@@ -542,6 +542,24 @@ Description: Allows iPhones to use “unsupported” accessories. Compatible wit
 Author: Tony Kraft
 Name: SupportTheUnsupported
 
+Package: com.tonykraft.tinderpro
+Version: 2.0
+Architecture: iphoneos-arm
+Maintainer: Tony Kraft <iostonykraft@gmail.com>
+Installed-Size: 120
+Depends: mobilesubstrate
+Replaces: com.devios.tinderpro
+Filename: ./debs/com.tonykraft.tinderpro_2.0_iphoneos-arm.deb
+Size: 3096
+MD5sum: b5a3f113ad7b46f1878791f35f02c5ab
+SHA1: 0cb4fd2c01402edba2c32dcb945418fe8586ecfb
+SHA256: 53f4abf237a2a012b81ef2c198ac5c6dcd909811987b6d3587cff4d93d24a4ed
+Section: Tweaks
+Description: Tinder Plus/Gold for free
+Author: Tony Kraft <iostonykraft@gmail.com>
+Depiction: http://iostonykraft.github.io/depictions/com.tonykraft.tinderpro.html
+Name: TinderPro
+
 Package: com.tonykraft.xfinityairplay
 Version: 1.1
 Architecture: iphoneos-arm
