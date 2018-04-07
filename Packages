@@ -527,19 +527,20 @@ Depiction: http://iostonykraft.github.io/depictions/com.tonykraft.soundcloudpro.
 Name: SoundCloudPro
 
 Package: com.tonykraft.supporttheunsupported
-Version: 1.0-3
+Version: 1.1
 Architecture: iphoneos-arm
-Maintainer: Tony Kraft
-Installed-Size: 200
+Maintainer: Tony Kraft <iostonykraft@gmail.com>
+Installed-Size: 120
 Depends: mobilesubstrate
-Filename: ./debs/com.tonykraft.supporttheunsupported_1.0-3_iphoneos-arm.deb
-Size: 4952
-MD5sum: a7219d0e586e895a9f3d1d24c4b2051c
-SHA1: d7c4b4e29084f20b03601f1a861395de0550da38
-SHA256: 4dde6fa22fe837a7f61a5c15e8829f19c0604667b01f39b553c0085b36f36ddd
+Filename: ./debs/com.tonykraft.supporttheunsupported_1.1_iphoneos-arm.deb
+Size: 3374
+MD5sum: 116916e25d9d3c43b43548d5ae162f3d
+SHA1: f96f5b1532a4246edd275c2138a31899b27af147
+SHA256: 8bd0e8b5fc95979636ba75ce7fd10b1443b9f79613aea17df006ef589c5b7e58
 Section: Tweaks
-Description: Allows iPhones to use “unsupported” accessories. Compatible with iOS 7 and iOS 8.
-Author: Tony Kraft
+Description: Allows iPhones to use “unsupported” accessories
+Author: Tony Kraft <iostonykraft@gmail.com>
+Depiction: http://iostonykraft.github.io/depictions/com.tonykraft.supporttheunsupported.html
 Name: SupportTheUnsupported
 
 Package: com.tonykraft.tinderpro
