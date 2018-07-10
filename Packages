@@ -106,19 +106,20 @@ Depiction: http://iostonykraft.github.io/depictions/com.tonykraft.antisocial.htm
 Name: AntiSocial
 
 Package: com.tonykraft.crunchyrolladremover
-Version: 1.0-1
+Version: 1.1
 Architecture: iphoneos-arm
 Maintainer: Tony Kraft <iostonykraft@gmail.com>
-Installed-Size: 88
+Installed-Size: 120
 Depends: mobilesubstrate
-Filename: ./debs/com.tonykraft.crunchyrolladremover_1.0-1_iphoneos-arm.deb
-Size: 3636
-MD5sum: 486de093a73dd3ca2cb679460cc404de
-SHA1: 693cfa61ce22e33c3273272021a9cf64b36dd2a2
-SHA256: f2d9da53b2f448ee29085845f6c4345b5628e0f84ce99396f24c4d7dd153a469
+Filename: ./debs/com.tonykraft.crunchyrolladremover_1.1_iphoneos-arm.deb
+Size: 3804
+MD5sum: dbf4af0e8353d22b228b0c8909f70e7b
+SHA1: 2168cc7200c677704b6610d922cc7b084a6ceb11
+SHA256: 7f74479d058bdb56e87b2491d6dbdb63134d0a2bcb4eea78fb78664a78e23374
 Section: Tweaks
-Description: Removes ads in the Crunchyroll app. Requested by @cubenstien on Twitter.
+Description: Removes ads in the Crunchyroll app
 Author: Tony Kraft <iostonykraft@gmail.com>
+Depiction: http://iostonykraft.github.io/depictions/com.tonykraft.crunchyrolladremover.html
 Name: Crunchyroll Ad Remover
 
 Package: com.tonykraft.customnc
